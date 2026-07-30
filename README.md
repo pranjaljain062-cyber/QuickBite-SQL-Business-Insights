@@ -58,11 +58,6 @@ The database consists of five interconnected tables.
 
 ---
 
-# 📐 Entity Relationship Diagram
-
-![ER Diagram](ER_Diagram.svg)
-
----
 
 # 📂 Repository Structure
 
