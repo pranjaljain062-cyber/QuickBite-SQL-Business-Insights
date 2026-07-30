@@ -1,0 +1,101 @@
+restaurant_name,city,cuisine,rating
+Spice Hub 1,Mumbai,Desserts,4.97
+Tandoori House 2,Chennai,South Indian,4.1
+Food Factory 3,Jaipur,South Indian,3.14
+Green Bowl 4,Ahmedabad,Chinese,4.45
+Masala Magic 5,Hyderabad,North Indian,4.48
+Burger Point 6,Ahmedabad,North Indian,3.51
+Spice Hub 7,Surat,South Indian,4.98
+Saffron Kitchen 8,Pune,Desserts,4.57
+Saffron Kitchen 9,Kolkata,Fast Food,3.09
+Cafe Delight 10,Bengaluru,Italian,4.33
+Curry Corner 11,Mumbai,Biryani,3.39
+Fusion Feast 12,Delhi,North Indian,4.68
+Pizza Palace 13,Mumbai,North Indian,3.78
+Burger Point 14,Chennai,Biryani,3.01
+Royal Biryani 15,Ahmedabad,Fast Food,3.38
+Tandoori House 16,Surat,Biryani,4.21
+Curry Corner 17,Surat,Cafe,4.02
+Curry Corner 18,Mumbai,South Indian,3.44
+Royal Biryani 19,Pune,Italian,4.52
+Taste Town 20,Kolkata,South Indian,3.18
+The Hungry Fork 21,Bengaluru,Desserts,4.24
+Urban Tadka 22,Mumbai,South Indian,3.41
+Spice Hub 23,Pune,Mexican,3.01
+Green Bowl 24,Pune,Biryani,3.31
+The Hungry Fork 25,Chennai,Mexican,4.21
+The Hungry Fork 26,Pune,Desserts,4.58
+Burger Point 27,Bengaluru,Italian,4.83
+Urban Tadka 28,Delhi,Desserts,3.41
+Cafe Delight 29,Bengaluru,Italian,4.91
+Urban Tadka 30,Hyderabad,Mexican,4.85
+Burger Point 31,Pune,North Indian,4.35
+Saffron Kitchen 32,Ahmedabad,Biryani,3.05
+Food Factory 33,Pune,Fast Food,4.61
+Food Factory 34,Ahmedabad,Italian,3.1
+Masala Magic 35,Chennai,North Indian,4.17
+Tandoori House 36,Bengaluru,Cafe,4.39
+Fusion Feast 37,Ahmedabad,Desserts,3.63
+Taste Town 38,Pune,Mexican,3.34
+Burger Point 39,Chennai,North Indian,3.03
+Pizza Palace 40,Surat,North Indian,3.26
+Cafe Delight 41,Ahmedabad,Desserts,3.9
+Cafe Delight 42,Surat,Mexican,4.08
+Urban Tadka 43,Delhi,Biryani,3.74
+Tandoori House 44,Pune,Italian,3.88
+The Hungry Fork 45,Hyderabad,Chinese,4.12
+Spice Hub 46,Jaipur,Fast Food,3.53
+Cafe Delight 47,Ahmedabad,Fast Food,4.1
+Cafe Delight 48,Chennai,Biryani,3.5
+Saffron Kitchen 49,Kolkata,North Indian,3.01
+The Hungry Fork 50,Bengaluru,South Indian,4.53
+Taste Town 51,Pune,Italian,4.27
+Tandoori House 52,Mumbai,North Indian,3.91
+Food Factory 53,Surat,South Indian,4.25
+Curry Corner 54,Chennai,Mexican,4.04
+The Hungry Fork 55,Surat,South Indian,3.77
+Taste Town 56,Delhi,Desserts,3.92
+Curry Corner 57,Ahmedabad,North Indian,3.64
+Fusion Feast 58,Delhi,Chinese,3.25
+Food Factory 59,Jaipur,North Indian,3.75
+Pizza Palace 60,Chennai,North Indian,4.76
+Pizza Palace 61,Pune,South Indian,3.48
+Saffron Kitchen 62,Ahmedabad,Italian,3.16
+Masala Magic 63,Hyderabad,Chinese,4.77
+Urban Tadka 64,Kolkata,North Indian,3.59
+Spice Hub 65,Pune,Biryani,4.9
+Green Bowl 66,Jaipur,Desserts,3.73
+Urban Tadka 67,Jaipur,Fast Food,3.91
+Spice Hub 68,Mumbai,Mexican,4.89
+Cafe Delight 69,Bengaluru,Biryani,4.4
+Spice Hub 70,Ahmedabad,Italian,4.56
+Food Factory 71,Ahmedabad,Cafe,4.52
+Urban Tadka 72,Ahmedabad,North Indian,3.36
+Pizza Palace 73,Delhi,Cafe,4.36
+Curry Corner 74,Jaipur,Italian,3.11
+Masala Magic 75,Mumbai,North Indian,3.22
+Masala Magic 76,Ahmedabad,Cafe,4.89
+Spice Hub 77,Bengaluru,Mexican,4.13
+Green Bowl 78,Ahmedabad,Desserts,3.83
+Burger Point 79,Surat,Mexican,4.13
+Green Bowl 80,Mumbai,Italian,4.96
+Cafe Delight 81,Kolkata,Mexican,3.89
+Saffron Kitchen 82,Delhi,South Indian,3.49
+Burger Point 83,Kolkata,Cafe,3.81
+Taste Town 84,Pune,Desserts,3.84
+Food Factory 85,Chennai,Fast Food,4.11
+Fusion Feast 86,Pune,Biryani,4.96
+Urban Tadka 87,Chennai,Chinese,3.82
+Masala Magic 88,Ahmedabad,Cafe,3.14
+Green Bowl 89,Bengaluru,Chinese,4.72
+Royal Biryani 90,Surat,Italian,3.57
+Urban Tadka 91,Surat,Biryani,3.35
+Cafe Delight 92,Kolkata,Fast Food,4.18
+Royal Biryani 93,Pune,Desserts,4.64
+Fusion Feast 94,Bengaluru,Mexican,4.11
+Spice Hub 95,Hyderabad,North Indian,4.04
+Masala Magic 96,Jaipur,Cafe,3.32
+Spice Hub 97,Chennai,Desserts,4.96
+The Hungry Fork 98,Bengaluru,Italian,3.6
+Masala Magic 99,Jaipur,North Indian,3.58
+Royal Biryani 100,Bengaluru,North Indian,4.98

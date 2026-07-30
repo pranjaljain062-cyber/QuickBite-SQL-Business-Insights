@@ -1,0 +1,5001 @@
+restaurant_id,item_name,category,price
+75,Gulab Jamun,Dessert,13.45
+75,Margherita Pizza,Pizza,7.27
+11,Biryani,Main Course,14.85
+25,Pepperoni Pizza,Pizza,22.85
+26,Pepperoni Pizza,Pizza,12.14
+3,Farmhouse Pizza,Pizza,7.17
+4,Coke,Beverage,11.76
+78,Farmhouse Pizza,Pizza,10.12
+69,Farmhouse Pizza,Pizza,15.12
+23,Coke,Beverage,20.01
+65,Brownie,Dessert,11.78
+49,Pepperoni Pizza,Pizza,26.36
+60,Biryani,Main Course,23.07
+80,Butter Chicken,Main Course,6.07
+60,Farmhouse Pizza,Pizza,8.96
+42,Coke,Beverage,15.85
+13,Pepperoni Pizza,Pizza,7.81
+65,Veg Burger,Burger,22.71
+25,Mango Shake,Beverage,22.78
+57,Paneer Butter Masala,Main Course,10.12
+75,Pepperoni Pizza,Pizza,18.34
+92,Farmhouse Pizza,Pizza,12.12
+48,Pepperoni Pizza,Pizza,15.42
+63,Lemonade,Beverage,28.23
+86,Butter Chicken,Main Course,6.05
+9,Farmhouse Pizza,Pizza,3.98
+11,Chicken Burger,Burger,24.05
+51,Coke,Beverage,23.73
+11,Lemonade,Beverage,10.59
+28,Mango Shake,Beverage,6.31
+65,Butter Chicken,Main Course,16.81
+79,Ice Cream,Dessert,23.26
+27,Brownie,Dessert,25.84
+85,Biryani,Main Course,10.34
+23,Veg Supreme,Pizza,11.82
+10,Mango Shake,Beverage,16.25
+85,Paneer Butter Masala,Main Course,17.14
+1,Coke,Beverage,11.94
+42,Pepperoni Pizza,Pizza,29.89
+18,Ice Cream,Dessert,29.97
+75,Coke,Beverage,16.87
+68,Gulab Jamun,Dessert,22.82
+75,Biryani,Main Course,28.06
+21,Butter Chicken,Main Course,22.8
+9,Lemonade,Beverage,22.62
+72,Gulab Jamun,Dessert,20.47
+9,Paneer Burger,Burger,11.63
+36,Ice Cream,Dessert,19.56
+46,Cheese Burger,Burger,27.68
+51,Chicken Burger,Burger,8.58
+86,Brownie,Dessert,5.13
+29,Margherita Pizza,Pizza,18.2
+56,Veg Burger,Burger,15.92
+48,Pepperoni Pizza,Pizza,28.27
+82,Veg Burger,Burger,20.49
+80,Chicken Burger,Burger,4.53
+84,Mango Shake,Beverage,17.53
+14,Lemonade,Beverage,11.18
+57,Paneer Burger,Burger,3.9
+87,Fried Rice,Main Course,13.48
+62,Cold Coffee,Beverage,4.2
+63,Paneer Burger,Burger,15.92
+33,Gulab Jamun,Dessert,9.21
+84,Brownie,Dessert,22.89
+4,Chicken Burger,Burger,5.69
+93,Biryani,Main Course,7.84
+76,Veg Burger,Burger,20.0
+16,Margherita Pizza,Pizza,26.27
+58,Biryani,Main Course,11.63
+74,Paneer Butter Masala,Main Course,22.28
+91,Coke,Beverage,24.88
+71,Paneer Butter Masala,Main Course,4.66
+70,Butter Chicken,Main Course,13.79
+74,Brownie,Dessert,14.68
+65,Veg Supreme,Pizza,14.07
+27,Paneer Burger,Burger,6.08
+65,Paneer Butter Masala,Main Course,6.97
+45,Farmhouse Pizza,Pizza,19.31
+100,Pepperoni Pizza,Pizza,7.6
+6,Paneer Butter Masala,Main Course,8.98
+46,Cheesecake,Dessert,7.79
+97,Mango Shake,Beverage,14.95
+100,Veg Burger,Burger,19.75
+72,Cheese Burger,Burger,10.66
+20,Lemonade,Beverage,25.01
+46,Margherita Pizza,Pizza,10.35
+80,Brownie,Dessert,16.3
+49,Margherita Pizza,Pizza,16.84
+26,Veg Supreme,Pizza,14.23
+96,Cold Coffee,Beverage,18.09
+70,Coke,Beverage,16.53
+7,Coke,Beverage,8.97
+13,Margherita Pizza,Pizza,10.65
+53,Ice Cream,Dessert,18.86
+91,Lemonade,Beverage,14.15
+75,Cold Coffee,Beverage,5.81
+78,Cold Coffee,Beverage,20.93
+53,Biryani,Main Course,5.18
+95,Cold Coffee,Beverage,9.07
+25,Mango Shake,Beverage,20.44
+14,Farmhouse Pizza,Pizza,5.67
+41,Gulab Jamun,Dessert,3.24
+77,Biryani,Main Course,7.09
+4,Veg Burger,Burger,16.05
+100,Veg Supreme,Pizza,10.91
+84,Veg Supreme,Pizza,6.98
+70,Veg Burger,Burger,27.33
+72,Gulab Jamun,Dessert,11.03
+97,Biryani,Main Course,22.72
+65,Paneer Butter Masala,Main Course,20.19
+12,Cold Coffee,Beverage,13.36
+75,Coke,Beverage,6.11
+79,Ice Cream,Dessert,5.57
+30,Veg Supreme,Pizza,6.94
+72,Paneer Butter Masala,Main Course,13.33
+7,Brownie,Dessert,20.8
+49,Veg Burger,Burger,15.08
+45,Cheese Burger,Burger,3.32
+58,Veg Burger,Burger,11.03
+59,Cold Coffee,Beverage,23.73
+7,Cheesecake,Dessert,20.27
+82,Coke,Beverage,3.45
+23,Gulab Jamun,Dessert,16.59
+10,Mango Shake,Beverage,13.91
+12,Coke,Beverage,27.78
+18,Veg Burger,Burger,7.39
+25,Lemonade,Beverage,16.87
+73,Fried Rice,Main Course,9.23
+94,Fried Rice,Main Course,14.29
+61,Brownie,Dessert,9.78
+89,Farmhouse Pizza,Pizza,23.66
+61,Mango Shake,Beverage,9.18
+89,Coke,Beverage,6.8
+32,Coke,Beverage,6.53
+41,Chicken Burger,Burger,26.69
+39,Butter Chicken,Main Course,11.03
+99,Coke,Beverage,19.34
+60,Ice Cream,Dessert,4.83
+55,Ice Cream,Dessert,3.09
+9,Coke,Beverage,27.88
+45,Cheese Burger,Burger,15.89
+98,Pepperoni Pizza,Pizza,3.54
+73,Lemonade,Beverage,18.25
+97,Mango Shake,Beverage,24.62
+59,Farmhouse Pizza,Pizza,5.19
+27,Cheese Burger,Burger,5.33
+50,Fried Rice,Main Course,13.3
+83,Paneer Butter Masala,Main Course,11.07
+73,Coke,Beverage,9.34
+86,Farmhouse Pizza,Pizza,22.17
+1,Veg Supreme,Pizza,6.07
+75,Cheesecake,Dessert,11.53
+88,Pepperoni Pizza,Pizza,18.86
+44,Ice Cream,Dessert,11.9
+46,Gulab Jamun,Dessert,28.0
+80,Paneer Burger,Burger,11.03
+37,Margherita Pizza,Pizza,16.62
+70,Ice Cream,Dessert,21.22
+2,Cheese Burger,Burger,19.87
+4,Paneer Burger,Burger,13.74
+33,Mango Shake,Beverage,15.83
+53,Coke,Beverage,23.77
+30,Lemonade,Beverage,26.06
+94,Chicken Burger,Burger,7.79
+73,Butter Chicken,Main Course,20.88
+47,Pepperoni Pizza,Pizza,27.66
+85,Margherita Pizza,Pizza,23.96
+55,Mango Shake,Beverage,4.43
+38,Gulab Jamun,Dessert,26.22
+73,Margherita Pizza,Pizza,24.14
+89,Gulab Jamun,Dessert,4.2
+27,Veg Supreme,Pizza,6.36
+93,Veg Supreme,Pizza,5.9
+82,Fried Rice,Main Course,29.13
+49,Margherita Pizza,Pizza,23.97
+22,Paneer Burger,Burger,26.08
+12,Veg Burger,Burger,29.49
+98,Chicken Burger,Burger,23.97
+10,Veg Burger,Burger,15.77
+76,Cold Coffee,Beverage,7.63
+13,Paneer Butter Masala,Main Course,5.57
+60,Veg Burger,Burger,11.75
+20,Cold Coffee,Beverage,29.14
+43,Biryani,Main Course,9.75
+58,Cold Coffee,Beverage,23.02
+95,Brownie,Dessert,9.47
+31,Paneer Burger,Burger,26.43
+74,Ice Cream,Dessert,15.09
+44,Veg Burger,Burger,18.45
+90,Paneer Butter Masala,Main Course,10.59
+96,Veg Supreme,Pizza,14.5
+56,Margherita Pizza,Pizza,10.97
+44,Fried Rice,Main Course,29.95
+59,Mango Shake,Beverage,18.24
+15,Butter Chicken,Main Course,24.53
+71,Margherita Pizza,Pizza,4.62
+42,Coke,Beverage,11.04
+63,Gulab Jamun,Dessert,9.51
+57,Cheese Burger,Burger,28.55
+76,Cold Coffee,Beverage,22.17
+13,Mango Shake,Beverage,12.16
+54,Brownie,Dessert,19.78
+97,Veg Burger,Burger,26.91
+37,Lemonade,Beverage,14.75
+12,Margherita Pizza,Pizza,10.33
+35,Margherita Pizza,Pizza,9.99
+96,Cheese Burger,Burger,12.51
+29,Paneer Burger,Burger,25.99
+74,Ice Cream,Dessert,14.0
+25,Cold Coffee,Beverage,7.64
+31,Gulab Jamun,Dessert,18.65
+16,Brownie,Dessert,25.14
+12,Gulab Jamun,Dessert,13.51
+47,Veg Supreme,Pizza,16.06
+93,Brownie,Dessert,25.78
+28,Mango Shake,Beverage,18.75
+15,Cheese Burger,Burger,17.51
+58,Veg Burger,Burger,3.01
+78,Veg Supreme,Pizza,10.97
+76,Cheese Burger,Burger,22.42
+79,Pepperoni Pizza,Pizza,3.05
+17,Mango Shake,Beverage,8.46
+58,Chicken Burger,Burger,5.6
+23,Paneer Butter Masala,Main Course,5.0
+90,Paneer Butter Masala,Main Course,18.25
+7,Pepperoni Pizza,Pizza,8.23
+8,Mango Shake,Beverage,26.92
+80,Fried Rice,Main Course,27.04
+82,Cold Coffee,Beverage,11.69
+51,Brownie,Dessert,10.98
+69,Lemonade,Beverage,9.09
+27,Margherita Pizza,Pizza,13.51
+42,Butter Chicken,Main Course,8.74
+29,Pepperoni Pizza,Pizza,28.36
+57,Margherita Pizza,Pizza,23.47
+61,Paneer Burger,Burger,17.53
+20,Chicken Burger,Burger,23.75
+73,Farmhouse Pizza,Pizza,6.09
+98,Farmhouse Pizza,Pizza,26.74
+81,Veg Burger,Burger,5.45
+85,Cheese Burger,Burger,21.31
+39,Cheesecake,Dessert,19.31
+12,Veg Burger,Burger,14.38
+97,Cold Coffee,Beverage,5.14
+1,Veg Burger,Burger,17.97
+32,Veg Burger,Burger,12.99
+82,Mango Shake,Beverage,11.72
+3,Veg Supreme,Pizza,22.13
+69,Paneer Butter Masala,Main Course,19.58
+57,Veg Burger,Burger,3.12
+2,Paneer Burger,Burger,3.84
+76,Paneer Burger,Burger,27.82
+97,Cheese Burger,Burger,13.35
+3,Mango Shake,Beverage,23.84
+55,Margherita Pizza,Pizza,6.1
+86,Margherita Pizza,Pizza,19.7
+34,Lemonade,Beverage,13.16
+72,Gulab Jamun,Dessert,19.22
+55,Cheese Burger,Burger,20.82
+91,Brownie,Dessert,12.77
+43,Farmhouse Pizza,Pizza,6.16
+81,Fried Rice,Main Course,13.88
+93,Margherita Pizza,Pizza,26.69
+42,Farmhouse Pizza,Pizza,27.17
+7,Veg Burger,Burger,26.73
+31,Cheese Burger,Burger,11.02
+75,Fried Rice,Main Course,26.53
+16,Gulab Jamun,Dessert,3.07
+77,Mango Shake,Beverage,11.4
+53,Lemonade,Beverage,15.25
+35,Biryani,Main Course,3.41
+45,Butter Chicken,Main Course,28.02
+89,Cold Coffee,Beverage,21.41
+26,Veg Burger,Burger,4.77
+18,Cold Coffee,Beverage,8.78
+98,Butter Chicken,Main Course,5.32
+16,Mango Shake,Beverage,28.51
+26,Paneer Butter Masala,Main Course,3.22
+30,Chicken Burger,Burger,28.47
+97,Butter Chicken,Main Course,6.25
+5,Mango Shake,Beverage,13.24
+65,Brownie,Dessert,24.93
+55,Gulab Jamun,Dessert,18.77
+59,Cheesecake,Dessert,16.52
+27,Veg Supreme,Pizza,26.73
+27,Veg Supreme,Pizza,3.17
+10,Margherita Pizza,Pizza,4.04
+20,Mango Shake,Beverage,7.34
+52,Farmhouse Pizza,Pizza,10.47
+82,Mango Shake,Beverage,10.55
+97,Paneer Butter Masala,Main Course,27.41
+72,Fried Rice,Main Course,11.94
+76,Biryani,Main Course,21.82
+58,Cheesecake,Dessert,4.1
+48,Biryani,Main Course,6.84
+45,Paneer Burger,Burger,10.89
+86,Chicken Burger,Burger,28.22
+89,Cheesecake,Dessert,28.3
+46,Brownie,Dessert,15.04
+53,Margherita Pizza,Pizza,14.91
+89,Cold Coffee,Beverage,26.2
+55,Lemonade,Beverage,11.88
+35,Gulab Jamun,Dessert,10.25
+84,Ice Cream,Dessert,24.15
+50,Butter Chicken,Main Course,28.39
+14,Lemonade,Beverage,14.31
+4,Butter Chicken,Main Course,29.14
+22,Lemonade,Beverage,25.1
+26,Margherita Pizza,Pizza,27.19
+49,Butter Chicken,Main Course,20.55
+15,Paneer Butter Masala,Main Course,18.55
+49,Ice Cream,Dessert,29.65
+17,Paneer Burger,Burger,8.66
+95,Veg Supreme,Pizza,22.81
+28,Lemonade,Beverage,4.34
+4,Ice Cream,Dessert,26.31
+14,Veg Burger,Burger,7.41
+8,Chicken Burger,Burger,21.06
+87,Mango Shake,Beverage,9.16
+78,Butter Chicken,Main Course,17.95
+54,Margherita Pizza,Pizza,11.9
+76,Gulab Jamun,Dessert,10.1
+60,Mango Shake,Beverage,13.62
+96,Ice Cream,Dessert,28.79
+6,Fried Rice,Main Course,5.93
+93,Farmhouse Pizza,Pizza,16.41
+71,Ice Cream,Dessert,6.61
+91,Cold Coffee,Beverage,22.93
+12,Mango Shake,Beverage,20.07
+87,Veg Supreme,Pizza,18.33
+6,Coke,Beverage,22.65
+15,Ice Cream,Dessert,15.23
+43,Biryani,Main Course,7.68
+72,Mango Shake,Beverage,28.14
+84,Pepperoni Pizza,Pizza,22.97
+10,Fried Rice,Main Course,25.71
+53,Veg Supreme,Pizza,8.42
+12,Pepperoni Pizza,Pizza,5.01
+72,Gulab Jamun,Dessert,7.18
+90,Coke,Beverage,21.11
+86,Brownie,Dessert,25.22
+35,Cheesecake,Dessert,16.02
+82,Pepperoni Pizza,Pizza,9.34
+66,Biryani,Main Course,16.93
+91,Paneer Butter Masala,Main Course,11.5
+84,Biryani,Main Course,11.18
+8,Paneer Butter Masala,Main Course,21.82
+79,Paneer Burger,Burger,12.43
+24,Butter Chicken,Main Course,21.18
+84,Coke,Beverage,11.02
+37,Mango Shake,Beverage,21.66
+31,Pepperoni Pizza,Pizza,16.27
+19,Coke,Beverage,24.02
+60,Butter Chicken,Main Course,24.85
+32,Veg Supreme,Pizza,18.28
+78,Brownie,Dessert,8.17
+45,Pepperoni Pizza,Pizza,22.47
+81,Lemonade,Beverage,13.5
+80,Coke,Beverage,20.87
+73,Gulab Jamun,Dessert,28.44
+74,Fried Rice,Main Course,8.97
+66,Cheese Burger,Burger,22.81
+62,Biryani,Main Course,20.29
+64,Gulab Jamun,Dessert,25.46
+25,Mango Shake,Beverage,13.59
+93,Cheesecake,Dessert,3.79
+94,Paneer Burger,Burger,25.54
+12,Cheese Burger,Burger,22.07
+6,Cheese Burger,Burger,18.17
+89,Mango Shake,Beverage,23.34
+73,Brownie,Dessert,14.44
+70,Ice Cream,Dessert,6.03
+30,Mango Shake,Beverage,11.02
+22,Ice Cream,Dessert,18.14
+30,Gulab Jamun,Dessert,21.01
+94,Cheese Burger,Burger,25.89
+14,Mango Shake,Beverage,13.31
+23,Farmhouse Pizza,Pizza,21.38
+5,Cheesecake,Dessert,5.05
+77,Pepperoni Pizza,Pizza,5.61
+32,Chicken Burger,Burger,28.81
+43,Farmhouse Pizza,Pizza,17.77
+92,Paneer Butter Masala,Main Course,28.28
+89,Paneer Burger,Burger,6.42
+65,Farmhouse Pizza,Pizza,28.22
+89,Margherita Pizza,Pizza,16.85
+93,Gulab Jamun,Dessert,25.96
+2,Cheese Burger,Burger,19.78
+43,Fried Rice,Main Course,27.75
+96,Veg Burger,Burger,6.86
+23,Paneer Burger,Burger,29.95
+98,Veg Supreme,Pizza,7.8
+79,Brownie,Dessert,28.83
+100,Cheesecake,Dessert,28.1
+41,Cold Coffee,Beverage,14.81
+100,Paneer Butter Masala,Main Course,14.26
+38,Cold Coffee,Beverage,12.52
+98,Pepperoni Pizza,Pizza,24.66
+22,Fried Rice,Main Course,17.41
+13,Farmhouse Pizza,Pizza,15.93
+29,Gulab Jamun,Dessert,16.65
+84,Ice Cream,Dessert,19.33
+30,Butter Chicken,Main Course,15.62
+84,Fried Rice,Main Course,27.87
+93,Ice Cream,Dessert,6.4
+1,Veg Supreme,Pizza,27.44
+75,Paneer Butter Masala,Main Course,9.76
+67,Mango Shake,Beverage,29.33
+92,Cheesecake,Dessert,11.04
+79,Coke,Beverage,26.97
+97,Margherita Pizza,Pizza,9.71
+85,Pepperoni Pizza,Pizza,24.23
+92,Butter Chicken,Main Course,9.94
+20,Gulab Jamun,Dessert,16.98
+73,Pepperoni Pizza,Pizza,3.69
+75,Coke,Beverage,25.12
+35,Mango Shake,Beverage,17.5
+53,Paneer Butter Masala,Main Course,4.81
+78,Chicken Burger,Burger,23.89
+68,Biryani,Main Course,4.19
+100,Paneer Burger,Burger,18.3
+59,Coke,Beverage,11.67
+91,Mango Shake,Beverage,17.21
+69,Ice Cream,Dessert,29.11
+20,Cheesecake,Dessert,23.06
+100,Butter Chicken,Main Course,17.94
+44,Cheesecake,Dessert,27.75
+47,Veg Burger,Burger,22.88
+96,Paneer Butter Masala,Main Course,17.84
+33,Veg Supreme,Pizza,15.18
+60,Butter Chicken,Main Course,25.55
+54,Mango Shake,Beverage,11.11
+28,Farmhouse Pizza,Pizza,10.03
+74,Gulab Jamun,Dessert,18.57
+55,Veg Supreme,Pizza,20.73
+83,Coke,Beverage,19.29
+6,Chicken Burger,Burger,19.06
+94,Cheesecake,Dessert,21.59
+96,Cold Coffee,Beverage,20.84
+26,Brownie,Dessert,14.4
+31,Paneer Burger,Burger,6.89
+65,Farmhouse Pizza,Pizza,29.21
+78,Coke,Beverage,28.61
+56,Paneer Burger,Burger,23.9
+6,Cheese Burger,Burger,12.74
+57,Gulab Jamun,Dessert,3.52
+55,Biryani,Main Course,12.93
+84,Chicken Burger,Burger,16.39
+76,Margherita Pizza,Pizza,19.7
+97,Biryani,Main Course,10.14
+27,Cheesecake,Dessert,14.77
+1,Biryani,Main Course,7.11
+44,Ice Cream,Dessert,6.26
+61,Biryani,Main Course,26.26
+59,Coke,Beverage,23.99
+75,Mango Shake,Beverage,24.98
+42,Butter Chicken,Main Course,8.51
+6,Pepperoni Pizza,Pizza,14.05
+96,Veg Burger,Burger,29.81
+59,Brownie,Dessert,28.23
+87,Brownie,Dessert,16.3
+43,Mango Shake,Beverage,10.05
+11,Farmhouse Pizza,Pizza,18.24
+40,Chicken Burger,Burger,18.31
+45,Farmhouse Pizza,Pizza,28.7
+22,Ice Cream,Dessert,8.53
+91,Fried Rice,Main Course,29.62
+63,Gulab Jamun,Dessert,3.22
+17,Veg Supreme,Pizza,23.74
+93,Ice Cream,Dessert,9.51
+37,Veg Supreme,Pizza,15.19
+86,Biryani,Main Course,25.5
+50,Gulab Jamun,Dessert,13.81
+68,Paneer Burger,Burger,23.58
+100,Fried Rice,Main Course,14.36
+57,Butter Chicken,Main Course,20.59
+41,Margherita Pizza,Pizza,17.64
+57,Paneer Burger,Burger,8.24
+18,Mango Shake,Beverage,8.55
+81,Paneer Butter Masala,Main Course,18.16
+96,Ice Cream,Dessert,20.2
+15,Paneer Butter Masala,Main Course,24.47
+37,Pepperoni Pizza,Pizza,5.45
+16,Pepperoni Pizza,Pizza,3.66
+33,Biryani,Main Course,14.27
+39,Cheese Burger,Burger,29.77
+37,Lemonade,Beverage,4.33
+41,Coke,Beverage,16.43
+91,Farmhouse Pizza,Pizza,5.1
+48,Cheese Burger,Burger,28.5
+25,Brownie,Dessert,10.67
+20,Coke,Beverage,3.73
+35,Cold Coffee,Beverage,19.32
+32,Butter Chicken,Main Course,19.6
+21,Cheese Burger,Burger,22.84
+23,Fried Rice,Main Course,6.17
+94,Pepperoni Pizza,Pizza,17.03
+45,Fried Rice,Main Course,22.9
+6,Cheese Burger,Burger,27.73
+91,Coke,Beverage,10.69
+51,Veg Burger,Burger,29.7
+16,Margherita Pizza,Pizza,7.06
+50,Butter Chicken,Main Course,7.74
+50,Biryani,Main Course,17.64
+94,Cheese Burger,Burger,19.88
+37,Paneer Butter Masala,Main Course,12.13
+72,Veg Burger,Burger,4.65
+26,Veg Supreme,Pizza,29.31
+9,Gulab Jamun,Dessert,22.28
+60,Butter Chicken,Main Course,11.59
+24,Farmhouse Pizza,Pizza,7.15
+28,Gulab Jamun,Dessert,7.08
+83,Cheesecake,Dessert,25.19
+16,Biryani,Main Course,19.36
+57,Cheese Burger,Burger,19.86
+77,Cheese Burger,Burger,19.01
+28,Margherita Pizza,Pizza,28.15
+84,Lemonade,Beverage,19.04
+87,Gulab Jamun,Dessert,19.18
+79,Paneer Butter Masala,Main Course,12.46
+63,Gulab Jamun,Dessert,15.17
+14,Margherita Pizza,Pizza,8.25
+70,Brownie,Dessert,12.47
+39,Paneer Butter Masala,Main Course,26.26
+98,Biryani,Main Course,10.59
+66,Gulab Jamun,Dessert,23.94
+34,Cold Coffee,Beverage,12.28
+9,Coke,Beverage,17.92
+30,Chicken Burger,Burger,21.95
+72,Pepperoni Pizza,Pizza,24.06
+94,Cheese Burger,Burger,8.12
+62,Butter Chicken,Main Course,15.72
+40,Mango Shake,Beverage,20.3
+89,Veg Burger,Burger,21.19
+99,Coke,Beverage,29.72
+1,Fried Rice,Main Course,14.91
+40,Biryani,Main Course,13.31
+27,Veg Burger,Burger,10.63
+22,Cheesecake,Dessert,22.79
+76,Paneer Butter Masala,Main Course,18.75
+46,Cheesecake,Dessert,7.66
+100,Biryani,Main Course,18.73
+34,Brownie,Dessert,16.92
+100,Brownie,Dessert,20.71
+60,Lemonade,Beverage,12.12
+11,Paneer Butter Masala,Main Course,28.98
+78,Veg Supreme,Pizza,25.39
+5,Biryani,Main Course,16.02
+89,Brownie,Dessert,19.57
+84,Mango Shake,Beverage,13.18
+73,Brownie,Dessert,15.11
+61,Biryani,Main Course,18.73
+77,Chicken Burger,Burger,22.36
+27,Cheese Burger,Burger,23.73
+85,Coke,Beverage,9.61
+85,Cheese Burger,Burger,12.84
+22,Biryani,Main Course,8.13
+93,Veg Burger,Burger,13.32
+100,Butter Chicken,Main Course,16.32
+20,Butter Chicken,Main Course,22.64
+8,Cold Coffee,Beverage,21.9
+79,Margherita Pizza,Pizza,7.83
+70,Margherita Pizza,Pizza,29.82
+72,Cold Coffee,Beverage,7.52
+87,Cheese Burger,Burger,16.49
+74,Margherita Pizza,Pizza,5.77
+24,Biryani,Main Course,24.77
+37,Brownie,Dessert,5.85
+18,Coke,Beverage,14.83
+24,Veg Burger,Burger,9.25
+70,Fried Rice,Main Course,13.99
+60,Cheese Burger,Burger,16.94
+43,Gulab Jamun,Dessert,27.18
+14,Veg Burger,Burger,12.35
+59,Pepperoni Pizza,Pizza,20.18
+25,Veg Supreme,Pizza,28.13
+55,Ice Cream,Dessert,10.03
+65,Lemonade,Beverage,27.62
+68,Ice Cream,Dessert,9.46
+19,Ice Cream,Dessert,20.94
+76,Brownie,Dessert,4.95
+85,Brownie,Dessert,21.25
+73,Cold Coffee,Beverage,12.37
+56,Ice Cream,Dessert,29.39
+97,Margherita Pizza,Pizza,25.61
+29,Coke,Beverage,14.84
+100,Chicken Burger,Burger,29.75
+11,Brownie,Dessert,22.23
+8,Biryani,Main Course,20.65
+72,Mango Shake,Beverage,21.49
+16,Cold Coffee,Beverage,18.63
+2,Cold Coffee,Beverage,3.68
+37,Biryani,Main Course,21.94
+27,Veg Supreme,Pizza,27.43
+85,Margherita Pizza,Pizza,21.92
+58,Veg Burger,Burger,11.29
+71,Farmhouse Pizza,Pizza,29.85
+86,Cheese Burger,Burger,29.12
+57,Farmhouse Pizza,Pizza,10.38
+17,Cold Coffee,Beverage,20.89
+16,Cold Coffee,Beverage,11.51
+98,Gulab Jamun,Dessert,13.93
+30,Veg Supreme,Pizza,17.64
+91,Butter Chicken,Main Course,22.71
+84,Margherita Pizza,Pizza,3.07
+76,Biryani,Main Course,17.77
+72,Veg Supreme,Pizza,18.2
+61,Ice Cream,Dessert,8.54
+88,Paneer Butter Masala,Main Course,17.94
+9,Veg Supreme,Pizza,20.97
+91,Pepperoni Pizza,Pizza,9.81
+49,Farmhouse Pizza,Pizza,28.32
+42,Paneer Burger,Burger,12.41
+15,Coke,Beverage,23.93
+33,Lemonade,Beverage,12.01
+89,Ice Cream,Dessert,9.09
+98,Pepperoni Pizza,Pizza,7.82
+63,Chicken Burger,Burger,23.07
+21,Margherita Pizza,Pizza,17.42
+75,Ice Cream,Dessert,17.79
+49,Paneer Butter Masala,Main Course,9.11
+72,Butter Chicken,Main Course,17.28
+75,Pepperoni Pizza,Pizza,8.77
+81,Coke,Beverage,27.08
+64,Gulab Jamun,Dessert,29.31
+26,Ice Cream,Dessert,27.79
+82,Fried Rice,Main Course,13.3
+66,Lemonade,Beverage,25.78
+92,Pepperoni Pizza,Pizza,22.87
+47,Veg Burger,Burger,17.37
+44,Cheese Burger,Burger,20.57
+20,Fried Rice,Main Course,23.08
+65,Gulab Jamun,Dessert,7.18
+3,Coke,Beverage,5.23
+74,Cheesecake,Dessert,29.64
+65,Cold Coffee,Beverage,9.8
+82,Paneer Burger,Burger,27.66
+24,Brownie,Dessert,11.1
+31,Brownie,Dessert,25.87
+38,Paneer Burger,Burger,29.34
+56,Butter Chicken,Main Course,15.97
+61,Pepperoni Pizza,Pizza,29.25
+10,Farmhouse Pizza,Pizza,14.81
+60,Mango Shake,Beverage,9.89
+31,Paneer Butter Masala,Main Course,19.81
+99,Veg Burger,Burger,24.28
+23,Veg Burger,Burger,28.18
+12,Lemonade,Beverage,24.6
+64,Butter Chicken,Main Course,19.8
+52,Paneer Butter Masala,Main Course,22.24
+58,Cheese Burger,Burger,18.94
+48,Mango Shake,Beverage,21.07
+4,Fried Rice,Main Course,4.98
+47,Margherita Pizza,Pizza,6.85
+71,Fried Rice,Main Course,12.3
+7,Paneer Burger,Burger,27.35
+8,Ice Cream,Dessert,25.98
+56,Cheese Burger,Burger,23.89
+21,Margherita Pizza,Pizza,18.53
+7,Farmhouse Pizza,Pizza,21.44
+96,Ice Cream,Dessert,28.14
+93,Cold Coffee,Beverage,13.21
+59,Veg Burger,Burger,11.89
+20,Veg Burger,Burger,5.77
+41,Brownie,Dessert,9.91
+14,Paneer Butter Masala,Main Course,17.52
+37,Pepperoni Pizza,Pizza,7.9
+24,Coke,Beverage,29.78
+53,Fried Rice,Main Course,27.9
+74,Cold Coffee,Beverage,13.16
+59,Fried Rice,Main Course,28.19
+37,Ice Cream,Dessert,25.99
+98,Chicken Burger,Burger,16.94
+55,Pepperoni Pizza,Pizza,3.21
+37,Paneer Butter Masala,Main Course,18.16
+47,Cheesecake,Dessert,27.24
+77,Margherita Pizza,Pizza,25.15
+84,Mango Shake,Beverage,23.47
+38,Butter Chicken,Main Course,25.75
+18,Fried Rice,Main Course,12.85
+64,Cold Coffee,Beverage,13.92
+78,Veg Supreme,Pizza,16.87
+81,Gulab Jamun,Dessert,16.77
+67,Biryani,Main Course,18.98
+3,Farmhouse Pizza,Pizza,8.96
+50,Veg Burger,Burger,25.4
+38,Margherita Pizza,Pizza,16.86
+85,Paneer Burger,Burger,3.54
+72,Gulab Jamun,Dessert,11.92
+62,Chicken Burger,Burger,23.69
+38,Coke,Beverage,9.81
+7,Pepperoni Pizza,Pizza,20.43
+11,Ice Cream,Dessert,16.26
+14,Ice Cream,Dessert,16.67
+69,Cold Coffee,Beverage,6.61
+13,Biryani,Main Course,13.58
+23,Biryani,Main Course,6.54
+45,Veg Supreme,Pizza,15.82
+72,Margherita Pizza,Pizza,28.3
+8,Cheesecake,Dessert,18.3
+11,Margherita Pizza,Pizza,19.39
+12,Cold Coffee,Beverage,11.09
+48,Cheesecake,Dessert,8.46
+58,Mango Shake,Beverage,29.88
+9,Cold Coffee,Beverage,23.5
+19,Fried Rice,Main Course,5.57
+86,Margherita Pizza,Pizza,18.97
+97,Paneer Butter Masala,Main Course,16.91
+29,Margherita Pizza,Pizza,28.29
+73,Ice Cream,Dessert,23.27
+11,Veg Burger,Burger,18.56
+72,Margherita Pizza,Pizza,8.15
+76,Cold Coffee,Beverage,18.35
+94,Pepperoni Pizza,Pizza,22.6
+99,Ice Cream,Dessert,3.15
+46,Butter Chicken,Main Course,6.81
+12,Pepperoni Pizza,Pizza,7.18
+20,Pepperoni Pizza,Pizza,8.04
+86,Chicken Burger,Burger,4.15
+95,Butter Chicken,Main Course,6.44
+86,Veg Supreme,Pizza,29.52
+26,Veg Supreme,Pizza,8.56
+81,Fried Rice,Main Course,13.77
+31,Margherita Pizza,Pizza,11.28
+74,Chicken Burger,Burger,7.98
+23,Veg Supreme,Pizza,5.14
+29,Coke,Beverage,16.46
+70,Coke,Beverage,27.08
+18,Paneer Butter Masala,Main Course,15.69
+70,Brownie,Dessert,21.02
+60,Cheesecake,Dessert,7.39
+49,Paneer Burger,Burger,27.37
+70,Cheese Burger,Burger,19.11
+100,Farmhouse Pizza,Pizza,12.18
+61,Brownie,Dessert,18.46
+18,Veg Burger,Burger,8.97
+25,Cold Coffee,Beverage,25.91
+32,Pepperoni Pizza,Pizza,10.89
+21,Chicken Burger,Burger,7.73
+42,Fried Rice,Main Course,11.64
+28,Veg Burger,Burger,20.9
+55,Pepperoni Pizza,Pizza,23.61
+67,Pepperoni Pizza,Pizza,20.03
+68,Biryani,Main Course,16.85
+99,Pepperoni Pizza,Pizza,19.48
+48,Coke,Beverage,16.03
+75,Ice Cream,Dessert,4.67
+68,Ice Cream,Dessert,14.67
+27,Brownie,Dessert,14.69
+53,Chicken Burger,Burger,26.04
+32,Biryani,Main Course,4.11
+10,Coke,Beverage,7.57
+60,Mango Shake,Beverage,7.87
+81,Pepperoni Pizza,Pizza,23.98
+10,Veg Supreme,Pizza,27.12
+39,Biryani,Main Course,6.81
+57,Fried Rice,Main Course,27.76
+8,Paneer Butter Masala,Main Course,22.73
+14,Pepperoni Pizza,Pizza,18.09
+81,Ice Cream,Dessert,20.96
+66,Butter Chicken,Main Course,10.91
+67,Veg Burger,Burger,11.96
+19,Cold Coffee,Beverage,19.97
+86,Butter Chicken,Main Course,22.97
+10,Cheesecake,Dessert,16.91
+83,Cheese Burger,Burger,9.03
+18,Mango Shake,Beverage,16.5
+75,Mango Shake,Beverage,27.79
+95,Pepperoni Pizza,Pizza,21.34
+29,Chicken Burger,Burger,3.36
+48,Coke,Beverage,9.65
+54,Paneer Butter Masala,Main Course,13.98
+66,Veg Burger,Burger,27.99
+22,Veg Burger,Burger,15.86
+37,Cheesecake,Dessert,24.71
+91,Paneer Burger,Burger,14.77
+36,Fried Rice,Main Course,27.66
+13,Paneer Butter Masala,Main Course,15.78
+89,Paneer Burger,Burger,18.22
+86,Cheesecake,Dessert,10.81
+1,Ice Cream,Dessert,14.02
+67,Chicken Burger,Burger,20.54
+25,Veg Supreme,Pizza,17.49
+64,Coke,Beverage,6.13
+7,Cheese Burger,Burger,10.98
+67,Lemonade,Beverage,4.09
+12,Pepperoni Pizza,Pizza,3.58
+90,Veg Supreme,Pizza,5.89
+16,Butter Chicken,Main Course,9.67
+99,Veg Burger,Burger,21.32
+14,Ice Cream,Dessert,3.91
+65,Margherita Pizza,Pizza,22.01
+5,Gulab Jamun,Dessert,17.7
+9,Coke,Beverage,14.16
+48,Chicken Burger,Burger,4.94
+34,Farmhouse Pizza,Pizza,6.9
+9,Margherita Pizza,Pizza,22.34
+96,Brownie,Dessert,3.4
+98,Fried Rice,Main Course,24.97
+66,Cheesecake,Dessert,29.1
+41,Cheese Burger,Burger,19.89
+89,Coke,Beverage,22.89
+99,Veg Supreme,Pizza,12.99
+17,Veg Burger,Burger,21.7
+59,Coke,Beverage,22.93
+42,Farmhouse Pizza,Pizza,15.89
+31,Cheesecake,Dessert,27.58
+60,Biryani,Main Course,10.29
+16,Fried Rice,Main Course,8.01
+17,Paneer Burger,Burger,28.96
+81,Cold Coffee,Beverage,10.51
+32,Paneer Butter Masala,Main Course,4.53
+57,Chicken Burger,Burger,14.05
+78,Coke,Beverage,28.97
+20,Lemonade,Beverage,23.75
+45,Paneer Burger,Burger,21.49
+46,Gulab Jamun,Dessert,12.73
+45,Paneer Butter Masala,Main Course,14.23
+45,Veg Burger,Burger,13.56
+99,Butter Chicken,Main Course,5.88
+19,Margherita Pizza,Pizza,8.9
+49,Brownie,Dessert,8.27
+46,Margherita Pizza,Pizza,12.23
+17,Coke,Beverage,12.19
+85,Margherita Pizza,Pizza,23.05
+65,Cheese Burger,Burger,8.77
+14,Brownie,Dessert,20.71
+90,Chicken Burger,Burger,5.87
+80,Brownie,Dessert,14.78
+45,Cheesecake,Dessert,14.96
+15,Cold Coffee,Beverage,4.93
+21,Margherita Pizza,Pizza,21.34
+29,Biryani,Main Course,15.37
+15,Lemonade,Beverage,9.47
+15,Paneer Butter Masala,Main Course,10.04
+36,Margherita Pizza,Pizza,22.14
+78,Biryani,Main Course,8.71
+16,Ice Cream,Dessert,15.87
+79,Chicken Burger,Burger,18.83
+53,Cheesecake,Dessert,26.36
+32,Farmhouse Pizza,Pizza,23.53
+38,Margherita Pizza,Pizza,11.99
+96,Pepperoni Pizza,Pizza,11.86
+62,Cheesecake,Dessert,20.69
+93,Chicken Burger,Burger,15.33
+68,Mango Shake,Beverage,4.87
+1,Brownie,Dessert,21.32
+68,Farmhouse Pizza,Pizza,4.04
+5,Farmhouse Pizza,Pizza,19.17
+47,Paneer Butter Masala,Main Course,29.15
+43,Coke,Beverage,19.47
+56,Chicken Burger,Burger,8.0
+5,Veg Burger,Burger,22.59
+46,Cheesecake,Dessert,24.93
+97,Cold Coffee,Beverage,25.57
+25,Mango Shake,Beverage,17.29
+37,Fried Rice,Main Course,7.15
+52,Gulab Jamun,Dessert,28.48
+5,Margherita Pizza,Pizza,14.23
+82,Gulab Jamun,Dessert,9.3
+33,Pepperoni Pizza,Pizza,16.73
+38,Brownie,Dessert,18.36
+75,Farmhouse Pizza,Pizza,4.29
+93,Coke,Beverage,5.17
+39,Coke,Beverage,24.83
+95,Cheese Burger,Burger,7.14
+78,Veg Supreme,Pizza,25.77
+39,Gulab Jamun,Dessert,24.92
+80,Brownie,Dessert,14.94
+78,Biryani,Main Course,14.16
+68,Brownie,Dessert,29.99
+9,Brownie,Dessert,19.04
+1,Cheese Burger,Burger,27.08
+16,Pepperoni Pizza,Pizza,21.42
+49,Cold Coffee,Beverage,10.17
+87,Margherita Pizza,Pizza,25.94
+35,Cheese Burger,Burger,7.6
+92,Farmhouse Pizza,Pizza,18.39
+95,Biryani,Main Course,29.22
+36,Brownie,Dessert,8.1
+79,Paneer Butter Masala,Main Course,29.02
+32,Butter Chicken,Main Course,23.64
+42,Coke,Beverage,14.26
+48,Cheesecake,Dessert,23.94
+37,Butter Chicken,Main Course,14.48
+81,Coke,Beverage,12.95
+40,Chicken Burger,Burger,4.67
+57,Veg Burger,Burger,16.69
+64,Butter Chicken,Main Course,23.66
+33,Chicken Burger,Burger,23.44
+71,Veg Burger,Burger,3.28
+50,Biryani,Main Course,11.97
+12,Paneer Butter Masala,Main Course,29.28
+81,Coke,Beverage,7.97
+7,Lemonade,Beverage,5.94
+39,Veg Supreme,Pizza,22.74
+66,Paneer Butter Masala,Main Course,11.31
+70,Mango Shake,Beverage,12.41
+12,Coke,Beverage,4.29
+14,Veg Supreme,Pizza,12.59
+64,Veg Burger,Burger,21.32
+67,Brownie,Dessert,10.75
+7,Fried Rice,Main Course,14.2
+8,Biryani,Main Course,26.76
+65,Coke,Beverage,4.75
+91,Chicken Burger,Burger,9.71
+28,Paneer Burger,Burger,6.36
+84,Chicken Burger,Burger,12.51
+54,Lemonade,Beverage,13.58
+56,Brownie,Dessert,4.95
+66,Coke,Beverage,28.55
+14,Ice Cream,Dessert,10.02
+67,Biryani,Main Course,19.39
+3,Mango Shake,Beverage,25.66
+10,Farmhouse Pizza,Pizza,10.46
+7,Farmhouse Pizza,Pizza,14.92
+61,Ice Cream,Dessert,12.7
+26,Margherita Pizza,Pizza,25.54
+67,Cheese Burger,Burger,18.63
+4,Butter Chicken,Main Course,29.03
+9,Farmhouse Pizza,Pizza,28.6
+81,Cheese Burger,Burger,29.5
+18,Veg Supreme,Pizza,8.4
+16,Lemonade,Beverage,23.07
+18,Veg Burger,Burger,29.91
+4,Paneer Burger,Burger,9.03
+4,Veg Burger,Burger,29.04
+30,Chicken Burger,Burger,20.15
+66,Brownie,Dessert,29.87
+98,Mango Shake,Beverage,6.37
+9,Brownie,Dessert,21.38
+6,Cold Coffee,Beverage,28.02
+38,Gulab Jamun,Dessert,29.22
+36,Fried Rice,Main Course,7.72
+35,Butter Chicken,Main Course,27.9
+90,Coke,Beverage,23.59
+91,Paneer Burger,Burger,7.05
+35,Pepperoni Pizza,Pizza,17.09
+61,Cheese Burger,Burger,26.04
+34,Veg Supreme,Pizza,16.62
+64,Ice Cream,Dessert,10.45
+44,Brownie,Dessert,8.14
+84,Chicken Burger,Burger,4.11
+70,Ice Cream,Dessert,23.25
+7,Ice Cream,Dessert,9.07
+5,Veg Supreme,Pizza,26.53
+59,Ice Cream,Dessert,25.42
+8,Paneer Butter Masala,Main Course,4.65
+60,Veg Supreme,Pizza,24.6
+68,Paneer Burger,Burger,24.72
+45,Paneer Butter Masala,Main Course,22.16
+98,Biryani,Main Course,6.18
+36,Paneer Burger,Burger,10.13
+12,Coke,Beverage,7.23
+14,Chicken Burger,Burger,13.26
+24,Paneer Butter Masala,Main Course,3.09
+68,Veg Supreme,Pizza,11.76
+75,Fried Rice,Main Course,21.55
+13,Butter Chicken,Main Course,11.5
+16,Farmhouse Pizza,Pizza,5.52
+82,Brownie,Dessert,28.12
+32,Lemonade,Beverage,14.87
+67,Cheesecake,Dessert,6.06
+9,Mango Shake,Beverage,9.03
+72,Ice Cream,Dessert,22.82
+61,Veg Supreme,Pizza,23.21
+66,Paneer Burger,Burger,19.35
+80,Pepperoni Pizza,Pizza,4.88
+50,Butter Chicken,Main Course,16.64
+13,Coke,Beverage,3.85
+94,Chicken Burger,Burger,4.22
+27,Mango Shake,Beverage,23.92
+68,Paneer Butter Masala,Main Course,20.18
+59,Brownie,Dessert,23.34
+51,Butter Chicken,Main Course,17.07
+15,Cold Coffee,Beverage,19.95
+54,Brownie,Dessert,23.93
+43,Fried Rice,Main Course,27.55
+89,Gulab Jamun,Dessert,8.68
+70,Mango Shake,Beverage,18.27
+30,Chicken Burger,Burger,28.85
+94,Farmhouse Pizza,Pizza,14.79
+84,Coke,Beverage,28.71
+78,Margherita Pizza,Pizza,6.18
+30,Margherita Pizza,Pizza,9.18
+11,Veg Burger,Burger,6.33
+81,Gulab Jamun,Dessert,19.07
+64,Fried Rice,Main Course,19.96
+72,Ice Cream,Dessert,11.98
+44,Gulab Jamun,Dessert,25.69
+88,Farmhouse Pizza,Pizza,17.09
+67,Cheese Burger,Burger,18.36
+30,Cheese Burger,Burger,12.89
+36,Cheese Burger,Burger,18.98
+96,Butter Chicken,Main Course,15.52
+78,Lemonade,Beverage,14.34
+32,Chicken Burger,Burger,23.17
+85,Fried Rice,Main Course,10.07
+38,Coke,Beverage,20.99
+27,Mango Shake,Beverage,20.78
+88,Butter Chicken,Main Course,4.29
+31,Paneer Burger,Burger,16.8
+72,Cheesecake,Dessert,8.54
+31,Pepperoni Pizza,Pizza,7.43
+51,Cold Coffee,Beverage,26.34
+35,Veg Burger,Burger,26.93
+52,Farmhouse Pizza,Pizza,3.05
+46,Cheesecake,Dessert,8.36
+47,Farmhouse Pizza,Pizza,24.61
+55,Lemonade,Beverage,24.1
+59,Cold Coffee,Beverage,3.41
+18,Chicken Burger,Burger,7.9
+74,Chicken Burger,Burger,14.75
+17,Coke,Beverage,10.04
+92,Cold Coffee,Beverage,5.4
+56,Brownie,Dessert,21.24
+41,Brownie,Dessert,8.38
+52,Pepperoni Pizza,Pizza,19.46
+87,Veg Burger,Burger,15.94
+27,Cheese Burger,Burger,13.59
+1,Veg Supreme,Pizza,27.92
+78,Margherita Pizza,Pizza,16.19
+13,Fried Rice,Main Course,9.5
+93,Fried Rice,Main Course,28.53
+64,Pepperoni Pizza,Pizza,20.52
+48,Coke,Beverage,20.01
+8,Brownie,Dessert,27.58
+79,Veg Burger,Burger,8.36
+9,Cheese Burger,Burger,9.77
+73,Gulab Jamun,Dessert,13.2
+57,Margherita Pizza,Pizza,8.59
+100,Brownie,Dessert,22.9
+26,Chicken Burger,Burger,15.05
+3,Paneer Butter Masala,Main Course,27.18
+85,Veg Supreme,Pizza,22.09
+17,Ice Cream,Dessert,6.93
+20,Mango Shake,Beverage,12.08
+18,Brownie,Dessert,15.68
+25,Paneer Butter Masala,Main Course,12.94
+1,Butter Chicken,Main Course,7.32
+92,Gulab Jamun,Dessert,28.1
+94,Biryani,Main Course,13.15
+78,Gulab Jamun,Dessert,11.13
+71,Lemonade,Beverage,21.6
+87,Brownie,Dessert,4.37
+60,Veg Burger,Burger,23.7
+82,Veg Supreme,Pizza,17.64
+97,Butter Chicken,Main Course,22.11
+41,Veg Burger,Burger,3.72
+41,Chicken Burger,Burger,28.9
+83,Butter Chicken,Main Course,12.18
+14,Cheesecake,Dessert,27.08
+46,Farmhouse Pizza,Pizza,27.71
+31,Coke,Beverage,23.78
+28,Veg Supreme,Pizza,10.18
+64,Fried Rice,Main Course,3.94
+80,Paneer Butter Masala,Main Course,5.79
+70,Veg Burger,Burger,20.27
+95,Ice Cream,Dessert,24.31
+29,Brownie,Dessert,3.02
+45,Farmhouse Pizza,Pizza,13.9
+38,Paneer Butter Masala,Main Course,12.25
+25,Brownie,Dessert,17.32
+94,Pepperoni Pizza,Pizza,6.53
+20,Margherita Pizza,Pizza,20.68
+95,Lemonade,Beverage,27.63
+9,Veg Supreme,Pizza,24.22
+29,Veg Supreme,Pizza,9.57
+96,Chicken Burger,Burger,16.81
+81,Paneer Burger,Burger,26.53
+34,Chicken Burger,Burger,25.02
+45,Lemonade,Beverage,28.22
+31,Veg Supreme,Pizza,25.51
+96,Coke,Beverage,24.79
+70,Paneer Butter Masala,Main Course,17.44
+12,Butter Chicken,Main Course,6.77
+69,Mango Shake,Beverage,15.32
+64,Cheese Burger,Burger,22.22
+83,Paneer Butter Masala,Main Course,6.68
+90,Paneer Burger,Burger,9.89
+70,Biryani,Main Course,18.06
+85,Ice Cream,Dessert,13.08
+79,Ice Cream,Dessert,11.39
+94,Farmhouse Pizza,Pizza,18.26
+100,Ice Cream,Dessert,10.22
+51,Pepperoni Pizza,Pizza,16.53
+87,Cold Coffee,Beverage,22.0
+35,Mango Shake,Beverage,23.37
+62,Biryani,Main Course,25.15
+27,Butter Chicken,Main Course,24.11
+84,Biryani,Main Course,12.59
+97,Veg Burger,Burger,8.21
+89,Pepperoni Pizza,Pizza,3.95
+74,Fried Rice,Main Course,14.64
+64,Pepperoni Pizza,Pizza,22.9
+91,Cold Coffee,Beverage,17.87
+90,Butter Chicken,Main Course,20.51
+20,Veg Supreme,Pizza,19.12
+3,Veg Supreme,Pizza,8.81
+17,Butter Chicken,Main Course,15.46
+59,Cheesecake,Dessert,21.83
+73,Farmhouse Pizza,Pizza,21.08
+33,Veg Burger,Burger,20.52
+34,Paneer Butter Masala,Main Course,21.85
+14,Biryani,Main Course,23.69
+55,Pepperoni Pizza,Pizza,15.45
+25,Biryani,Main Course,12.73
+52,Veg Burger,Burger,13.29
+53,Paneer Burger,Burger,13.04
+27,Brownie,Dessert,21.22
+80,Coke,Beverage,15.34
+18,Chicken Burger,Burger,7.2
+31,Veg Supreme,Pizza,11.53
+100,Mango Shake,Beverage,13.7
+21,Chicken Burger,Burger,11.03
+89,Cold Coffee,Beverage,13.03
+82,Margherita Pizza,Pizza,6.57
+70,Pepperoni Pizza,Pizza,4.72
+27,Cheese Burger,Burger,21.35
+87,Pepperoni Pizza,Pizza,13.89
+87,Veg Supreme,Pizza,22.89
+2,Veg Supreme,Pizza,21.99
+27,Coke,Beverage,20.34
+97,Veg Burger,Burger,8.55
+42,Biryani,Main Course,26.07
+23,Chicken Burger,Burger,7.54
+14,Paneer Butter Masala,Main Course,29.06
+69,Cold Coffee,Beverage,29.8
+82,Veg Burger,Burger,4.74
+48,Margherita Pizza,Pizza,20.91
+82,Cheese Burger,Burger,10.39
+70,Farmhouse Pizza,Pizza,24.39
+34,Coke,Beverage,8.22
+46,Veg Burger,Burger,18.85
+73,Veg Burger,Burger,19.68
+51,Gulab Jamun,Dessert,27.42
+69,Brownie,Dessert,17.65
+28,Paneer Burger,Burger,18.8
+31,Paneer Burger,Burger,26.51
+98,Coke,Beverage,19.38
+75,Paneer Burger,Burger,17.89
+4,Cheesecake,Dessert,5.51
+35,Cheesecake,Dessert,22.42
+12,Mango Shake,Beverage,21.7
+96,Mango Shake,Beverage,27.46
+22,Paneer Butter Masala,Main Course,3.36
+14,Cold Coffee,Beverage,12.73
+71,Veg Supreme,Pizza,27.2
+46,Veg Burger,Burger,16.35
+49,Veg Supreme,Pizza,7.21
+63,Cheese Burger,Burger,19.54
+14,Biryani,Main Course,24.52
+60,Ice Cream,Dessert,24.29
+33,Cold Coffee,Beverage,19.79
+38,Cold Coffee,Beverage,17.88
+57,Cheese Burger,Burger,19.61
+73,Fried Rice,Main Course,8.96
+43,Gulab Jamun,Dessert,28.37
+40,Coke,Beverage,27.3
+34,Veg Supreme,Pizza,9.22
+3,Cheesecake,Dessert,9.13
+79,Biryani,Main Course,26.44
+93,Mango Shake,Beverage,4.88
+53,Butter Chicken,Main Course,17.47
+62,Lemonade,Beverage,4.46
+17,Pepperoni Pizza,Pizza,9.29
+4,Farmhouse Pizza,Pizza,26.58
+65,Lemonade,Beverage,21.22
+91,Fried Rice,Main Course,3.31
+48,Cold Coffee,Beverage,13.3
+8,Veg Supreme,Pizza,7.92
+37,Lemonade,Beverage,28.65
+72,Pepperoni Pizza,Pizza,26.6
+70,Veg Burger,Burger,7.39
+17,Farmhouse Pizza,Pizza,29.16
+4,Veg Burger,Burger,18.91
+98,Butter Chicken,Main Course,21.2
+48,Margherita Pizza,Pizza,15.97
+71,Coke,Beverage,14.17
+40,Veg Burger,Burger,17.31
+39,Chicken Burger,Burger,24.26
+33,Coke,Beverage,28.36
+92,Paneer Burger,Burger,21.34
+99,Cheese Burger,Burger,19.76
+10,Lemonade,Beverage,11.82
+19,Pepperoni Pizza,Pizza,17.46
+37,Veg Supreme,Pizza,19.15
+81,Fried Rice,Main Course,26.5
+6,Farmhouse Pizza,Pizza,28.39
+86,Veg Burger,Burger,16.16
+23,Margherita Pizza,Pizza,20.35
+53,Chicken Burger,Burger,15.01
+6,Pepperoni Pizza,Pizza,11.38
+66,Mango Shake,Beverage,20.07
+41,Paneer Butter Masala,Main Course,21.08
+56,Ice Cream,Dessert,9.7
+97,Paneer Burger,Burger,17.45
+21,Ice Cream,Dessert,3.73
+22,Cheesecake,Dessert,24.57
+78,Cold Coffee,Beverage,13.58
+80,Veg Burger,Burger,14.99
+32,Paneer Burger,Burger,3.5
+66,Butter Chicken,Main Course,18.54
+95,Cheese Burger,Burger,25.72
+17,Butter Chicken,Main Course,20.81
+16,Paneer Burger,Burger,18.24
+79,Veg Burger,Burger,4.01
+38,Gulab Jamun,Dessert,29.32
+87,Biryani,Main Course,19.26
+65,Veg Burger,Burger,3.17
+55,Pepperoni Pizza,Pizza,8.22
+83,Butter Chicken,Main Course,24.33
+43,Lemonade,Beverage,24.25
+76,Veg Supreme,Pizza,4.36
+85,Cheesecake,Dessert,3.67
+71,Butter Chicken,Main Course,16.79
+81,Ice Cream,Dessert,19.27
+27,Mango Shake,Beverage,8.29
+19,Pepperoni Pizza,Pizza,29.07
+92,Cold Coffee,Beverage,15.11
+37,Paneer Butter Masala,Main Course,21.14
+28,Cheese Burger,Burger,6.23
+6,Veg Burger,Burger,29.36
+25,Veg Burger,Burger,5.74
+100,Brownie,Dessert,18.05
+37,Cold Coffee,Beverage,3.39
+41,Margherita Pizza,Pizza,16.76
+23,Paneer Burger,Burger,14.33
+2,Paneer Butter Masala,Main Course,19.05
+71,Paneer Butter Masala,Main Course,4.45
+49,Ice Cream,Dessert,28.92
+55,Mango Shake,Beverage,8.65
+39,Cheesecake,Dessert,3.31
+63,Ice Cream,Dessert,9.62
+45,Paneer Butter Masala,Main Course,28.56
+1,Farmhouse Pizza,Pizza,9.28
+12,Paneer Burger,Burger,29.62
+70,Gulab Jamun,Dessert,9.79
+89,Cold Coffee,Beverage,19.24
+85,Farmhouse Pizza,Pizza,9.81
+72,Farmhouse Pizza,Pizza,16.66
+84,Farmhouse Pizza,Pizza,12.01
+61,Fried Rice,Main Course,20.94
+74,Pepperoni Pizza,Pizza,4.99
+55,Veg Supreme,Pizza,10.07
+95,Veg Supreme,Pizza,5.24
+95,Cheese Burger,Burger,4.06
+96,Chicken Burger,Burger,3.01
+26,Paneer Butter Masala,Main Course,6.94
+22,Paneer Butter Masala,Main Course,9.09
+76,Cheese Burger,Burger,28.26
+69,Chicken Burger,Burger,11.27
+97,Coke,Beverage,25.66
+60,Fried Rice,Main Course,10.85
+8,Ice Cream,Dessert,12.5
+27,Paneer Butter Masala,Main Course,4.72
+56,Brownie,Dessert,13.15
+14,Farmhouse Pizza,Pizza,12.67
+80,Farmhouse Pizza,Pizza,27.49
+34,Margherita Pizza,Pizza,3.04
+52,Margherita Pizza,Pizza,17.03
+7,Margherita Pizza,Pizza,8.81
+8,Ice Cream,Dessert,16.08
+12,Margherita Pizza,Pizza,26.31
+69,Farmhouse Pizza,Pizza,28.67
+94,Gulab Jamun,Dessert,9.33
+95,Brownie,Dessert,22.98
+61,Cold Coffee,Beverage,13.55
+7,Chicken Burger,Burger,8.61
+98,Cold Coffee,Beverage,22.59
+35,Lemonade,Beverage,28.02
+59,Cheese Burger,Burger,29.65
+42,Pepperoni Pizza,Pizza,23.92
+64,Margherita Pizza,Pizza,3.43
+50,Fried Rice,Main Course,8.23
+45,Butter Chicken,Main Course,6.03
+16,Paneer Butter Masala,Main Course,6.83
+85,Paneer Butter Masala,Main Course,25.53
+73,Paneer Burger,Burger,9.96
+99,Lemonade,Beverage,23.12
+79,Cheese Burger,Burger,17.76
+16,Coke,Beverage,5.23
+52,Farmhouse Pizza,Pizza,13.71
+81,Mango Shake,Beverage,16.62
+82,Butter Chicken,Main Course,14.45
+59,Chicken Burger,Burger,11.43
+11,Gulab Jamun,Dessert,6.0
+43,Margherita Pizza,Pizza,27.18
+7,Lemonade,Beverage,20.6
+43,Veg Supreme,Pizza,4.18
+75,Lemonade,Beverage,25.06
+47,Pepperoni Pizza,Pizza,19.66
+96,Paneer Butter Masala,Main Course,22.16
+18,Veg Burger,Burger,22.04
+61,Lemonade,Beverage,7.27
+54,Chicken Burger,Burger,14.49
+73,Mango Shake,Beverage,17.82
+95,Coke,Beverage,28.43
+57,Brownie,Dessert,16.53
+83,Pepperoni Pizza,Pizza,25.97
+49,Margherita Pizza,Pizza,26.76
+3,Gulab Jamun,Dessert,26.63
+16,Mango Shake,Beverage,28.43
+23,Mango Shake,Beverage,17.9
+46,Brownie,Dessert,11.73
+84,Veg Supreme,Pizza,28.15
+46,Mango Shake,Beverage,18.09
+22,Brownie,Dessert,20.9
+37,Cheese Burger,Burger,29.12
+94,Biryani,Main Course,25.15
+93,Paneer Burger,Burger,10.41
+24,Margherita Pizza,Pizza,17.54
+33,Cheesecake,Dessert,11.79
+87,Farmhouse Pizza,Pizza,25.26
+77,Coke,Beverage,23.16
+1,Fried Rice,Main Course,28.51
+95,Brownie,Dessert,3.2
+97,Ice Cream,Dessert,17.84
+22,Butter Chicken,Main Course,15.0
+57,Cheesecake,Dessert,12.14
+39,Butter Chicken,Main Course,19.58
+2,Ice Cream,Dessert,14.06
+37,Coke,Beverage,7.5
+50,Mango Shake,Beverage,13.09
+2,Biryani,Main Course,4.71
+26,Mango Shake,Beverage,15.94
+72,Mango Shake,Beverage,8.05
+15,Margherita Pizza,Pizza,13.15
+84,Veg Burger,Burger,17.39
+80,Lemonade,Beverage,14.34
+82,Ice Cream,Dessert,12.34
+88,Cheesecake,Dessert,8.98
+98,Cold Coffee,Beverage,15.13
+14,Coke,Beverage,22.35
+94,Farmhouse Pizza,Pizza,18.14
+97,Gulab Jamun,Dessert,14.67
+58,Brownie,Dessert,11.3
+98,Margherita Pizza,Pizza,22.32
+25,Mango Shake,Beverage,17.51
+77,Mango Shake,Beverage,12.2
+71,Butter Chicken,Main Course,3.49
+74,Coke,Beverage,27.77
+62,Chicken Burger,Burger,3.52
+69,Fried Rice,Main Course,8.06
+51,Gulab Jamun,Dessert,10.76
+27,Cheesecake,Dessert,17.05
+63,Pepperoni Pizza,Pizza,11.46
+54,Ice Cream,Dessert,17.9
+40,Fried Rice,Main Course,4.82
+49,Brownie,Dessert,3.43
+21,Paneer Butter Masala,Main Course,16.23
+1,Cold Coffee,Beverage,12.67
+47,Lemonade,Beverage,29.32
+3,Fried Rice,Main Course,3.17
+64,Coke,Beverage,26.37
+52,Biryani,Main Course,17.96
+57,Coke,Beverage,6.01
+94,Butter Chicken,Main Course,14.02
+40,Butter Chicken,Main Course,22.3
+1,Ice Cream,Dessert,16.2
+9,Margherita Pizza,Pizza,28.33
+23,Cheesecake,Dessert,27.33
+6,Cold Coffee,Beverage,19.47
+8,Veg Supreme,Pizza,7.84
+100,Chicken Burger,Burger,9.57
+91,Chicken Burger,Burger,28.53
+95,Paneer Burger,Burger,21.01
+96,Mango Shake,Beverage,12.06
+82,Margherita Pizza,Pizza,19.71
+90,Coke,Beverage,5.75
+90,Gulab Jamun,Dessert,22.37
+24,Margherita Pizza,Pizza,22.21
+61,Coke,Beverage,10.46
+66,Cheesecake,Dessert,29.62
+71,Cold Coffee,Beverage,7.7
+13,Cold Coffee,Beverage,7.48
+80,Paneer Burger,Burger,20.04
+89,Ice Cream,Dessert,20.37
+17,Ice Cream,Dessert,13.92
+87,Mango Shake,Beverage,8.69
+96,Cheesecake,Dessert,11.43
+81,Ice Cream,Dessert,23.32
+100,Gulab Jamun,Dessert,25.7
+78,Fried Rice,Main Course,13.89
+51,Cold Coffee,Beverage,8.58
+49,Paneer Butter Masala,Main Course,27.36
+61,Cheesecake,Dessert,10.64
+67,Cheese Burger,Burger,6.88
+71,Lemonade,Beverage,28.05
+77,Ice Cream,Dessert,22.08
+36,Butter Chicken,Main Course,25.27
+84,Margherita Pizza,Pizza,4.91
+13,Biryani,Main Course,27.62
+99,Fried Rice,Main Course,8.16
+53,Farmhouse Pizza,Pizza,11.07
+57,Pepperoni Pizza,Pizza,23.68
+19,Ice Cream,Dessert,17.98
+67,Paneer Butter Masala,Main Course,16.8
+54,Chicken Burger,Burger,26.21
+74,Paneer Butter Masala,Main Course,13.05
+98,Margherita Pizza,Pizza,26.24
+1,Veg Burger,Burger,16.37
+75,Lemonade,Beverage,17.87
+50,Pepperoni Pizza,Pizza,28.44
+89,Brownie,Dessert,24.13
+12,Fried Rice,Main Course,9.39
+78,Paneer Butter Masala,Main Course,23.05
+28,Pepperoni Pizza,Pizza,17.59
+98,Coke,Beverage,25.74
+57,Ice Cream,Dessert,4.58
+69,Lemonade,Beverage,7.63
+28,Paneer Butter Masala,Main Course,3.32
+96,Biryani,Main Course,25.64
+66,Brownie,Dessert,11.51
+79,Butter Chicken,Main Course,27.9
+23,Paneer Burger,Burger,15.22
+68,Paneer Burger,Burger,16.39
+35,Veg Supreme,Pizza,25.7
+38,Mango Shake,Beverage,14.82
+1,Cheese Burger,Burger,20.23
+16,Cold Coffee,Beverage,26.18
+1,Coke,Beverage,17.49
+22,Ice Cream,Dessert,24.43
+90,Cold Coffee,Beverage,20.14
+100,Fried Rice,Main Course,14.44
+60,Paneer Butter Masala,Main Course,6.79
+32,Paneer Burger,Burger,18.9
+27,Butter Chicken,Main Course,7.87
+85,Chicken Burger,Burger,18.68
+27,Paneer Burger,Burger,14.42
+85,Cheesecake,Dessert,12.9
+90,Cold Coffee,Beverage,13.1
+47,Pepperoni Pizza,Pizza,29.4
+80,Cheese Burger,Burger,14.6
+60,Paneer Butter Masala,Main Course,28.88
+2,Chicken Burger,Burger,24.52
+36,Paneer Burger,Burger,3.76
+10,Lemonade,Beverage,27.9
+11,Cold Coffee,Beverage,29.6
+76,Butter Chicken,Main Course,6.68
+82,Veg Supreme,Pizza,25.62
+89,Cheese Burger,Burger,8.65
+77,Mango Shake,Beverage,18.95
+17,Paneer Burger,Burger,12.71
+7,Coke,Beverage,4.67
+76,Margherita Pizza,Pizza,5.77
+12,Lemonade,Beverage,10.05
+2,Cold Coffee,Beverage,16.05
+75,Pepperoni Pizza,Pizza,25.66
+61,Cheese Burger,Burger,8.5
+80,Biryani,Main Course,6.29
+43,Pepperoni Pizza,Pizza,10.87
+25,Farmhouse Pizza,Pizza,17.44
+72,Mango Shake,Beverage,15.36
+6,Ice Cream,Dessert,8.07
+73,Gulab Jamun,Dessert,13.86
+100,Chicken Burger,Burger,9.87
+52,Fried Rice,Main Course,8.31
+66,Farmhouse Pizza,Pizza,9.36
+86,Lemonade,Beverage,25.24
+31,Farmhouse Pizza,Pizza,26.63
+46,Biryani,Main Course,26.2
+95,Paneer Butter Masala,Main Course,21.4
+59,Veg Burger,Burger,29.97
+44,Cold Coffee,Beverage,11.69
+24,Cold Coffee,Beverage,9.96
+82,Cheese Burger,Burger,14.41
+72,Farmhouse Pizza,Pizza,12.86
+100,Mango Shake,Beverage,26.34
+26,Chicken Burger,Burger,23.16
+28,Mango Shake,Beverage,27.16
+74,Farmhouse Pizza,Pizza,20.28
+93,Mango Shake,Beverage,20.97
+71,Lemonade,Beverage,25.68
+51,Cheese Burger,Burger,22.94
+32,Paneer Butter Masala,Main Course,29.65
+68,Lemonade,Beverage,10.94
+79,Biryani,Main Course,27.63
+68,Cheesecake,Dessert,21.54
+83,Lemonade,Beverage,19.11
+78,Ice Cream,Dessert,4.31
+56,Veg Burger,Burger,6.27
+13,Veg Burger,Burger,22.08
+42,Biryani,Main Course,8.66
+32,Fried Rice,Main Course,18.37
+43,Fried Rice,Main Course,13.52
+33,Cheese Burger,Burger,27.32
+25,Veg Supreme,Pizza,21.67
+64,Veg Burger,Burger,20.62
+59,Fried Rice,Main Course,3.73
+68,Chicken Burger,Burger,9.03
+51,Paneer Burger,Burger,19.38
+49,Cheese Burger,Burger,10.21
+7,Lemonade,Beverage,16.37
+84,Cheese Burger,Burger,3.87
+34,Cheesecake,Dessert,7.75
+53,Cheese Burger,Burger,8.24
+67,Chicken Burger,Burger,28.8
+76,Veg Burger,Burger,29.65
+8,Farmhouse Pizza,Pizza,3.47
+28,Veg Burger,Burger,29.36
+28,Farmhouse Pizza,Pizza,6.49
+47,Farmhouse Pizza,Pizza,9.89
+10,Butter Chicken,Main Course,11.94
+86,Pepperoni Pizza,Pizza,15.66
+26,Margherita Pizza,Pizza,25.85
+3,Veg Supreme,Pizza,25.91
+88,Mango Shake,Beverage,14.2
+40,Pepperoni Pizza,Pizza,7.68
+75,Fried Rice,Main Course,18.39
+39,Pepperoni Pizza,Pizza,19.15
+36,Biryani,Main Course,12.19
+46,Veg Burger,Burger,13.55
+3,Lemonade,Beverage,24.23
+54,Chicken Burger,Burger,8.57
+63,Ice Cream,Dessert,8.27
+2,Fried Rice,Main Course,26.01
+82,Lemonade,Beverage,8.92
+94,Ice Cream,Dessert,19.9
+54,Margherita Pizza,Pizza,22.82
+34,Fried Rice,Main Course,4.17
+77,Farmhouse Pizza,Pizza,23.05
+11,Cold Coffee,Beverage,27.86
+3,Ice Cream,Dessert,11.68
+69,Coke,Beverage,3.85
+50,Paneer Burger,Burger,23.82
+86,Coke,Beverage,26.99
+62,Paneer Butter Masala,Main Course,24.3
+91,Cheese Burger,Burger,26.35
+95,Cheese Burger,Burger,29.0
+1,Farmhouse Pizza,Pizza,12.31
+55,Butter Chicken,Main Course,20.93
+52,Pepperoni Pizza,Pizza,4.28
+91,Cheese Burger,Burger,21.83
+54,Paneer Butter Masala,Main Course,27.65
+22,Paneer Burger,Burger,7.47
+25,Farmhouse Pizza,Pizza,3.25
+98,Paneer Butter Masala,Main Course,13.55
+49,Coke,Beverage,23.88
+40,Paneer Butter Masala,Main Course,23.23
+29,Gulab Jamun,Dessert,10.95
+83,Biryani,Main Course,12.42
+15,Veg Supreme,Pizza,29.51
+41,Ice Cream,Dessert,13.58
+86,Fried Rice,Main Course,13.63
+57,Gulab Jamun,Dessert,11.68
+55,Mango Shake,Beverage,18.86
+10,Farmhouse Pizza,Pizza,11.6
+55,Fried Rice,Main Course,12.38
+88,Fried Rice,Main Course,17.5
+5,Mango Shake,Beverage,12.09
+84,Biryani,Main Course,17.79
+66,Paneer Butter Masala,Main Course,20.98
+58,Veg Burger,Burger,26.09
+51,Margherita Pizza,Pizza,15.21
+53,Butter Chicken,Main Course,25.52
+3,Coke,Beverage,7.38
+76,Chicken Burger,Burger,25.64
+72,Pepperoni Pizza,Pizza,11.03
+78,Butter Chicken,Main Course,16.18
+10,Butter Chicken,Main Course,5.61
+8,Paneer Butter Masala,Main Course,21.54
+85,Fried Rice,Main Course,8.16
+96,Chicken Burger,Burger,14.19
+60,Ice Cream,Dessert,8.37
+35,Veg Supreme,Pizza,13.98
+79,Gulab Jamun,Dessert,20.71
+7,Margherita Pizza,Pizza,28.25
+37,Margherita Pizza,Pizza,22.33
+45,Lemonade,Beverage,25.24
+64,Butter Chicken,Main Course,28.72
+11,Paneer Burger,Burger,5.81
+60,Brownie,Dessert,15.83
+23,Pepperoni Pizza,Pizza,9.67
+53,Brownie,Dessert,25.95
+43,Coke,Beverage,23.88
+47,Farmhouse Pizza,Pizza,5.01
+1,Fried Rice,Main Course,4.67
+5,Fried Rice,Main Course,4.11
+43,Lemonade,Beverage,5.42
+80,Fried Rice,Main Course,12.09
+13,Veg Supreme,Pizza,28.86
+2,Biryani,Main Course,3.1
+64,Cheesecake,Dessert,15.82
+61,Paneer Butter Masala,Main Course,20.79
+56,Cold Coffee,Beverage,4.26
+21,Biryani,Main Course,28.11
+4,Biryani,Main Course,8.57
+24,Veg Supreme,Pizza,13.94
+33,Cold Coffee,Beverage,14.49
+49,Paneer Butter Masala,Main Course,6.19
+23,Fried Rice,Main Course,13.39
+68,Mango Shake,Beverage,5.94
+14,Veg Supreme,Pizza,6.7
+39,Cheese Burger,Burger,8.51
+62,Mango Shake,Beverage,21.27
+23,Chicken Burger,Burger,10.41
+19,Brownie,Dessert,10.53
+57,Coke,Beverage,28.78
+31,Paneer Butter Masala,Main Course,21.54
+71,Brownie,Dessert,3.21
+75,Butter Chicken,Main Course,14.88
+9,Cheese Burger,Burger,7.42
+22,Mango Shake,Beverage,10.6
+21,Biryani,Main Course,15.05
+48,Brownie,Dessert,14.7
+38,Butter Chicken,Main Course,27.5
+86,Paneer Burger,Burger,19.64
+16,Mango Shake,Beverage,20.64
+2,Fried Rice,Main Course,16.63
+11,Paneer Butter Masala,Main Course,5.09
+32,Chicken Burger,Burger,17.07
+50,Brownie,Dessert,9.14
+71,Lemonade,Beverage,20.43
+96,Chicken Burger,Burger,24.54
+10,Paneer Burger,Burger,25.85
+18,Veg Supreme,Pizza,25.53
+82,Biryani,Main Course,13.79
+98,Veg Supreme,Pizza,6.2
+41,Margherita Pizza,Pizza,24.07
+49,Margherita Pizza,Pizza,17.86
+43,Lemonade,Beverage,10.69
+64,Cheesecake,Dessert,19.92
+71,Pepperoni Pizza,Pizza,10.2
+88,Veg Burger,Burger,8.48
+42,Cold Coffee,Beverage,5.48
+95,Gulab Jamun,Dessert,12.97
+39,Veg Burger,Burger,20.24
+59,Veg Supreme,Pizza,27.0
+76,Lemonade,Beverage,23.8
+44,Paneer Butter Masala,Main Course,18.08
+72,Butter Chicken,Main Course,12.84
+100,Coke,Beverage,18.38
+46,Lemonade,Beverage,13.1
+4,Mango Shake,Beverage,3.24
+81,Brownie,Dessert,7.52
+12,Pepperoni Pizza,Pizza,20.53
+12,Biryani,Main Course,28.37
+6,Coke,Beverage,24.02
+49,Brownie,Dessert,17.52
+83,Pepperoni Pizza,Pizza,27.34
+29,Paneer Burger,Burger,16.41
+86,Cheesecake,Dessert,4.65
+7,Cold Coffee,Beverage,24.72
+16,Coke,Beverage,8.1
+61,Gulab Jamun,Dessert,4.27
+11,Brownie,Dessert,29.49
+87,Cheesecake,Dessert,23.66
+9,Pepperoni Pizza,Pizza,24.42
+36,Farmhouse Pizza,Pizza,26.49
+89,Coke,Beverage,3.66
+39,Veg Supreme,Pizza,11.0
+78,Cold Coffee,Beverage,12.0
+63,Lemonade,Beverage,21.04
+26,Gulab Jamun,Dessert,24.76
+34,Gulab Jamun,Dessert,19.5
+24,Paneer Burger,Burger,22.95
+10,Veg Burger,Burger,12.19
+26,Ice Cream,Dessert,6.12
+64,Brownie,Dessert,15.07
+1,Coke,Beverage,24.49
+83,Coke,Beverage,16.08
+21,Paneer Burger,Burger,15.18
+10,Brownie,Dessert,22.2
+40,Biryani,Main Course,11.88
+25,Biryani,Main Course,19.32
+11,Gulab Jamun,Dessert,10.57
+27,Biryani,Main Course,27.92
+66,Brownie,Dessert,4.64
+33,Paneer Burger,Burger,12.03
+89,Margherita Pizza,Pizza,23.71
+75,Cold Coffee,Beverage,9.8
+13,Coke,Beverage,22.95
+29,Cheese Burger,Burger,7.25
+55,Margherita Pizza,Pizza,3.04
+60,Farmhouse Pizza,Pizza,9.58
+70,Cheese Burger,Burger,25.7
+62,Chicken Burger,Burger,9.28
+60,Farmhouse Pizza,Pizza,8.69
+9,Cheesecake,Dessert,17.01
+34,Butter Chicken,Main Course,27.91
+45,Margherita Pizza,Pizza,6.7
+41,Paneer Butter Masala,Main Course,6.9
+97,Cold Coffee,Beverage,9.77
+20,Chicken Burger,Burger,17.3
+52,Fried Rice,Main Course,3.89
+7,Paneer Burger,Burger,6.95
+14,Cheesecake,Dessert,22.21
+2,Paneer Burger,Burger,20.92
+49,Paneer Burger,Burger,23.92
+34,Cheese Burger,Burger,6.42
+74,Mango Shake,Beverage,14.69
+27,Gulab Jamun,Dessert,19.27
+31,Cheese Burger,Burger,10.48
+2,Veg Burger,Burger,20.26
+47,Cheesecake,Dessert,7.39
+11,Cheesecake,Dessert,4.37
+55,Cheesecake,Dessert,19.51
+26,Lemonade,Beverage,20.52
+51,Fried Rice,Main Course,9.54
+85,Farmhouse Pizza,Pizza,15.06
+48,Mango Shake,Beverage,25.15
+22,Pepperoni Pizza,Pizza,27.52
+51,Cold Coffee,Beverage,26.29
+71,Biryani,Main Course,22.29
+47,Gulab Jamun,Dessert,9.55
+19,Cheese Burger,Burger,24.16
+7,Paneer Butter Masala,Main Course,22.25
+40,Cheesecake,Dessert,20.78
+62,Brownie,Dessert,7.79
+52,Coke,Beverage,3.09
+20,Butter Chicken,Main Course,25.32
+32,Lemonade,Beverage,22.28
+87,Cheese Burger,Burger,3.36
+18,Cheese Burger,Burger,25.06
+62,Paneer Butter Masala,Main Course,11.5
+24,Fried Rice,Main Course,28.92
+6,Pepperoni Pizza,Pizza,7.81
+72,Chicken Burger,Burger,10.36
+25,Coke,Beverage,28.71
+29,Margherita Pizza,Pizza,22.3
+15,Cheese Burger,Burger,16.46
+26,Biryani,Main Course,18.77
+81,Cheese Burger,Burger,14.9
+25,Veg Supreme,Pizza,11.15
+51,Brownie,Dessert,13.52
+32,Pepperoni Pizza,Pizza,8.92
+64,Butter Chicken,Main Course,9.91
+75,Gulab Jamun,Dessert,24.74
+97,Ice Cream,Dessert,21.3
+45,Paneer Burger,Burger,8.49
+7,Paneer Butter Masala,Main Course,11.33
+91,Mango Shake,Beverage,9.5
+84,Cheesecake,Dessert,22.81
+25,Ice Cream,Dessert,21.84
+78,Paneer Butter Masala,Main Course,6.45
+41,Lemonade,Beverage,22.91
+59,Fried Rice,Main Course,13.57
+12,Butter Chicken,Main Course,6.06
+11,Veg Burger,Burger,16.42
+57,Pepperoni Pizza,Pizza,28.22
+31,Veg Supreme,Pizza,14.05
+16,Coke,Beverage,4.07
+14,Gulab Jamun,Dessert,19.89
+29,Coke,Beverage,4.01
+14,Chicken Burger,Burger,3.67
+70,Gulab Jamun,Dessert,23.7
+15,Cheese Burger,Burger,22.29
+99,Coke,Beverage,12.89
+91,Cheese Burger,Burger,26.43
+74,Farmhouse Pizza,Pizza,15.5
+91,Veg Supreme,Pizza,28.55
+18,Biryani,Main Course,20.99
+52,Cold Coffee,Beverage,7.37
+71,Coke,Beverage,25.72
+13,Butter Chicken,Main Course,13.83
+75,Veg Burger,Burger,17.71
+10,Cold Coffee,Beverage,15.33
+67,Veg Supreme,Pizza,17.55
+60,Cold Coffee,Beverage,29.83
+51,Cheese Burger,Burger,7.03
+98,Paneer Butter Masala,Main Course,11.27
+32,Butter Chicken,Main Course,17.68
+31,Mango Shake,Beverage,12.21
+65,Cheesecake,Dessert,10.38
+94,Pepperoni Pizza,Pizza,17.07
+98,Veg Supreme,Pizza,22.37
+8,Farmhouse Pizza,Pizza,17.28
+43,Paneer Butter Masala,Main Course,28.59
+69,Cheese Burger,Burger,18.08
+57,Butter Chicken,Main Course,15.91
+75,Butter Chicken,Main Course,26.45
+81,Chicken Burger,Burger,18.05
+26,Mango Shake,Beverage,13.71
+81,Cold Coffee,Beverage,24.83
+21,Veg Burger,Burger,21.28
+51,Butter Chicken,Main Course,23.59
+54,Cold Coffee,Beverage,25.23
+39,Coke,Beverage,17.92
+72,Coke,Beverage,19.09
+91,Brownie,Dessert,29.1
+73,Veg Burger,Burger,15.44
+77,Pepperoni Pizza,Pizza,6.25
+93,Paneer Burger,Burger,19.5
+14,Gulab Jamun,Dessert,19.8
+71,Coke,Beverage,17.96
+65,Margherita Pizza,Pizza,26.43
+64,Margherita Pizza,Pizza,25.0
+76,Veg Supreme,Pizza,24.84
+93,Ice Cream,Dessert,23.87
+73,Lemonade,Beverage,15.28
+63,Cheesecake,Dessert,20.04
+79,Brownie,Dessert,16.99
+69,Pepperoni Pizza,Pizza,26.75
+50,Pepperoni Pizza,Pizza,24.4
+45,Mango Shake,Beverage,20.25
+6,Fried Rice,Main Course,20.45
+67,Mango Shake,Beverage,19.84
+83,Pepperoni Pizza,Pizza,26.66
+57,Mango Shake,Beverage,17.33
+52,Brownie,Dessert,10.06
+41,Butter Chicken,Main Course,4.16
+17,Lemonade,Beverage,20.2
+70,Margherita Pizza,Pizza,14.91
+43,Cheese Burger,Burger,4.79
+90,Cold Coffee,Beverage,10.33
+45,Butter Chicken,Main Course,26.46
+27,Margherita Pizza,Pizza,12.5
+98,Pepperoni Pizza,Pizza,9.4
+13,Ice Cream,Dessert,15.55
+70,Ice Cream,Dessert,23.29
+9,Pepperoni Pizza,Pizza,21.5
+55,Butter Chicken,Main Course,11.96
+17,Paneer Burger,Burger,12.23
+64,Cheesecake,Dessert,25.63
+80,Paneer Butter Masala,Main Course,23.13
+61,Farmhouse Pizza,Pizza,28.85
+52,Cheesecake,Dessert,22.7
+98,Paneer Butter Masala,Main Course,14.32
+89,Biryani,Main Course,25.36
+92,Cold Coffee,Beverage,27.96
+40,Brownie,Dessert,14.68
+19,Biryani,Main Course,15.52
+99,Farmhouse Pizza,Pizza,18.52
+38,Brownie,Dessert,25.64
+65,Coke,Beverage,15.97
+82,Chicken Burger,Burger,22.51
+62,Cold Coffee,Beverage,25.39
+7,Mango Shake,Beverage,6.15
+4,Cheesecake,Dessert,19.85
+40,Lemonade,Beverage,9.64
+96,Mango Shake,Beverage,14.59
+67,Mango Shake,Beverage,21.13
+64,Paneer Butter Masala,Main Course,18.77
+34,Paneer Butter Masala,Main Course,4.66
+19,Cheesecake,Dessert,5.03
+8,Margherita Pizza,Pizza,16.88
+40,Margherita Pizza,Pizza,21.53
+58,Pepperoni Pizza,Pizza,26.65
+30,Paneer Butter Masala,Main Course,14.94
+22,Cold Coffee,Beverage,18.01
+60,Veg Burger,Burger,10.25
+43,Ice Cream,Dessert,17.3
+95,Biryani,Main Course,17.92
+78,Chicken Burger,Burger,24.77
+100,Cheese Burger,Burger,14.28
+75,Paneer Burger,Burger,11.45
+33,Gulab Jamun,Dessert,20.78
+68,Brownie,Dessert,23.69
+16,Veg Supreme,Pizza,18.98
+52,Farmhouse Pizza,Pizza,27.35
+4,Brownie,Dessert,15.36
+10,Coke,Beverage,11.24
+72,Paneer Burger,Burger,14.16
+43,Pepperoni Pizza,Pizza,23.32
+43,Cheese Burger,Burger,21.14
+90,Biryani,Main Course,19.26
+33,Margherita Pizza,Pizza,27.8
+68,Lemonade,Beverage,7.9
+54,Brownie,Dessert,5.64
+15,Brownie,Dessert,3.25
+74,Pepperoni Pizza,Pizza,12.66
+87,Fried Rice,Main Course,13.51
+37,Paneer Burger,Burger,20.98
+45,Cold Coffee,Beverage,19.83
+72,Ice Cream,Dessert,7.68
+37,Veg Supreme,Pizza,6.17
+56,Mango Shake,Beverage,9.87
+29,Veg Burger,Burger,21.97
+46,Margherita Pizza,Pizza,24.55
+71,Veg Burger,Burger,25.97
+42,Paneer Burger,Burger,3.16
+99,Gulab Jamun,Dessert,15.65
+3,Cheese Burger,Burger,25.99
+70,Cheesecake,Dessert,18.06
+51,Coke,Beverage,29.81
+19,Paneer Butter Masala,Main Course,3.48
+45,Brownie,Dessert,12.21
+89,Mango Shake,Beverage,19.78
+16,Margherita Pizza,Pizza,4.61
+30,Ice Cream,Dessert,13.45
+33,Gulab Jamun,Dessert,16.93
+41,Butter Chicken,Main Course,27.84
+85,Ice Cream,Dessert,29.32
+91,Paneer Butter Masala,Main Course,4.43
+24,Farmhouse Pizza,Pizza,3.66
+19,Gulab Jamun,Dessert,16.52
+90,Lemonade,Beverage,28.97
+61,Cheese Burger,Burger,17.51
+13,Pepperoni Pizza,Pizza,18.48
+83,Veg Burger,Burger,28.47
+95,Fried Rice,Main Course,20.89
+82,Fried Rice,Main Course,29.72
+82,Brownie,Dessert,22.48
+40,Biryani,Main Course,6.77
+8,Cold Coffee,Beverage,10.62
+14,Cheese Burger,Burger,21.16
+96,Pepperoni Pizza,Pizza,28.15
+84,Veg Supreme,Pizza,14.23
+83,Cold Coffee,Beverage,8.45
+96,Butter Chicken,Main Course,13.64
+5,Brownie,Dessert,27.42
+55,Ice Cream,Dessert,19.12
+38,Pepperoni Pizza,Pizza,20.41
+60,Ice Cream,Dessert,27.37
+74,Brownie,Dessert,18.93
+3,Brownie,Dessert,11.65
+49,Coke,Beverage,17.09
+76,Farmhouse Pizza,Pizza,20.52
+47,Paneer Burger,Burger,19.67
+88,Cheesecake,Dessert,18.49
+30,Paneer Burger,Burger,3.74
+99,Ice Cream,Dessert,12.02
+54,Cheesecake,Dessert,15.47
+56,Ice Cream,Dessert,5.55
+71,Paneer Butter Masala,Main Course,3.62
+100,Chicken Burger,Burger,22.27
+55,Pepperoni Pizza,Pizza,17.04
+36,Ice Cream,Dessert,27.06
+48,Gulab Jamun,Dessert,12.38
+71,Ice Cream,Dessert,26.81
+60,Cheesecake,Dessert,5.93
+94,Cheesecake,Dessert,4.49
+27,Margherita Pizza,Pizza,23.95
+94,Mango Shake,Beverage,18.85
+25,Chicken Burger,Burger,24.57
+83,Fried Rice,Main Course,25.38
+46,Paneer Burger,Burger,22.83
+35,Brownie,Dessert,28.94
+92,Cold Coffee,Beverage,24.65
+38,Coke,Beverage,21.54
+24,Farmhouse Pizza,Pizza,20.99
+14,Biryani,Main Course,29.36
+38,Farmhouse Pizza,Pizza,5.54
+5,Chicken Burger,Burger,9.31
+74,Cheesecake,Dessert,4.59
+97,Paneer Burger,Burger,5.21
+82,Coke,Beverage,20.34
+22,Veg Burger,Burger,14.46
+11,Pepperoni Pizza,Pizza,7.41
+5,Cheese Burger,Burger,24.63
+69,Pepperoni Pizza,Pizza,10.88
+94,Veg Supreme,Pizza,8.94
+6,Brownie,Dessert,18.05
+13,Butter Chicken,Main Course,21.05
+80,Chicken Burger,Burger,4.1
+25,Butter Chicken,Main Course,18.37
+44,Ice Cream,Dessert,16.86
+6,Ice Cream,Dessert,19.52
+57,Farmhouse Pizza,Pizza,12.0
+4,Pepperoni Pizza,Pizza,23.24
+14,Pepperoni Pizza,Pizza,23.84
+45,Biryani,Main Course,13.01
+94,Farmhouse Pizza,Pizza,25.15
+12,Pepperoni Pizza,Pizza,19.79
+72,Coke,Beverage,26.9
+93,Farmhouse Pizza,Pizza,16.79
+94,Paneer Butter Masala,Main Course,15.39
+1,Lemonade,Beverage,10.56
+29,Cheese Burger,Burger,19.82
+13,Coke,Beverage,7.15
+97,Paneer Butter Masala,Main Course,3.22
+75,Cold Coffee,Beverage,4.55
+82,Cold Coffee,Beverage,19.05
+65,Cheesecake,Dessert,28.77
+55,Chicken Burger,Burger,16.04
+9,Butter Chicken,Main Course,24.1
+90,Cheesecake,Dessert,6.19
+27,Margherita Pizza,Pizza,27.04
+22,Veg Burger,Burger,11.72
+19,Brownie,Dessert,26.02
+48,Margherita Pizza,Pizza,4.4
+42,Brownie,Dessert,28.93
+7,Butter Chicken,Main Course,7.7
+78,Mango Shake,Beverage,12.18
+63,Cheesecake,Dessert,28.39
+69,Veg Burger,Burger,7.58
+10,Cheesecake,Dessert,25.56
+8,Cheese Burger,Burger,5.28
+37,Cold Coffee,Beverage,5.21
+3,Cheese Burger,Burger,24.83
+36,Chicken Burger,Burger,17.78
+11,Cheesecake,Dessert,20.47
+40,Paneer Butter Masala,Main Course,26.61
+84,Pepperoni Pizza,Pizza,9.65
+28,Mango Shake,Beverage,13.95
+31,Paneer Burger,Burger,9.05
+94,Chicken Burger,Burger,10.54
+9,Veg Supreme,Pizza,7.34
+92,Brownie,Dessert,9.14
+29,Gulab Jamun,Dessert,15.08
+100,Coke,Beverage,8.68
+79,Pepperoni Pizza,Pizza,18.45
+59,Gulab Jamun,Dessert,17.61
+7,Brownie,Dessert,6.59
+44,Brownie,Dessert,28.75
+59,Paneer Burger,Burger,22.26
+75,Veg Supreme,Pizza,18.4
+21,Pepperoni Pizza,Pizza,25.6
+89,Ice Cream,Dessert,28.2
+50,Paneer Butter Masala,Main Course,3.26
+51,Coke,Beverage,5.34
+11,Cheese Burger,Burger,11.15
+4,Butter Chicken,Main Course,12.41
+40,Margherita Pizza,Pizza,9.33
+60,Cold Coffee,Beverage,25.13
+8,Veg Supreme,Pizza,5.95
+29,Chicken Burger,Burger,22.86
+30,Cold Coffee,Beverage,22.6
+36,Brownie,Dessert,13.39
+88,Farmhouse Pizza,Pizza,14.98
+57,Veg Supreme,Pizza,10.01
+57,Cold Coffee,Beverage,24.82
+18,Coke,Beverage,4.38
+44,Cold Coffee,Beverage,28.78
+85,Veg Supreme,Pizza,8.76
+88,Chicken Burger,Burger,27.43
+20,Butter Chicken,Main Course,9.34
+54,Margherita Pizza,Pizza,16.71
+62,Paneer Butter Masala,Main Course,18.14
+38,Brownie,Dessert,24.89
+10,Veg Burger,Burger,18.86
+69,Mango Shake,Beverage,27.01
+95,Mango Shake,Beverage,29.47
+13,Cheesecake,Dessert,19.67
+38,Mango Shake,Beverage,19.8
+5,Cold Coffee,Beverage,18.06
+76,Paneer Burger,Burger,28.04
+80,Chicken Burger,Burger,23.07
+23,Veg Supreme,Pizza,17.97
+21,Mango Shake,Beverage,12.77
+44,Lemonade,Beverage,18.64
+74,Farmhouse Pizza,Pizza,16.15
+87,Farmhouse Pizza,Pizza,20.66
+74,Chicken Burger,Burger,3.43
+51,Paneer Butter Masala,Main Course,24.39
+60,Gulab Jamun,Dessert,20.88
+3,Cold Coffee,Beverage,12.59
+84,Cold Coffee,Beverage,24.53
+99,Fried Rice,Main Course,18.5
+36,Biryani,Main Course,7.3
+87,Mango Shake,Beverage,4.4
+22,Cold Coffee,Beverage,22.76
+57,Cheesecake,Dessert,10.46
+47,Lemonade,Beverage,14.61
+18,Paneer Butter Masala,Main Course,11.83
+54,Cheese Burger,Burger,7.09
+56,Paneer Butter Masala,Main Course,28.21
+26,Cheesecake,Dessert,25.98
+87,Butter Chicken,Main Course,26.38
+21,Lemonade,Beverage,18.58
+66,Butter Chicken,Main Course,24.66
+38,Cold Coffee,Beverage,15.48
+74,Cold Coffee,Beverage,23.64
+22,Mango Shake,Beverage,28.37
+45,Veg Burger,Burger,27.89
+40,Paneer Burger,Burger,14.93
+57,Cheese Burger,Burger,20.36
+83,Fried Rice,Main Course,3.69
+46,Farmhouse Pizza,Pizza,4.71
+86,Gulab Jamun,Dessert,8.01
+89,Farmhouse Pizza,Pizza,27.2
+18,Veg Burger,Burger,10.15
+91,Veg Burger,Burger,15.17
+90,Cheese Burger,Burger,25.99
+84,Chicken Burger,Burger,8.64
+22,Margherita Pizza,Pizza,25.83
+32,Margherita Pizza,Pizza,9.66
+100,Farmhouse Pizza,Pizza,14.14
+94,Butter Chicken,Main Course,19.24
+2,Ice Cream,Dessert,4.02
+55,Cheesecake,Dessert,13.4
+13,Pepperoni Pizza,Pizza,19.75
+37,Coke,Beverage,29.69
+58,Chicken Burger,Burger,11.05
+1,Farmhouse Pizza,Pizza,18.57
+45,Butter Chicken,Main Course,15.7
+52,Veg Burger,Burger,23.27
+12,Farmhouse Pizza,Pizza,5.66
+32,Mango Shake,Beverage,5.64
+23,Lemonade,Beverage,8.31
+46,Mango Shake,Beverage,12.19
+26,Mango Shake,Beverage,7.79
+63,Lemonade,Beverage,13.84
+11,Coke,Beverage,6.42
+3,Margherita Pizza,Pizza,4.62
+34,Cheese Burger,Burger,24.38
+60,Veg Supreme,Pizza,8.76
+42,Butter Chicken,Main Course,29.49
+23,Farmhouse Pizza,Pizza,19.35
+60,Mango Shake,Beverage,7.4
+67,Veg Supreme,Pizza,5.87
+91,Fried Rice,Main Course,8.85
+62,Farmhouse Pizza,Pizza,9.97
+44,Margherita Pizza,Pizza,19.46
+34,Paneer Burger,Burger,12.95
+70,Cheesecake,Dessert,8.67
+48,Lemonade,Beverage,22.1
+65,Farmhouse Pizza,Pizza,27.5
+90,Butter Chicken,Main Course,3.27
+85,Paneer Butter Masala,Main Course,12.57
+69,Biryani,Main Course,8.08
+71,Brownie,Dessert,3.46
+30,Lemonade,Beverage,22.54
+39,Coke,Beverage,6.06
+15,Lemonade,Beverage,18.53
+79,Brownie,Dessert,13.45
+74,Cheese Burger,Burger,17.78
+32,Biryani,Main Course,5.86
+92,Coke,Beverage,4.73
+11,Lemonade,Beverage,28.34
+45,Ice Cream,Dessert,14.94
+66,Cheesecake,Dessert,10.98
+5,Paneer Butter Masala,Main Course,28.97
+14,Mango Shake,Beverage,15.16
+39,Coke,Beverage,10.86
+87,Cheesecake,Dessert,15.06
+56,Fried Rice,Main Course,16.73
+56,Cheesecake,Dessert,25.28
+98,Ice Cream,Dessert,4.79
+19,Ice Cream,Dessert,29.44
+22,Biryani,Main Course,9.23
+86,Cheese Burger,Burger,28.58
+35,Cold Coffee,Beverage,24.61
+55,Chicken Burger,Burger,10.33
+99,Fried Rice,Main Course,27.83
+42,Gulab Jamun,Dessert,13.15
+11,Chicken Burger,Burger,23.63
+57,Pepperoni Pizza,Pizza,13.86
+84,Cheesecake,Dessert,22.67
+98,Farmhouse Pizza,Pizza,23.17
+34,Cheese Burger,Burger,6.89
+73,Mango Shake,Beverage,7.1
+50,Butter Chicken,Main Course,21.55
+87,Lemonade,Beverage,27.52
+92,Farmhouse Pizza,Pizza,19.68
+80,Mango Shake,Beverage,4.64
+70,Coke,Beverage,18.52
+48,Lemonade,Beverage,20.32
+84,Coke,Beverage,7.1
+52,Gulab Jamun,Dessert,13.41
+53,Paneer Burger,Burger,14.3
+19,Chicken Burger,Burger,15.02
+96,Biryani,Main Course,4.47
+3,Veg Supreme,Pizza,27.2
+37,Farmhouse Pizza,Pizza,24.33
+80,Farmhouse Pizza,Pizza,28.3
+64,Lemonade,Beverage,13.75
+27,Fried Rice,Main Course,17.5
+31,Fried Rice,Main Course,7.94
+48,Lemonade,Beverage,10.07
+20,Cheese Burger,Burger,9.4
+10,Paneer Burger,Burger,16.48
+65,Butter Chicken,Main Course,9.84
+78,Veg Burger,Burger,16.38
+31,Gulab Jamun,Dessert,18.37
+48,Farmhouse Pizza,Pizza,3.39
+84,Biryani,Main Course,12.65
+97,Cold Coffee,Beverage,25.21
+35,Paneer Burger,Burger,18.55
+15,Lemonade,Beverage,20.03
+6,Ice Cream,Dessert,8.85
+96,Coke,Beverage,19.86
+25,Butter Chicken,Main Course,8.94
+54,Cheesecake,Dessert,4.97
+82,Cold Coffee,Beverage,12.86
+12,Farmhouse Pizza,Pizza,9.49
+80,Pepperoni Pizza,Pizza,8.71
+36,Cold Coffee,Beverage,23.7
+11,Chicken Burger,Burger,9.54
+41,Veg Supreme,Pizza,4.21
+38,Brownie,Dessert,6.93
+44,Veg Supreme,Pizza,23.92
+93,Farmhouse Pizza,Pizza,13.02
+73,Cheese Burger,Burger,13.62
+87,Brownie,Dessert,8.06
+71,Margherita Pizza,Pizza,29.42
+76,Ice Cream,Dessert,11.81
+24,Veg Supreme,Pizza,4.13
+90,Brownie,Dessert,29.88
+9,Brownie,Dessert,17.28
+90,Brownie,Dessert,8.5
+31,Cheesecake,Dessert,6.65
+88,Butter Chicken,Main Course,22.12
+16,Cheese Burger,Burger,11.76
+55,Veg Burger,Burger,10.66
+63,Mango Shake,Beverage,9.39
+10,Cheese Burger,Burger,21.19
+93,Paneer Butter Masala,Main Course,8.57
+89,Fried Rice,Main Course,16.51
+77,Gulab Jamun,Dessert,13.24
+53,Cold Coffee,Beverage,22.8
+62,Paneer Butter Masala,Main Course,17.23
+58,Margherita Pizza,Pizza,20.75
+88,Biryani,Main Course,19.54
+25,Cold Coffee,Beverage,6.59
+49,Brownie,Dessert,20.56
+54,Biryani,Main Course,18.78
+3,Cold Coffee,Beverage,28.33
+51,Pepperoni Pizza,Pizza,8.28
+93,Cheesecake,Dessert,13.15
+21,Veg Supreme,Pizza,6.5
+49,Paneer Butter Masala,Main Course,12.69
+74,Margherita Pizza,Pizza,4.27
+87,Mango Shake,Beverage,10.59
+30,Biryani,Main Course,24.13
+51,Fried Rice,Main Course,22.28
+41,Cheese Burger,Burger,11.9
+58,Veg Supreme,Pizza,8.98
+4,Lemonade,Beverage,3.48
+96,Coke,Beverage,16.1
+18,Brownie,Dessert,4.36
+3,Brownie,Dessert,10.81
+56,Veg Burger,Burger,21.12
+84,Coke,Beverage,7.56
+20,Ice Cream,Dessert,4.88
+76,Mango Shake,Beverage,26.97
+85,Paneer Burger,Burger,10.35
+38,Paneer Burger,Burger,22.03
+5,Farmhouse Pizza,Pizza,25.02
+75,Cheese Burger,Burger,15.33
+56,Veg Burger,Burger,29.42
+91,Ice Cream,Dessert,21.86
+46,Mango Shake,Beverage,5.94
+21,Veg Burger,Burger,29.42
+10,Paneer Butter Masala,Main Course,13.89
+49,Gulab Jamun,Dessert,3.54
+25,Veg Burger,Burger,29.97
+100,Ice Cream,Dessert,9.46
+10,Farmhouse Pizza,Pizza,22.3
+50,Butter Chicken,Main Course,13.4
+58,Paneer Burger,Burger,21.48
+7,Paneer Burger,Burger,20.37
+73,Brownie,Dessert,24.45
+71,Butter Chicken,Main Course,3.21
+51,Brownie,Dessert,4.38
+15,Chicken Burger,Burger,4.33
+29,Veg Burger,Burger,26.25
+7,Brownie,Dessert,4.65
+78,Ice Cream,Dessert,15.05
+42,Lemonade,Beverage,17.75
+100,Chicken Burger,Burger,14.5
+18,Veg Burger,Burger,16.51
+11,Paneer Butter Masala,Main Course,6.01
+53,Pepperoni Pizza,Pizza,19.56
+72,Cheesecake,Dessert,10.93
+14,Cheese Burger,Burger,27.31
+26,Cold Coffee,Beverage,13.92
+17,Pepperoni Pizza,Pizza,11.33
+27,Cheesecake,Dessert,25.27
+62,Margherita Pizza,Pizza,8.92
+93,Margherita Pizza,Pizza,25.46
+57,Margherita Pizza,Pizza,11.68
+15,Mango Shake,Beverage,21.44
+46,Margherita Pizza,Pizza,19.09
+83,Chicken Burger,Burger,29.75
+85,Paneer Burger,Burger,16.88
+70,Mango Shake,Beverage,5.4
+98,Paneer Butter Masala,Main Course,24.91
+78,Paneer Burger,Burger,26.57
+66,Chicken Burger,Burger,15.6
+47,Cheesecake,Dessert,28.97
+71,Margherita Pizza,Pizza,27.71
+62,Chicken Burger,Burger,24.33
+7,Lemonade,Beverage,14.25
+88,Cheesecake,Dessert,12.91
+50,Paneer Butter Masala,Main Course,4.32
+33,Biryani,Main Course,15.24
+67,Mango Shake,Beverage,29.64
+15,Mango Shake,Beverage,27.51
+17,Paneer Butter Masala,Main Course,18.7
+29,Cold Coffee,Beverage,17.13
+81,Brownie,Dessert,29.66
+81,Brownie,Dessert,4.33
+65,Cheesecake,Dessert,17.38
+19,Paneer Burger,Burger,7.25
+57,Fried Rice,Main Course,17.89
+23,Chicken Burger,Burger,20.22
+27,Coke,Beverage,16.91
+54,Cheese Burger,Burger,8.93
+63,Farmhouse Pizza,Pizza,11.45
+71,Cheese Burger,Burger,8.53
+40,Margherita Pizza,Pizza,28.55
+97,Pepperoni Pizza,Pizza,14.64
+52,Butter Chicken,Main Course,8.76
+89,Veg Burger,Burger,14.61
+62,Butter Chicken,Main Course,24.35
+72,Chicken Burger,Burger,10.09
+83,Biryani,Main Course,23.84
+42,Paneer Butter Masala,Main Course,7.07
+57,Lemonade,Beverage,13.39
+84,Pepperoni Pizza,Pizza,21.3
+24,Mango Shake,Beverage,17.13
+21,Mango Shake,Beverage,25.34
+21,Veg Supreme,Pizza,17.38
+54,Farmhouse Pizza,Pizza,24.04
+11,Farmhouse Pizza,Pizza,24.0
+90,Veg Burger,Burger,9.0
+59,Veg Supreme,Pizza,13.57
+35,Veg Supreme,Pizza,13.1
+2,Coke,Beverage,9.97
+53,Paneer Butter Masala,Main Course,29.07
+29,Brownie,Dessert,24.65
+56,Paneer Burger,Burger,19.63
+91,Veg Supreme,Pizza,29.73
+93,Cheese Burger,Burger,11.54
+44,Gulab Jamun,Dessert,26.44
+54,Ice Cream,Dessert,7.58
+40,Butter Chicken,Main Course,10.52
+85,Veg Supreme,Pizza,24.5
+51,Biryani,Main Course,19.4
+64,Veg Burger,Burger,8.38
+95,Cheese Burger,Burger,5.71
+29,Gulab Jamun,Dessert,23.8
+77,Ice Cream,Dessert,26.19
+46,Fried Rice,Main Course,19.7
+70,Butter Chicken,Main Course,17.12
+16,Gulab Jamun,Dessert,5.02
+89,Paneer Butter Masala,Main Course,5.07
+92,Biryani,Main Course,20.64
+16,Lemonade,Beverage,17.87
+3,Cheese Burger,Burger,9.53
+55,Margherita Pizza,Pizza,4.33
+10,Biryani,Main Course,23.77
+27,Gulab Jamun,Dessert,5.65
+85,Chicken Burger,Burger,5.7
+40,Cold Coffee,Beverage,29.12
+62,Gulab Jamun,Dessert,22.08
+35,Cheese Burger,Burger,6.29
+56,Gulab Jamun,Dessert,8.58
+57,Butter Chicken,Main Course,7.06
+22,Cheesecake,Dessert,10.68
+77,Ice Cream,Dessert,27.65
+2,Veg Burger,Burger,18.22
+89,Farmhouse Pizza,Pizza,11.9
+36,Gulab Jamun,Dessert,22.14
+39,Cheesecake,Dessert,17.92
+43,Gulab Jamun,Dessert,22.99
+41,Margherita Pizza,Pizza,12.23
+71,Brownie,Dessert,14.63
+6,Paneer Burger,Burger,9.59
+20,Biryani,Main Course,17.9
+79,Mango Shake,Beverage,24.82
+46,Paneer Burger,Burger,15.45
+88,Brownie,Dessert,29.26
+37,Brownie,Dessert,19.68
+75,Cheese Burger,Burger,29.97
+36,Biryani,Main Course,23.62
+34,Coke,Beverage,17.86
+11,Fried Rice,Main Course,13.69
+92,Cold Coffee,Beverage,27.49
+100,Lemonade,Beverage,20.52
+28,Chicken Burger,Burger,9.58
+9,Margherita Pizza,Pizza,6.73
+8,Lemonade,Beverage,15.41
+22,Biryani,Main Course,12.31
+11,Brownie,Dessert,29.64
+27,Paneer Burger,Burger,27.04
+80,Margherita Pizza,Pizza,22.37
+29,Paneer Butter Masala,Main Course,23.62
+84,Lemonade,Beverage,9.05
+96,Biryani,Main Course,24.56
+80,Cheesecake,Dessert,21.87
+75,Fried Rice,Main Course,23.94
+46,Gulab Jamun,Dessert,5.71
+18,Farmhouse Pizza,Pizza,26.78
+62,Biryani,Main Course,16.58
+34,Gulab Jamun,Dessert,10.63
+78,Cheese Burger,Burger,5.66
+70,Gulab Jamun,Dessert,24.31
+49,Biryani,Main Course,26.38
+12,Cold Coffee,Beverage,7.62
+36,Lemonade,Beverage,23.37
+19,Margherita Pizza,Pizza,25.31
+4,Pepperoni Pizza,Pizza,16.59
+98,Paneer Butter Masala,Main Course,5.47
+73,Paneer Burger,Burger,11.24
+60,Gulab Jamun,Dessert,6.24
+29,Coke,Beverage,19.39
+26,Veg Burger,Burger,10.48
+54,Chicken Burger,Burger,13.18
+86,Paneer Burger,Burger,26.95
+1,Veg Supreme,Pizza,24.78
+58,Biryani,Main Course,6.77
+55,Mango Shake,Beverage,21.06
+62,Pepperoni Pizza,Pizza,19.86
+41,Farmhouse Pizza,Pizza,15.08
+50,Biryani,Main Course,5.64
+82,Margherita Pizza,Pizza,23.51
+49,Pepperoni Pizza,Pizza,25.45
+11,Paneer Burger,Burger,25.39
+28,Coke,Beverage,15.26
+25,Cheesecake,Dessert,4.66
+15,Veg Burger,Burger,26.55
+92,Fried Rice,Main Course,5.9
+54,Margherita Pizza,Pizza,13.71
+23,Veg Supreme,Pizza,5.28
+71,Cold Coffee,Beverage,9.7
+31,Gulab Jamun,Dessert,25.75
+89,Lemonade,Beverage,5.62
+49,Butter Chicken,Main Course,9.01
+17,Farmhouse Pizza,Pizza,8.1
+38,Pepperoni Pizza,Pizza,6.79
+41,Farmhouse Pizza,Pizza,21.06
+78,Chicken Burger,Burger,25.63
+16,Paneer Butter Masala,Main Course,23.51
+47,Paneer Burger,Burger,14.8
+84,Farmhouse Pizza,Pizza,22.12
+54,Fried Rice,Main Course,4.69
+63,Brownie,Dessert,13.16
+76,Ice Cream,Dessert,12.54
+58,Farmhouse Pizza,Pizza,22.12
+22,Butter Chicken,Main Course,23.25
+60,Cheesecake,Dessert,9.54
+19,Chicken Burger,Burger,14.8
+87,Coke,Beverage,24.48
+52,Coke,Beverage,9.61
+43,Lemonade,Beverage,9.73
+83,Pepperoni Pizza,Pizza,13.27
+37,Brownie,Dessert,5.05
+59,Cold Coffee,Beverage,25.07
+79,Mango Shake,Beverage,14.2
+9,Cheese Burger,Burger,21.11
+9,Veg Burger,Burger,12.23
+98,Chicken Burger,Burger,27.22
+100,Brownie,Dessert,12.14
+32,Brownie,Dessert,14.42
+52,Veg Supreme,Pizza,24.26
+69,Paneer Burger,Burger,27.35
+74,Cheesecake,Dessert,11.98
+75,Lemonade,Beverage,8.16
+30,Brownie,Dessert,7.41
+1,Gulab Jamun,Dessert,26.68
+45,Paneer Burger,Burger,8.96
+84,Cheese Burger,Burger,28.06
+91,Cold Coffee,Beverage,25.36
+56,Veg Supreme,Pizza,13.66
+32,Gulab Jamun,Dessert,29.92
+30,Brownie,Dessert,17.89
+81,Coke,Beverage,13.45
+66,Brownie,Dessert,9.62
+83,Paneer Butter Masala,Main Course,19.72
+48,Lemonade,Beverage,22.6
+65,Cheesecake,Dessert,9.13
+73,Veg Burger,Burger,6.6
+31,Ice Cream,Dessert,4.75
+37,Gulab Jamun,Dessert,27.08
+9,Fried Rice,Main Course,28.01
+90,Pepperoni Pizza,Pizza,27.87
+1,Brownie,Dessert,16.82
+59,Veg Supreme,Pizza,10.58
+23,Paneer Burger,Burger,27.32
+19,Veg Burger,Burger,7.18
+91,Cold Coffee,Beverage,12.24
+92,Cheese Burger,Burger,28.19
+19,Pepperoni Pizza,Pizza,29.9
+85,Fried Rice,Main Course,27.22
+28,Veg Burger,Burger,14.51
+94,Gulab Jamun,Dessert,15.28
+68,Veg Supreme,Pizza,14.27
+49,Veg Supreme,Pizza,12.46
+91,Lemonade,Beverage,13.25
+8,Cheese Burger,Burger,17.98
+57,Ice Cream,Dessert,18.87
+46,Paneer Butter Masala,Main Course,17.25
+35,Pepperoni Pizza,Pizza,20.54
+24,Veg Burger,Burger,4.48
+72,Coke,Beverage,22.34
+73,Paneer Butter Masala,Main Course,11.65
+70,Butter Chicken,Main Course,24.91
+56,Fried Rice,Main Course,7.16
+29,Cheesecake,Dessert,7.37
+82,Lemonade,Beverage,18.9
+6,Cheesecake,Dessert,5.19
+7,Veg Burger,Burger,12.48
+15,Paneer Burger,Burger,13.5
+89,Fried Rice,Main Course,15.8
+94,Chicken Burger,Burger,19.87
+95,Veg Supreme,Pizza,13.79
+86,Lemonade,Beverage,4.55
+56,Pepperoni Pizza,Pizza,8.52
+72,Chicken Burger,Burger,28.28
+79,Fried Rice,Main Course,6.28
+19,Farmhouse Pizza,Pizza,6.62
+15,Veg Burger,Burger,19.27
+61,Farmhouse Pizza,Pizza,18.22
+32,Lemonade,Beverage,6.29
+10,Lemonade,Beverage,13.37
+7,Margherita Pizza,Pizza,15.93
+33,Biryani,Main Course,16.37
+91,Gulab Jamun,Dessert,7.48
+49,Cheese Burger,Burger,23.37
+18,Biryani,Main Course,29.27
+33,Butter Chicken,Main Course,6.77
+56,Fried Rice,Main Course,28.99
+71,Chicken Burger,Burger,9.17
+96,Biryani,Main Course,29.83
+65,Gulab Jamun,Dessert,21.42
+16,Veg Burger,Burger,21.45
+19,Butter Chicken,Main Course,22.52
+42,Cheese Burger,Burger,28.05
+81,Brownie,Dessert,15.44
+25,Cold Coffee,Beverage,25.27
+98,Veg Burger,Burger,19.26
+32,Fried Rice,Main Course,22.09
+27,Cold Coffee,Beverage,4.42
+64,Margherita Pizza,Pizza,4.5
+95,Mango Shake,Beverage,10.46
+51,Paneer Burger,Burger,3.77
+24,Chicken Burger,Burger,8.37
+36,Lemonade,Beverage,13.52
+46,Gulab Jamun,Dessert,17.48
+64,Mango Shake,Beverage,20.24
+96,Chicken Burger,Burger,6.71
+93,Chicken Burger,Burger,23.14
+55,Cold Coffee,Beverage,27.65
+80,Chicken Burger,Burger,27.1
+20,Cold Coffee,Beverage,22.96
+78,Ice Cream,Dessert,4.06
+71,Paneer Burger,Burger,14.66
+52,Cheesecake,Dessert,22.99
+47,Veg Supreme,Pizza,28.16
+87,Farmhouse Pizza,Pizza,26.3
+32,Paneer Butter Masala,Main Course,21.49
+81,Gulab Jamun,Dessert,9.88
+75,Brownie,Dessert,17.3
+96,Biryani,Main Course,13.13
+48,Cheesecake,Dessert,20.45
+84,Chicken Burger,Burger,23.77
+97,Butter Chicken,Main Course,27.59
+2,Brownie,Dessert,25.4
+15,Paneer Butter Masala,Main Course,23.17
+10,Lemonade,Beverage,15.55
+85,Biryani,Main Course,16.48
+60,Lemonade,Beverage,21.08
+19,Cheese Burger,Burger,5.12
+98,Paneer Butter Masala,Main Course,19.38
+24,Chicken Burger,Burger,17.78
+33,Coke,Beverage,13.78
+34,Pepperoni Pizza,Pizza,11.53
+7,Butter Chicken,Main Course,24.53
+30,Veg Supreme,Pizza,27.59
+82,Margherita Pizza,Pizza,26.1
+20,Cheesecake,Dessert,4.49
+53,Farmhouse Pizza,Pizza,17.63
+47,Margherita Pizza,Pizza,23.98
+67,Cold Coffee,Beverage,9.97
+68,Farmhouse Pizza,Pizza,19.18
+33,Paneer Burger,Burger,18.48
+56,Gulab Jamun,Dessert,22.26
+12,Margherita Pizza,Pizza,15.4
+38,Paneer Burger,Burger,23.06
+73,Cheesecake,Dessert,9.51
+83,Farmhouse Pizza,Pizza,24.41
+2,Margherita Pizza,Pizza,20.01
+97,Farmhouse Pizza,Pizza,13.06
+87,Biryani,Main Course,12.63
+46,Butter Chicken,Main Course,9.66
+63,Chicken Burger,Burger,7.7
+87,Lemonade,Beverage,12.39
+4,Pepperoni Pizza,Pizza,11.79
+20,Farmhouse Pizza,Pizza,10.33
+83,Ice Cream,Dessert,4.78
+29,Cheese Burger,Burger,5.25
+97,Pepperoni Pizza,Pizza,18.7
+49,Lemonade,Beverage,7.53
+54,Cheesecake,Dessert,20.94
+63,Gulab Jamun,Dessert,25.83
+15,Ice Cream,Dessert,11.63
+48,Butter Chicken,Main Course,18.74
+9,Pepperoni Pizza,Pizza,9.73
+16,Paneer Burger,Burger,11.37
+88,Biryani,Main Course,21.77
+51,Margherita Pizza,Pizza,3.73
+67,Lemonade,Beverage,16.21
+80,Paneer Butter Masala,Main Course,11.06
+25,Biryani,Main Course,24.1
+34,Ice Cream,Dessert,28.23
+16,Farmhouse Pizza,Pizza,8.48
+97,Margherita Pizza,Pizza,9.83
+65,Veg Supreme,Pizza,13.32
+27,Paneer Butter Masala,Main Course,28.41
+46,Chicken Burger,Burger,12.95
+61,Butter Chicken,Main Course,6.47
+25,Farmhouse Pizza,Pizza,20.84
+22,Gulab Jamun,Dessert,10.14
+7,Chicken Burger,Burger,5.42
+49,Cold Coffee,Beverage,6.5
+71,Mango Shake,Beverage,29.29
+64,Farmhouse Pizza,Pizza,8.59
+72,Cheese Burger,Burger,5.28
+35,Brownie,Dessert,16.55
+49,Paneer Butter Masala,Main Course,20.82
+4,Butter Chicken,Main Course,11.63
+52,Pepperoni Pizza,Pizza,25.68
+62,Lemonade,Beverage,7.2
+9,Paneer Burger,Burger,14.37
+68,Lemonade,Beverage,29.4
+25,Margherita Pizza,Pizza,22.28
+57,Ice Cream,Dessert,20.16
+74,Coke,Beverage,6.3
+14,Biryani,Main Course,14.52
+67,Cold Coffee,Beverage,17.38
+15,Farmhouse Pizza,Pizza,5.83
+49,Fried Rice,Main Course,11.57
+96,Ice Cream,Dessert,8.56
+32,Mango Shake,Beverage,11.76
+70,Mango Shake,Beverage,9.92
+30,Cheese Burger,Burger,28.29
+87,Mango Shake,Beverage,20.34
+87,Pepperoni Pizza,Pizza,27.49
+44,Lemonade,Beverage,29.75
+4,Pepperoni Pizza,Pizza,28.92
+39,Fried Rice,Main Course,22.91
+35,Cheesecake,Dessert,23.42
+10,Veg Burger,Burger,6.82
+71,Pepperoni Pizza,Pizza,15.38
+83,Cheesecake,Dessert,14.72
+98,Farmhouse Pizza,Pizza,28.31
+100,Coke,Beverage,15.44
+73,Pepperoni Pizza,Pizza,12.2
+40,Gulab Jamun,Dessert,4.13
+92,Paneer Burger,Burger,27.78
+39,Cold Coffee,Beverage,29.9
+49,Farmhouse Pizza,Pizza,14.42
+66,Paneer Butter Masala,Main Course,8.23
+20,Chicken Burger,Burger,9.58
+28,Veg Supreme,Pizza,24.45
+18,Gulab Jamun,Dessert,11.62
+94,Paneer Butter Masala,Main Course,6.95
+52,Ice Cream,Dessert,23.42
+8,Biryani,Main Course,22.06
+76,Coke,Beverage,18.16
+21,Chicken Burger,Burger,23.85
+3,Farmhouse Pizza,Pizza,4.97
+85,Fried Rice,Main Course,17.44
+57,Veg Burger,Burger,18.38
+13,Cheesecake,Dessert,21.33
+83,Chicken Burger,Burger,10.65
+24,Veg Burger,Burger,23.56
+43,Mango Shake,Beverage,13.35
+42,Pepperoni Pizza,Pizza,13.87
+77,Brownie,Dessert,4.57
+42,Gulab Jamun,Dessert,16.08
+37,Butter Chicken,Main Course,9.55
+96,Gulab Jamun,Dessert,8.49
+10,Cold Coffee,Beverage,12.04
+13,Cheese Burger,Burger,9.83
+63,Gulab Jamun,Dessert,8.51
+22,Cold Coffee,Beverage,26.78
+14,Gulab Jamun,Dessert,29.16
+4,Fried Rice,Main Course,6.36
+81,Coke,Beverage,8.73
+27,Cheesecake,Dessert,8.32
+2,Veg Supreme,Pizza,16.49
+87,Lemonade,Beverage,28.34
+75,Margherita Pizza,Pizza,7.29
+53,Margherita Pizza,Pizza,15.19
+32,Paneer Burger,Burger,6.83
+13,Pepperoni Pizza,Pizza,23.23
+93,Farmhouse Pizza,Pizza,18.55
+3,Cheesecake,Dessert,22.48
+76,Cold Coffee,Beverage,9.18
+57,Ice Cream,Dessert,8.6
+2,Farmhouse Pizza,Pizza,3.45
+5,Chicken Burger,Burger,26.88
+71,Cheese Burger,Burger,18.43
+59,Margherita Pizza,Pizza,7.79
+99,Cold Coffee,Beverage,8.71
+64,Lemonade,Beverage,4.58
+20,Margherita Pizza,Pizza,17.64
+89,Veg Burger,Burger,6.61
+9,Biryani,Main Course,14.69
+51,Brownie,Dessert,13.08
+50,Ice Cream,Dessert,13.77
+6,Paneer Burger,Burger,9.92
+87,Butter Chicken,Main Course,13.64
+22,Mango Shake,Beverage,29.36
+22,Chicken Burger,Burger,6.75
+60,Ice Cream,Dessert,24.1
+76,Cold Coffee,Beverage,21.27
+50,Pepperoni Pizza,Pizza,23.98
+93,Lemonade,Beverage,27.8
+13,Cold Coffee,Beverage,7.49
+83,Lemonade,Beverage,27.39
+88,Fried Rice,Main Course,9.66
+80,Chicken Burger,Burger,7.51
+62,Veg Burger,Burger,14.57
+69,Fried Rice,Main Course,19.13
+44,Margherita Pizza,Pizza,22.54
+8,Farmhouse Pizza,Pizza,3.09
+71,Veg Supreme,Pizza,16.77
+66,Paneer Burger,Burger,26.9
+6,Lemonade,Beverage,15.13
+93,Margherita Pizza,Pizza,23.16
+43,Farmhouse Pizza,Pizza,24.58
+99,Veg Supreme,Pizza,3.92
+59,Lemonade,Beverage,7.64
+8,Paneer Burger,Burger,27.31
+48,Veg Supreme,Pizza,7.98
+61,Biryani,Main Course,22.18
+72,Veg Burger,Burger,10.37
+99,Brownie,Dessert,24.78
+32,Biryani,Main Course,23.98
+46,Cheese Burger,Burger,12.13
+98,Lemonade,Beverage,15.32
+46,Cheese Burger,Burger,24.65
+22,Cheese Burger,Burger,17.06
+44,Cheese Burger,Burger,14.56
+42,Pepperoni Pizza,Pizza,17.74
+96,Pepperoni Pizza,Pizza,7.17
+42,Lemonade,Beverage,29.18
+7,Veg Supreme,Pizza,8.78
+97,Paneer Burger,Burger,3.24
+98,Margherita Pizza,Pizza,7.44
+31,Veg Burger,Burger,27.78
+22,Paneer Butter Masala,Main Course,16.08
+15,Butter Chicken,Main Course,10.44
+72,Veg Supreme,Pizza,16.66
+91,Ice Cream,Dessert,23.83
+74,Mango Shake,Beverage,11.29
+72,Veg Burger,Burger,5.08
+35,Cheese Burger,Burger,19.23
+2,Ice Cream,Dessert,15.18
+9,Margherita Pizza,Pizza,20.65
+65,Cold Coffee,Beverage,16.19
+70,Farmhouse Pizza,Pizza,22.41
+22,Fried Rice,Main Course,9.71
+29,Paneer Butter Masala,Main Course,27.11
+24,Biryani,Main Course,15.9
+47,Brownie,Dessert,14.64
+38,Biryani,Main Course,4.39
+56,Cold Coffee,Beverage,25.78
+35,Brownie,Dessert,14.2
+38,Cheesecake,Dessert,10.37
+9,Biryani,Main Course,27.5
+39,Coke,Beverage,19.47
+2,Butter Chicken,Main Course,7.95
+100,Mango Shake,Beverage,3.25
+71,Biryani,Main Course,22.43
+32,Lemonade,Beverage,9.32
+30,Cheesecake,Dessert,3.63
+18,Cheese Burger,Burger,17.24
+45,Veg Burger,Burger,5.13
+17,Farmhouse Pizza,Pizza,25.41
+20,Biryani,Main Course,14.05
+97,Veg Burger,Burger,21.27
+63,Fried Rice,Main Course,4.61
+78,Veg Burger,Burger,22.34
+63,Farmhouse Pizza,Pizza,12.75
+71,Veg Supreme,Pizza,19.07
+77,Paneer Burger,Burger,21.95
+98,Paneer Burger,Burger,22.35
+17,Coke,Beverage,3.16
+93,Gulab Jamun,Dessert,13.66
+91,Lemonade,Beverage,6.8
+13,Fried Rice,Main Course,5.02
+13,Brownie,Dessert,20.85
+83,Farmhouse Pizza,Pizza,5.03
+12,Fried Rice,Main Course,18.23
+25,Cheese Burger,Burger,4.92
+19,Farmhouse Pizza,Pizza,14.09
+100,Veg Supreme,Pizza,26.62
+33,Biryani,Main Course,6.27
+84,Chicken Burger,Burger,22.8
+9,Veg Supreme,Pizza,27.48
+98,Fried Rice,Main Course,25.15
+77,Veg Supreme,Pizza,4.21
+64,Cheesecake,Dessert,10.99
+22,Ice Cream,Dessert,4.08
+45,Paneer Butter Masala,Main Course,21.95
+15,Lemonade,Beverage,26.84
+29,Ice Cream,Dessert,13.81
+45,Farmhouse Pizza,Pizza,21.3
+21,Veg Supreme,Pizza,14.39
+22,Ice Cream,Dessert,5.22
+57,Chicken Burger,Burger,20.39
+39,Coke,Beverage,4.44
+46,Brownie,Dessert,14.49
+39,Lemonade,Beverage,26.16
+19,Chicken Burger,Burger,26.12
+1,Coke,Beverage,28.3
+77,Lemonade,Beverage,18.69
+21,Cheesecake,Dessert,8.51
+87,Farmhouse Pizza,Pizza,25.27
+76,Veg Burger,Burger,10.52
+7,Mango Shake,Beverage,21.04
+14,Mango Shake,Beverage,17.0
+99,Paneer Butter Masala,Main Course,24.29
+47,Cheesecake,Dessert,27.79
+96,Fried Rice,Main Course,9.49
+72,Farmhouse Pizza,Pizza,5.28
+92,Cheesecake,Dessert,6.72
+48,Ice Cream,Dessert,18.98
+99,Veg Burger,Burger,5.74
+37,Paneer Burger,Burger,15.03
+28,Cold Coffee,Beverage,22.11
+85,Brownie,Dessert,9.3
+8,Coke,Beverage,15.2
+76,Paneer Burger,Burger,25.32
+12,Gulab Jamun,Dessert,22.15
+2,Chicken Burger,Burger,16.09
+60,Ice Cream,Dessert,20.55
+31,Cheese Burger,Burger,14.77
+38,Cheesecake,Dessert,12.18
+64,Veg Burger,Burger,29.24
+95,Butter Chicken,Main Course,19.25
+67,Farmhouse Pizza,Pizza,8.74
+80,Chicken Burger,Burger,8.75
+55,Veg Supreme,Pizza,29.71
+79,Fried Rice,Main Course,18.12
+25,Fried Rice,Main Course,18.1
+84,Margherita Pizza,Pizza,10.25
+59,Margherita Pizza,Pizza,25.36
+51,Cold Coffee,Beverage,26.87
+26,Lemonade,Beverage,19.3
+25,Brownie,Dessert,17.35
+29,Veg Burger,Burger,3.2
+52,Paneer Burger,Burger,21.02
+97,Gulab Jamun,Dessert,27.23
+19,Pepperoni Pizza,Pizza,16.9
+33,Cold Coffee,Beverage,7.67
+31,Veg Supreme,Pizza,10.05
+43,Veg Burger,Burger,21.93
+17,Paneer Butter Masala,Main Course,5.86
+92,Paneer Butter Masala,Main Course,16.84
+9,Veg Supreme,Pizza,21.16
+100,Brownie,Dessert,29.39
+90,Ice Cream,Dessert,13.73
+4,Paneer Butter Masala,Main Course,15.11
+50,Brownie,Dessert,22.57
+72,Cheesecake,Dessert,14.77
+9,Brownie,Dessert,26.65
+29,Fried Rice,Main Course,16.45
+55,Veg Burger,Burger,4.56
+32,Mango Shake,Beverage,19.5
+90,Farmhouse Pizza,Pizza,12.88
+100,Paneer Butter Masala,Main Course,15.84
+80,Brownie,Dessert,25.84
+44,Brownie,Dessert,17.59
+95,Veg Burger,Burger,9.9
+4,Pepperoni Pizza,Pizza,16.28
+77,Cheese Burger,Burger,12.19
+26,Pepperoni Pizza,Pizza,22.13
+13,Paneer Butter Masala,Main Course,18.87
+64,Brownie,Dessert,17.91
+92,Cheese Burger,Burger,19.13
+25,Lemonade,Beverage,8.87
+44,Lemonade,Beverage,16.5
+73,Butter Chicken,Main Course,10.65
+91,Butter Chicken,Main Course,19.75
+19,Cheesecake,Dessert,25.4
+62,Veg Burger,Burger,22.87
+81,Paneer Butter Masala,Main Course,19.87
+38,Veg Supreme,Pizza,6.95
+89,Cheesecake,Dessert,19.32
+18,Paneer Butter Masala,Main Course,10.34
+28,Cheese Burger,Burger,6.86
+99,Mango Shake,Beverage,22.22
+9,Fried Rice,Main Course,14.43
+11,Lemonade,Beverage,7.78
+98,Farmhouse Pizza,Pizza,22.2
+58,Veg Burger,Burger,9.77
+88,Chicken Burger,Burger,14.65
+26,Coke,Beverage,15.03
+47,Coke,Beverage,22.15
+12,Coke,Beverage,20.15
+17,Paneer Burger,Burger,6.1
+62,Paneer Burger,Burger,18.67
+98,Paneer Burger,Burger,5.46
+91,Pepperoni Pizza,Pizza,28.89
+72,Cheesecake,Dessert,3.11
+56,Veg Burger,Burger,11.67
+42,Chicken Burger,Burger,18.57
+13,Butter Chicken,Main Course,10.1
+39,Butter Chicken,Main Course,20.84
+78,Farmhouse Pizza,Pizza,16.36
+3,Paneer Butter Masala,Main Course,29.27
+26,Butter Chicken,Main Course,18.55
+95,Lemonade,Beverage,20.44
+72,Cheesecake,Dessert,11.52
+63,Paneer Burger,Burger,8.85
+59,Paneer Burger,Burger,23.93
+72,Lemonade,Beverage,21.96
+10,Butter Chicken,Main Course,11.42
+68,Butter Chicken,Main Course,23.99
+3,Cold Coffee,Beverage,19.27
+54,Ice Cream,Dessert,20.6
+48,Farmhouse Pizza,Pizza,25.35
+93,Mango Shake,Beverage,7.72
+37,Biryani,Main Course,16.72
+81,Margherita Pizza,Pizza,23.55
+71,Biryani,Main Course,16.79
+73,Coke,Beverage,18.6
+56,Coke,Beverage,4.0
+66,Mango Shake,Beverage,14.77
+78,Fried Rice,Main Course,20.17
+47,Gulab Jamun,Dessert,27.94
+84,Cheesecake,Dessert,12.45
+33,Coke,Beverage,27.67
+25,Butter Chicken,Main Course,22.81
+36,Veg Burger,Burger,10.27
+99,Farmhouse Pizza,Pizza,28.19
+22,Cheesecake,Dessert,24.22
+5,Fried Rice,Main Course,29.71
+30,Farmhouse Pizza,Pizza,22.16
+11,Fried Rice,Main Course,12.98
+7,Coke,Beverage,28.92
+69,Veg Burger,Burger,24.12
+58,Farmhouse Pizza,Pizza,6.53
+90,Farmhouse Pizza,Pizza,27.55
+35,Gulab Jamun,Dessert,20.8
+92,Margherita Pizza,Pizza,27.75
+87,Gulab Jamun,Dessert,13.21
+66,Fried Rice,Main Course,11.66
+82,Paneer Burger,Burger,14.13
+54,Butter Chicken,Main Course,20.2
+49,Farmhouse Pizza,Pizza,16.1
+38,Cheesecake,Dessert,11.65
+21,Coke,Beverage,9.02
+17,Veg Burger,Burger,15.63
+89,Cold Coffee,Beverage,26.93
+35,Veg Supreme,Pizza,28.82
+23,Cheesecake,Dessert,26.14
+61,Butter Chicken,Main Course,28.69
+34,Paneer Butter Masala,Main Course,12.45
+62,Veg Supreme,Pizza,25.7
+72,Paneer Burger,Burger,15.79
+78,Pepperoni Pizza,Pizza,23.41
+61,Margherita Pizza,Pizza,22.71
+14,Farmhouse Pizza,Pizza,14.71
+29,Gulab Jamun,Dessert,11.94
+45,Lemonade,Beverage,12.15
+44,Margherita Pizza,Pizza,23.61
+24,Margherita Pizza,Pizza,10.13
+88,Brownie,Dessert,23.97
+4,Fried Rice,Main Course,9.58
+59,Veg Burger,Burger,13.41
+25,Chicken Burger,Burger,22.73
+74,Ice Cream,Dessert,18.1
+23,Veg Burger,Burger,3.6
+50,Pepperoni Pizza,Pizza,18.24
+77,Coke,Beverage,13.49
+95,Brownie,Dessert,16.3
+39,Mango Shake,Beverage,3.69
+23,Veg Burger,Burger,10.27
+15,Gulab Jamun,Dessert,9.58
+48,Biryani,Main Course,20.23
+1,Pepperoni Pizza,Pizza,10.4
+9,Veg Supreme,Pizza,26.77
+35,Cold Coffee,Beverage,16.68
+32,Fried Rice,Main Course,25.07
+38,Veg Supreme,Pizza,27.83
+95,Butter Chicken,Main Course,3.65
+67,Gulab Jamun,Dessert,18.73
+68,Paneer Butter Masala,Main Course,25.59
+60,Margherita Pizza,Pizza,29.26
+1,Cheese Burger,Burger,13.68
+35,Veg Supreme,Pizza,12.98
+68,Cheesecake,Dessert,22.18
+80,Mango Shake,Beverage,7.26
+32,Margherita Pizza,Pizza,20.98
+20,Cheese Burger,Burger,25.91
+36,Cold Coffee,Beverage,10.34
+92,Fried Rice,Main Course,7.21
+35,Paneer Butter Masala,Main Course,15.53
+12,Paneer Burger,Burger,28.65
+76,Lemonade,Beverage,14.96
+10,Veg Burger,Burger,25.58
+95,Pepperoni Pizza,Pizza,9.13
+13,Mango Shake,Beverage,4.53
+77,Brownie,Dessert,24.34
+71,Veg Burger,Burger,18.66
+80,Brownie,Dessert,11.17
+62,Brownie,Dessert,11.51
+56,Veg Supreme,Pizza,14.78
+62,Margherita Pizza,Pizza,14.38
+48,Paneer Burger,Burger,27.3
+87,Cheesecake,Dessert,29.74
+65,Butter Chicken,Main Course,6.25
+58,Ice Cream,Dessert,19.33
+85,Gulab Jamun,Dessert,7.56
+19,Veg Supreme,Pizza,27.94
+24,Fried Rice,Main Course,16.22
+70,Chicken Burger,Burger,8.0
+12,Brownie,Dessert,11.81
+25,Veg Burger,Burger,24.73
+73,Ice Cream,Dessert,21.92
+17,Mango Shake,Beverage,25.97
+33,Pepperoni Pizza,Pizza,22.41
+10,Biryani,Main Course,28.28
+98,Veg Supreme,Pizza,23.47
+23,Veg Supreme,Pizza,3.82
+14,Cold Coffee,Beverage,19.58
+8,Mango Shake,Beverage,15.79
+5,Pepperoni Pizza,Pizza,5.58
+38,Veg Supreme,Pizza,10.59
+69,Veg Supreme,Pizza,20.62
+58,Paneer Burger,Burger,9.43
+55,Lemonade,Beverage,11.51
+67,Butter Chicken,Main Course,5.24
+66,Ice Cream,Dessert,16.95
+56,Veg Burger,Burger,19.97
+20,Cheesecake,Dessert,6.57
+91,Brownie,Dessert,16.98
+76,Brownie,Dessert,23.45
+30,Cold Coffee,Beverage,22.49
+86,Lemonade,Beverage,16.58
+88,Mango Shake,Beverage,6.54
+62,Cold Coffee,Beverage,19.66
+38,Biryani,Main Course,3.84
+16,Paneer Butter Masala,Main Course,16.27
+74,Veg Supreme,Pizza,16.75
+32,Fried Rice,Main Course,29.57
+9,Chicken Burger,Burger,29.45
+20,Pepperoni Pizza,Pizza,20.68
+79,Lemonade,Beverage,16.23
+6,Coke,Beverage,26.13
+89,Pepperoni Pizza,Pizza,13.86
+52,Paneer Burger,Burger,27.11
+79,Veg Supreme,Pizza,9.18
+95,Biryani,Main Course,19.91
+53,Lemonade,Beverage,3.61
+71,Cold Coffee,Beverage,25.53
+70,Pepperoni Pizza,Pizza,4.15
+56,Chicken Burger,Burger,17.62
+26,Margherita Pizza,Pizza,16.2
+71,Lemonade,Beverage,17.69
+36,Butter Chicken,Main Course,26.21
+98,Farmhouse Pizza,Pizza,14.15
+65,Brownie,Dessert,4.54
+28,Mango Shake,Beverage,13.13
+42,Gulab Jamun,Dessert,5.07
+30,Farmhouse Pizza,Pizza,16.8
+9,Ice Cream,Dessert,5.94
+13,Veg Supreme,Pizza,29.84
+33,Paneer Burger,Burger,25.85
+91,Pepperoni Pizza,Pizza,28.51
+56,Gulab Jamun,Dessert,28.93
+34,Veg Burger,Burger,9.09
+40,Cold Coffee,Beverage,15.14
+82,Ice Cream,Dessert,27.59
+50,Chicken Burger,Burger,16.28
+95,Ice Cream,Dessert,29.26
+27,Biryani,Main Course,16.84
+70,Cheesecake,Dessert,9.08
+90,Butter Chicken,Main Course,28.67
+81,Cheesecake,Dessert,11.88
+48,Chicken Burger,Burger,21.69
+24,Paneer Butter Masala,Main Course,22.63
+11,Chicken Burger,Burger,26.33
+20,Cold Coffee,Beverage,28.73
+45,Paneer Butter Masala,Main Course,8.68
+29,Farmhouse Pizza,Pizza,7.79
+79,Butter Chicken,Main Course,19.04
+6,Fried Rice,Main Course,7.18
+24,Veg Supreme,Pizza,18.06
+82,Cheese Burger,Burger,3.33
+95,Paneer Butter Masala,Main Course,24.36
+29,Veg Supreme,Pizza,26.96
+19,Ice Cream,Dessert,15.27
+40,Biryani,Main Course,14.9
+32,Farmhouse Pizza,Pizza,28.93
+33,Mango Shake,Beverage,3.61
+84,Lemonade,Beverage,29.79
+81,Cold Coffee,Beverage,28.36
+99,Ice Cream,Dessert,20.69
+47,Chicken Burger,Burger,10.93
+29,Ice Cream,Dessert,23.92
+89,Gulab Jamun,Dessert,25.97
+68,Ice Cream,Dessert,8.48
+73,Lemonade,Beverage,18.96
+9,Chicken Burger,Burger,25.84
+58,Paneer Burger,Burger,8.28
+18,Veg Supreme,Pizza,25.2
+55,Paneer Butter Masala,Main Course,28.93
+32,Chicken Burger,Burger,22.53
+27,Gulab Jamun,Dessert,17.14
+36,Paneer Burger,Burger,17.94
+43,Cheese Burger,Burger,11.85
+92,Mango Shake,Beverage,7.46
+55,Gulab Jamun,Dessert,24.74
+5,Mango Shake,Beverage,27.95
+92,Brownie,Dessert,10.71
+14,Pepperoni Pizza,Pizza,29.1
+56,Chicken Burger,Burger,9.19
+24,Paneer Butter Masala,Main Course,7.34
+69,Paneer Butter Masala,Main Course,27.69
+59,Cheese Burger,Burger,26.83
+53,Mango Shake,Beverage,5.77
+51,Biryani,Main Course,8.51
+48,Cheesecake,Dessert,29.46
+92,Cold Coffee,Beverage,24.16
+15,Mango Shake,Beverage,9.82
+2,Veg Supreme,Pizza,17.46
+100,Brownie,Dessert,29.18
+20,Lemonade,Beverage,19.09
+28,Cold Coffee,Beverage,11.24
+32,Butter Chicken,Main Course,15.84
+67,Cold Coffee,Beverage,14.79
+38,Coke,Beverage,3.91
+56,Margherita Pizza,Pizza,26.39
+43,Paneer Burger,Burger,9.33
+67,Coke,Beverage,28.91
+28,Cheesecake,Dessert,8.93
+22,Veg Burger,Burger,8.74
+37,Farmhouse Pizza,Pizza,12.85
+55,Paneer Butter Masala,Main Course,9.47
+75,Gulab Jamun,Dessert,15.78
+8,Pepperoni Pizza,Pizza,26.31
+48,Veg Burger,Burger,22.21
+35,Veg Supreme,Pizza,18.6
+97,Farmhouse Pizza,Pizza,16.59
+19,Veg Burger,Burger,15.09
+68,Cheesecake,Dessert,15.63
+56,Chicken Burger,Burger,29.54
+59,Paneer Burger,Burger,12.55
+12,Butter Chicken,Main Course,6.22
+86,Chicken Burger,Burger,5.67
+32,Cold Coffee,Beverage,6.65
+99,Chicken Burger,Burger,14.65
+91,Mango Shake,Beverage,18.38
+37,Veg Supreme,Pizza,12.3
+18,Fried Rice,Main Course,11.73
+73,Veg Burger,Burger,27.07
+87,Brownie,Dessert,19.51
+26,Mango Shake,Beverage,6.7
+18,Lemonade,Beverage,15.16
+99,Lemonade,Beverage,16.71
+28,Ice Cream,Dessert,21.46
+72,Cold Coffee,Beverage,27.58
+49,Cheesecake,Dessert,25.84
+97,Gulab Jamun,Dessert,25.1
+9,Paneer Burger,Burger,11.99
+76,Paneer Burger,Burger,7.23
+49,Paneer Burger,Burger,11.84
+43,Brownie,Dessert,21.89
+68,Veg Supreme,Pizza,7.72
+41,Cheese Burger,Burger,24.9
+71,Butter Chicken,Main Course,18.83
+73,Butter Chicken,Main Course,12.46
+42,Margherita Pizza,Pizza,22.11
+14,Pepperoni Pizza,Pizza,24.73
+19,Veg Supreme,Pizza,24.67
+97,Paneer Butter Masala,Main Course,21.95
+87,Cheesecake,Dessert,10.89
+31,Pepperoni Pizza,Pizza,3.17
+81,Margherita Pizza,Pizza,7.81
+90,Farmhouse Pizza,Pizza,22.84
+10,Pepperoni Pizza,Pizza,26.61
+19,Ice Cream,Dessert,5.65
+28,Butter Chicken,Main Course,14.97
+6,Gulab Jamun,Dessert,28.54
+7,Pepperoni Pizza,Pizza,28.24
+52,Paneer Burger,Burger,16.47
+81,Paneer Butter Masala,Main Course,5.53
+43,Mango Shake,Beverage,29.88
+83,Cheesecake,Dessert,26.4
+23,Ice Cream,Dessert,19.8
+40,Mango Shake,Beverage,3.42
+7,Biryani,Main Course,3.42
+79,Paneer Butter Masala,Main Course,21.0
+21,Paneer Burger,Burger,28.62
+100,Farmhouse Pizza,Pizza,3.4
+72,Veg Supreme,Pizza,28.59
+70,Chicken Burger,Burger,25.08
+49,Fried Rice,Main Course,11.46
+97,Farmhouse Pizza,Pizza,11.51
+18,Chicken Burger,Burger,17.58
+48,Veg Supreme,Pizza,7.7
+23,Brownie,Dessert,22.55
+18,Fried Rice,Main Course,29.43
+48,Pepperoni Pizza,Pizza,12.52
+66,Coke,Beverage,8.73
+51,Lemonade,Beverage,21.63
+36,Biryani,Main Course,20.24
+47,Mango Shake,Beverage,20.21
+62,Cheese Burger,Burger,23.51
+72,Farmhouse Pizza,Pizza,3.62
+35,Paneer Butter Masala,Main Course,21.81
+40,Paneer Butter Masala,Main Course,18.54
+72,Pepperoni Pizza,Pizza,8.12
+8,Veg Supreme,Pizza,10.01
+92,Mango Shake,Beverage,10.96
+76,Veg Burger,Burger,15.14
+50,Veg Burger,Burger,8.76
+22,Farmhouse Pizza,Pizza,18.65
+13,Coke,Beverage,15.89
+56,Margherita Pizza,Pizza,7.89
+56,Pepperoni Pizza,Pizza,13.6
+95,Mango Shake,Beverage,4.44
+60,Farmhouse Pizza,Pizza,7.94
+27,Cheesecake,Dessert,23.63
+41,Ice Cream,Dessert,27.28
+72,Veg Supreme,Pizza,23.35
+47,Butter Chicken,Main Course,24.01
+52,Margherita Pizza,Pizza,3.39
+30,Chicken Burger,Burger,18.78
+48,Butter Chicken,Main Course,29.85
+30,Chicken Burger,Burger,17.82
+12,Cheesecake,Dessert,27.81
+25,Lemonade,Beverage,3.98
+11,Paneer Butter Masala,Main Course,24.12
+52,Coke,Beverage,3.23
+97,Biryani,Main Course,4.49
+48,Paneer Burger,Burger,27.61
+7,Chicken Burger,Burger,28.03
+55,Mango Shake,Beverage,20.46
+44,Pepperoni Pizza,Pizza,29.38
+5,Cold Coffee,Beverage,21.54
+37,Veg Burger,Burger,19.58
+42,Brownie,Dessert,14.72
+87,Veg Supreme,Pizza,4.2
+99,Lemonade,Beverage,12.29
+46,Pepperoni Pizza,Pizza,27.1
+30,Veg Supreme,Pizza,10.77
+34,Veg Burger,Burger,13.91
+43,Veg Burger,Burger,24.17
+7,Veg Supreme,Pizza,6.05
+40,Coke,Beverage,3.19
+98,Chicken Burger,Burger,16.9
+48,Paneer Burger,Burger,21.24
+75,Veg Supreme,Pizza,6.34
+40,Biryani,Main Course,27.85
+48,Butter Chicken,Main Course,20.38
+39,Pepperoni Pizza,Pizza,16.29
+72,Chicken Burger,Burger,7.08
+64,Paneer Butter Masala,Main Course,16.34
+14,Veg Supreme,Pizza,21.59
+27,Fried Rice,Main Course,5.88
+90,Butter Chicken,Main Course,17.48
+83,Cheesecake,Dessert,22.11
+37,Paneer Butter Masala,Main Course,20.51
+58,Fried Rice,Main Course,3.57
+22,Cold Coffee,Beverage,10.56
+21,Butter Chicken,Main Course,15.54
+10,Ice Cream,Dessert,22.08
+47,Chicken Burger,Burger,23.3
+34,Cheesecake,Dessert,6.19
+84,Fried Rice,Main Course,5.86
+73,Gulab Jamun,Dessert,19.23
+94,Pepperoni Pizza,Pizza,8.21
+86,Ice Cream,Dessert,25.52
+5,Pepperoni Pizza,Pizza,23.86
+78,Biryani,Main Course,28.06
+74,Mango Shake,Beverage,13.39
+6,Brownie,Dessert,10.07
+38,Cheese Burger,Burger,13.35
+51,Biryani,Main Course,20.78
+3,Fried Rice,Main Course,13.08
+42,Margherita Pizza,Pizza,10.84
+25,Gulab Jamun,Dessert,13.16
+97,Gulab Jamun,Dessert,29.8
+50,Gulab Jamun,Dessert,18.67
+77,Coke,Beverage,12.41
+71,Farmhouse Pizza,Pizza,11.81
+67,Lemonade,Beverage,26.19
+37,Butter Chicken,Main Course,5.64
+81,Cold Coffee,Beverage,12.88
+44,Pepperoni Pizza,Pizza,23.44
+48,Chicken Burger,Burger,8.92
+56,Ice Cream,Dessert,9.49
+26,Paneer Burger,Burger,28.55
+74,Farmhouse Pizza,Pizza,19.96
+98,Veg Supreme,Pizza,22.05
+53,Coke,Beverage,18.33
+98,Cheesecake,Dessert,10.39
+5,Paneer Butter Masala,Main Course,14.56
+40,Lemonade,Beverage,8.51
+92,Cold Coffee,Beverage,23.13
+98,Chicken Burger,Burger,25.06
+74,Ice Cream,Dessert,18.53
+27,Ice Cream,Dessert,3.73
+61,Ice Cream,Dessert,12.9
+64,Farmhouse Pizza,Pizza,21.75
+28,Cheesecake,Dessert,25.93
+63,Ice Cream,Dessert,10.12
+2,Cheesecake,Dessert,27.13
+72,Ice Cream,Dessert,16.97
+38,Cheesecake,Dessert,24.93
+34,Veg Supreme,Pizza,11.05
+85,Cheese Burger,Burger,6.5
+27,Butter Chicken,Main Course,18.4
+21,Mango Shake,Beverage,13.43
+94,Veg Burger,Burger,21.11
+7,Paneer Burger,Burger,7.32
+54,Paneer Burger,Burger,16.58
+72,Brownie,Dessert,6.96
+61,Paneer Butter Masala,Main Course,19.29
+29,Cheesecake,Dessert,11.65
+21,Butter Chicken,Main Course,15.29
+16,Gulab Jamun,Dessert,22.06
+51,Gulab Jamun,Dessert,28.08
+29,Cheese Burger,Burger,6.11
+100,Ice Cream,Dessert,3.11
+20,Farmhouse Pizza,Pizza,11.14
+13,Veg Burger,Burger,7.6
+58,Ice Cream,Dessert,14.6
+66,Veg Burger,Burger,28.23
+79,Veg Supreme,Pizza,27.19
+86,Veg Burger,Burger,13.39
+67,Fried Rice,Main Course,28.77
+55,Veg Burger,Burger,16.6
+82,Biryani,Main Course,16.79
+75,Ice Cream,Dessert,26.4
+68,Coke,Beverage,23.47
+64,Biryani,Main Course,26.49
+18,Paneer Butter Masala,Main Course,3.89
+23,Gulab Jamun,Dessert,27.49
+83,Cheese Burger,Burger,22.47
+66,Cheesecake,Dessert,8.8
+81,Cheese Burger,Burger,28.55
+73,Veg Burger,Burger,20.01
+27,Cheese Burger,Burger,12.43
+92,Ice Cream,Dessert,17.42
+73,Mango Shake,Beverage,18.52
+31,Biryani,Main Course,12.28
+34,Fried Rice,Main Course,28.26
+61,Cheesecake,Dessert,5.05
+51,Fried Rice,Main Course,18.39
+71,Coke,Beverage,23.22
+1,Cold Coffee,Beverage,21.17
+70,Chicken Burger,Burger,18.72
+25,Butter Chicken,Main Course,3.49
+4,Cold Coffee,Beverage,8.93
+98,Butter Chicken,Main Course,24.04
+96,Cold Coffee,Beverage,3.01
+37,Veg Supreme,Pizza,28.66
+27,Brownie,Dessert,8.14
+28,Cheesecake,Dessert,6.78
+45,Pepperoni Pizza,Pizza,28.83
+5,Veg Supreme,Pizza,29.04
+1,Ice Cream,Dessert,24.31
+27,Mango Shake,Beverage,24.16
+92,Cheesecake,Dessert,17.69
+59,Chicken Burger,Burger,27.84
+24,Paneer Butter Masala,Main Course,11.85
+25,Chicken Burger,Burger,10.98
+35,Veg Supreme,Pizza,7.71
+61,Veg Supreme,Pizza,26.1
+30,Butter Chicken,Main Course,25.03
+9,Coke,Beverage,21.71
+26,Mango Shake,Beverage,5.91
+17,Farmhouse Pizza,Pizza,6.88
+2,Lemonade,Beverage,9.29
+37,Brownie,Dessert,25.1
+14,Cheese Burger,Burger,9.14
+12,Cheesecake,Dessert,11.69
+40,Margherita Pizza,Pizza,14.34
+81,Cold Coffee,Beverage,10.49
+16,Ice Cream,Dessert,18.36
+24,Farmhouse Pizza,Pizza,26.17
+76,Brownie,Dessert,9.4
+69,Coke,Beverage,6.94
+58,Pepperoni Pizza,Pizza,9.62
+63,Margherita Pizza,Pizza,23.93
+46,Pepperoni Pizza,Pizza,21.92
+20,Ice Cream,Dessert,27.39
+48,Cold Coffee,Beverage,24.2
+73,Coke,Beverage,8.24
+92,Gulab Jamun,Dessert,26.35
+69,Cold Coffee,Beverage,21.0
+70,Farmhouse Pizza,Pizza,25.37
+83,Margherita Pizza,Pizza,4.42
+60,Paneer Burger,Burger,18.1
+20,Cold Coffee,Beverage,5.74
+71,Mango Shake,Beverage,13.65
+44,Gulab Jamun,Dessert,27.34
+51,Paneer Burger,Burger,8.76
+79,Fried Rice,Main Course,20.19
+43,Paneer Butter Masala,Main Course,13.1
+93,Gulab Jamun,Dessert,14.71
+34,Coke,Beverage,16.16
+93,Biryani,Main Course,16.76
+64,Cheesecake,Dessert,24.67
+88,Chicken Burger,Burger,12.31
+72,Margherita Pizza,Pizza,24.21
+6,Paneer Burger,Burger,15.99
+10,Mango Shake,Beverage,25.14
+78,Pepperoni Pizza,Pizza,5.87
+94,Chicken Burger,Burger,29.71
+16,Margherita Pizza,Pizza,26.41
+6,Gulab Jamun,Dessert,4.43
+58,Lemonade,Beverage,29.81
+75,Biryani,Main Course,21.23
+39,Margherita Pizza,Pizza,22.07
+13,Butter Chicken,Main Course,28.92
+8,Gulab Jamun,Dessert,20.88
+58,Coke,Beverage,26.44
+45,Gulab Jamun,Dessert,4.81
+1,Biryani,Main Course,21.59
+31,Biryani,Main Course,3.86
+7,Chicken Burger,Burger,19.13
+33,Margherita Pizza,Pizza,13.9
+24,Chicken Burger,Burger,5.18
+24,Ice Cream,Dessert,13.68
+11,Brownie,Dessert,27.93
+88,Farmhouse Pizza,Pizza,18.53
+7,Coke,Beverage,9.72
+4,Lemonade,Beverage,28.04
+47,Gulab Jamun,Dessert,16.11
+65,Farmhouse Pizza,Pizza,6.53
+27,Brownie,Dessert,17.71
+47,Paneer Burger,Burger,15.51
+95,Farmhouse Pizza,Pizza,16.05
+30,Gulab Jamun,Dessert,12.44
+18,Brownie,Dessert,7.99
+4,Margherita Pizza,Pizza,6.93
+80,Veg Supreme,Pizza,18.94
+94,Brownie,Dessert,25.91
+95,Biryani,Main Course,25.27
+77,Margherita Pizza,Pizza,8.99
+19,Biryani,Main Course,15.57
+90,Chicken Burger,Burger,20.81
+53,Fried Rice,Main Course,4.5
+75,Butter Chicken,Main Course,14.55
+88,Margherita Pizza,Pizza,6.49
+69,Ice Cream,Dessert,18.1
+22,Cheese Burger,Burger,4.8
+38,Pepperoni Pizza,Pizza,25.41
+41,Paneer Butter Masala,Main Course,4.19
+8,Mango Shake,Beverage,13.55
+33,Pepperoni Pizza,Pizza,20.55
+58,Cold Coffee,Beverage,26.6
+46,Veg Supreme,Pizza,5.87
+20,Farmhouse Pizza,Pizza,29.87
+15,Veg Supreme,Pizza,4.34
+60,Butter Chicken,Main Course,23.51
+87,Paneer Burger,Burger,17.23
+89,Pepperoni Pizza,Pizza,3.91
+91,Veg Supreme,Pizza,27.79
+95,Pepperoni Pizza,Pizza,16.39
+7,Pepperoni Pizza,Pizza,5.18
+2,Biryani,Main Course,21.36
+56,Paneer Burger,Burger,6.13
+71,Brownie,Dessert,17.06
+17,Paneer Butter Masala,Main Course,14.08
+94,Coke,Beverage,28.85
+61,Cheesecake,Dessert,13.85
+53,Cold Coffee,Beverage,9.9
+54,Margherita Pizza,Pizza,5.55
+66,Coke,Beverage,3.98
+28,Cheesecake,Dessert,12.67
+27,Cheese Burger,Burger,13.91
+45,Chicken Burger,Burger,27.13
+48,Gulab Jamun,Dessert,21.62
+96,Paneer Butter Masala,Main Course,3.28
+91,Lemonade,Beverage,20.85
+17,Chicken Burger,Burger,5.3
+32,Chicken Burger,Burger,14.42
+47,Brownie,Dessert,9.53
+57,Chicken Burger,Burger,22.11
+90,Fried Rice,Main Course,12.7
+15,Ice Cream,Dessert,3.91
+10,Farmhouse Pizza,Pizza,4.82
+11,Cheesecake,Dessert,21.17
+94,Veg Burger,Burger,16.6
+28,Veg Burger,Burger,18.55
+23,Brownie,Dessert,12.99
+48,Cold Coffee,Beverage,24.79
+26,Butter Chicken,Main Course,8.96
+79,Paneer Burger,Burger,20.6
+83,Mango Shake,Beverage,6.25
+82,Margherita Pizza,Pizza,8.36
+94,Coke,Beverage,4.53
+25,Ice Cream,Dessert,17.0
+34,Gulab Jamun,Dessert,26.63
+97,Fried Rice,Main Course,7.68
+66,Brownie,Dessert,23.3
+2,Veg Burger,Burger,9.68
+97,Paneer Butter Masala,Main Course,24.45
+79,Veg Burger,Burger,11.09
+24,Veg Burger,Burger,5.26
+81,Cheesecake,Dessert,19.1
+15,Paneer Butter Masala,Main Course,22.95
+8,Biryani,Main Course,12.43
+9,Veg Supreme,Pizza,20.74
+47,Butter Chicken,Main Course,20.26
+89,Biryani,Main Course,19.41
+97,Veg Burger,Burger,15.93
+71,Biryani,Main Course,13.71
+10,Butter Chicken,Main Course,17.55
+7,Brownie,Dessert,22.67
+83,Chicken Burger,Burger,6.0
+65,Veg Burger,Burger,12.78
+31,Biryani,Main Course,3.45
+74,Chicken Burger,Burger,12.2
+18,Ice Cream,Dessert,19.18
+64,Ice Cream,Dessert,24.09
+71,Cheese Burger,Burger,16.6
+11,Cold Coffee,Beverage,25.29
+44,Cold Coffee,Beverage,10.14
+51,Cheesecake,Dessert,10.53
+72,Margherita Pizza,Pizza,3.8
+43,Mango Shake,Beverage,15.69
+15,Pepperoni Pizza,Pizza,27.47
+4,Fried Rice,Main Course,17.59
+70,Pepperoni Pizza,Pizza,11.98
+93,Chicken Burger,Burger,27.81
+1,Chicken Burger,Burger,5.09
+73,Cheese Burger,Burger,14.17
+74,Fried Rice,Main Course,26.78
+16,Fried Rice,Main Course,27.6
+52,Chicken Burger,Burger,6.88
+33,Cheesecake,Dessert,8.8
+100,Coke,Beverage,13.17
+13,Coke,Beverage,14.41
+64,Ice Cream,Dessert,14.45
+44,Paneer Butter Masala,Main Course,14.33
+29,Butter Chicken,Main Course,27.17
+82,Veg Burger,Burger,19.11
+63,Ice Cream,Dessert,22.04
+44,Fried Rice,Main Course,20.79
+17,Farmhouse Pizza,Pizza,10.12
+14,Cheesecake,Dessert,5.7
+75,Pepperoni Pizza,Pizza,3.97
+30,Paneer Butter Masala,Main Course,20.28
+49,Cheesecake,Dessert,26.28
+31,Cold Coffee,Beverage,29.37
+82,Paneer Burger,Burger,18.48
+83,Chicken Burger,Burger,28.68
+42,Ice Cream,Dessert,9.91
+18,Cheese Burger,Burger,22.74
+13,Butter Chicken,Main Course,12.15
+45,Biryani,Main Course,21.46
+48,Lemonade,Beverage,3.05
+57,Veg Burger,Burger,14.92
+65,Ice Cream,Dessert,3.89
+67,Coke,Beverage,24.76
+73,Ice Cream,Dessert,3.69
+36,Ice Cream,Dessert,25.24
+52,Paneer Butter Masala,Main Course,14.95
+66,Lemonade,Beverage,25.02
+57,Farmhouse Pizza,Pizza,21.97
+16,Cheesecake,Dessert,12.74
+36,Mango Shake,Beverage,22.23
+99,Coke,Beverage,7.89
+39,Lemonade,Beverage,22.64
+14,Gulab Jamun,Dessert,15.4
+82,Veg Burger,Burger,14.48
+44,Cheesecake,Dessert,9.48
+33,Gulab Jamun,Dessert,3.17
+16,Fried Rice,Main Course,25.07
+79,Biryani,Main Course,18.01
+13,Coke,Beverage,12.93
+23,Cheesecake,Dessert,12.65
+58,Veg Supreme,Pizza,10.53
+89,Cold Coffee,Beverage,3.28
+23,Mango Shake,Beverage,18.74
+92,Cheesecake,Dessert,24.48
+54,Paneer Butter Masala,Main Course,26.58
+47,Paneer Burger,Burger,4.38
+22,Brownie,Dessert,29.32
+9,Butter Chicken,Main Course,16.6
+11,Paneer Burger,Burger,26.63
+56,Lemonade,Beverage,18.21
+91,Mango Shake,Beverage,16.81
+85,Margherita Pizza,Pizza,25.98
+32,Farmhouse Pizza,Pizza,21.84
+90,Cheese Burger,Burger,26.67
+44,Coke,Beverage,26.68
+8,Lemonade,Beverage,15.9
+58,Ice Cream,Dessert,28.73
+86,Paneer Burger,Burger,9.05
+26,Cheese Burger,Burger,5.78
+38,Lemonade,Beverage,29.78
+68,Gulab Jamun,Dessert,12.08
+27,Brownie,Dessert,22.26
+55,Pepperoni Pizza,Pizza,26.72
+59,Fried Rice,Main Course,14.28
+62,Veg Supreme,Pizza,24.69
+26,Pepperoni Pizza,Pizza,6.18
+45,Ice Cream,Dessert,16.87
+28,Cheesecake,Dessert,23.93
+94,Farmhouse Pizza,Pizza,24.52
+79,Paneer Burger,Burger,13.73
+80,Cheese Burger,Burger,3.3
+97,Ice Cream,Dessert,7.19
+34,Veg Burger,Burger,17.08
+1,Margherita Pizza,Pizza,26.09
+53,Farmhouse Pizza,Pizza,25.93
+97,Margherita Pizza,Pizza,20.58
+31,Fried Rice,Main Course,11.28
+36,Mango Shake,Beverage,4.17
+34,Mango Shake,Beverage,10.48
+49,Veg Supreme,Pizza,10.17
+80,Brownie,Dessert,21.96
+14,Mango Shake,Beverage,11.89
+6,Ice Cream,Dessert,15.0
+74,Butter Chicken,Main Course,14.16
+10,Paneer Butter Masala,Main Course,21.85
+19,Farmhouse Pizza,Pizza,21.49
+79,Lemonade,Beverage,22.67
+8,Paneer Burger,Burger,22.43
+91,Pepperoni Pizza,Pizza,11.67
+73,Butter Chicken,Main Course,22.89
+31,Ice Cream,Dessert,23.38
+35,Biryani,Main Course,8.41
+45,Cheese Burger,Burger,11.3
+7,Ice Cream,Dessert,4.53
+41,Cheese Burger,Burger,19.4
+29,Cheese Burger,Burger,10.19
+11,Cheesecake,Dessert,17.61
+15,Butter Chicken,Main Course,13.21
+37,Paneer Burger,Burger,28.85
+77,Cold Coffee,Beverage,21.93
+15,Pepperoni Pizza,Pizza,17.51
+46,Gulab Jamun,Dessert,8.05
+66,Chicken Burger,Burger,13.35
+79,Paneer Butter Masala,Main Course,12.68
+55,Coke,Beverage,23.53
+3,Mango Shake,Beverage,28.35
+25,Biryani,Main Course,29.27
+75,Pepperoni Pizza,Pizza,3.28
+68,Biryani,Main Course,22.54
+7,Pepperoni Pizza,Pizza,18.38
+68,Paneer Burger,Burger,8.67
+83,Paneer Butter Masala,Main Course,18.43
+53,Brownie,Dessert,3.91
+80,Butter Chicken,Main Course,15.28
+49,Mango Shake,Beverage,21.61
+97,Gulab Jamun,Dessert,21.27
+5,Chicken Burger,Burger,3.93
+17,Veg Burger,Burger,21.51
+9,Pepperoni Pizza,Pizza,23.04
+7,Mango Shake,Beverage,26.95
+48,Mango Shake,Beverage,6.52
+38,Butter Chicken,Main Course,3.24
+47,Chicken Burger,Burger,4.79
+18,Cold Coffee,Beverage,10.64
+82,Chicken Burger,Burger,26.91
+13,Fried Rice,Main Course,8.79
+25,Chicken Burger,Burger,4.31
+40,Pepperoni Pizza,Pizza,25.54
+22,Cheesecake,Dessert,11.07
+91,Lemonade,Beverage,27.89
+25,Ice Cream,Dessert,15.36
+48,Paneer Burger,Burger,5.13
+10,Lemonade,Beverage,10.61
+90,Chicken Burger,Burger,9.92
+80,Chicken Burger,Burger,19.26
+86,Ice Cream,Dessert,3.7
+1,Chicken Burger,Burger,8.64
+72,Veg Supreme,Pizza,12.37
+86,Cheese Burger,Burger,27.81
+13,Ice Cream,Dessert,5.82
+70,Veg Supreme,Pizza,13.39
+38,Fried Rice,Main Course,27.56
+90,Cold Coffee,Beverage,8.07
+57,Lemonade,Beverage,26.25
+29,Margherita Pizza,Pizza,6.28
+37,Paneer Butter Masala,Main Course,12.41
+47,Biryani,Main Course,9.47
+19,Gulab Jamun,Dessert,14.85
+29,Biryani,Main Course,14.06
+100,Paneer Burger,Burger,17.08
+23,Cheese Burger,Burger,14.76
+38,Pepperoni Pizza,Pizza,14.66
+37,Mango Shake,Beverage,28.56
+13,Veg Burger,Burger,11.38
+76,Chicken Burger,Burger,3.43
+19,Chicken Burger,Burger,12.36
+100,Fried Rice,Main Course,9.81
+45,Cold Coffee,Beverage,15.97
+3,Brownie,Dessert,13.27
+46,Pepperoni Pizza,Pizza,21.96
+100,Ice Cream,Dessert,5.33
+31,Brownie,Dessert,24.48
+65,Brownie,Dessert,15.47
+66,Margherita Pizza,Pizza,10.76
+1,Farmhouse Pizza,Pizza,16.88
+61,Butter Chicken,Main Course,11.99
+67,Biryani,Main Course,20.65
+33,Biryani,Main Course,25.07
+1,Cheese Burger,Burger,11.02
+99,Biryani,Main Course,21.0
+91,Margherita Pizza,Pizza,10.24
+11,Coke,Beverage,3.36
+86,Veg Supreme,Pizza,15.04
+26,Pepperoni Pizza,Pizza,24.26
+43,Veg Supreme,Pizza,5.0
+63,Margherita Pizza,Pizza,9.5
+28,Coke,Beverage,29.52
+62,Farmhouse Pizza,Pizza,20.33
+54,Fried Rice,Main Course,3.14
+96,Biryani,Main Course,10.44
+87,Cheese Burger,Burger,5.2
+69,Chicken Burger,Burger,13.4
+53,Cheese Burger,Burger,20.97
+76,Chicken Burger,Burger,27.11
+26,Chicken Burger,Burger,20.95
+18,Veg Burger,Burger,4.02
+99,Gulab Jamun,Dessert,28.88
+33,Biryani,Main Course,6.18
+97,Margherita Pizza,Pizza,11.78
+98,Brownie,Dessert,12.89
+92,Lemonade,Beverage,25.48
+15,Biryani,Main Course,17.86
+16,Farmhouse Pizza,Pizza,3.76
+98,Paneer Butter Masala,Main Course,13.98
+55,Ice Cream,Dessert,24.78
+32,Fried Rice,Main Course,4.29
+54,Paneer Burger,Burger,13.9
+86,Paneer Butter Masala,Main Course,6.17
+29,Chicken Burger,Burger,25.91
+52,Paneer Butter Masala,Main Course,19.45
+12,Coke,Beverage,14.9
+64,Farmhouse Pizza,Pizza,13.58
+9,Cheesecake,Dessert,15.7
+51,Butter Chicken,Main Course,25.76
+90,Cheesecake,Dessert,15.53
+10,Lemonade,Beverage,17.49
+54,Chicken Burger,Burger,22.77
+53,Lemonade,Beverage,15.82
+36,Farmhouse Pizza,Pizza,21.92
+86,Chicken Burger,Burger,9.87
+84,Brownie,Dessert,23.83
+28,Mango Shake,Beverage,19.01
+3,Lemonade,Beverage,21.73
+57,Ice Cream,Dessert,17.13
+17,Paneer Burger,Burger,5.75
+56,Mango Shake,Beverage,6.31
+2,Biryani,Main Course,13.82
+31,Brownie,Dessert,26.46
+57,Lemonade,Beverage,6.39
+7,Ice Cream,Dessert,5.34
+24,Ice Cream,Dessert,17.07
+35,Cold Coffee,Beverage,17.59
+50,Brownie,Dessert,22.07
+38,Farmhouse Pizza,Pizza,16.84
+13,Cheese Burger,Burger,12.8
+88,Paneer Butter Masala,Main Course,8.39
+77,Biryani,Main Course,28.03
+86,Margherita Pizza,Pizza,22.31
+28,Margherita Pizza,Pizza,25.09
+99,Lemonade,Beverage,20.42
+99,Margherita Pizza,Pizza,16.78
+58,Paneer Butter Masala,Main Course,24.4
+49,Fried Rice,Main Course,26.5
+94,Paneer Butter Masala,Main Course,14.92
+78,Cheesecake,Dessert,24.63
+50,Veg Supreme,Pizza,9.04
+44,Cheese Burger,Burger,9.44
+3,Mango Shake,Beverage,27.28
+4,Cold Coffee,Beverage,16.18
+39,Paneer Burger,Burger,12.78
+26,Cheesecake,Dessert,16.89
+67,Coke,Beverage,21.63
+18,Ice Cream,Dessert,12.77
+15,Pepperoni Pizza,Pizza,7.47
+26,Paneer Burger,Burger,11.23
+70,Gulab Jamun,Dessert,14.39
+9,Cold Coffee,Beverage,20.21
+34,Mango Shake,Beverage,21.07
+49,Chicken Burger,Burger,10.22
+56,Coke,Beverage,10.8
+13,Mango Shake,Beverage,29.47
+76,Cold Coffee,Beverage,4.27
+88,Cheese Burger,Burger,15.39
+6,Farmhouse Pizza,Pizza,14.7
+38,Lemonade,Beverage,24.79
+1,Cold Coffee,Beverage,21.37
+23,Paneer Burger,Burger,4.56
+6,Veg Supreme,Pizza,26.98
+62,Brownie,Dessert,17.13
+98,Cheesecake,Dessert,21.21
+76,Margherita Pizza,Pizza,7.29
+15,Biryani,Main Course,24.65
+49,Ice Cream,Dessert,3.44
+53,Gulab Jamun,Dessert,6.3
+18,Paneer Butter Masala,Main Course,3.27
+65,Pepperoni Pizza,Pizza,9.46
+75,Butter Chicken,Main Course,7.24
+7,Coke,Beverage,4.38
+14,Biryani,Main Course,8.93
+97,Veg Supreme,Pizza,10.74
+13,Coke,Beverage,25.06
+100,Biryani,Main Course,10.31
+10,Cheese Burger,Burger,8.5
+93,Coke,Beverage,20.64
+3,Cold Coffee,Beverage,28.45
+75,Ice Cream,Dessert,3.59
+26,Fried Rice,Main Course,16.14
+80,Veg Supreme,Pizza,13.1
+45,Chicken Burger,Burger,6.23
+11,Mango Shake,Beverage,7.73
+84,Ice Cream,Dessert,26.6
+10,Pepperoni Pizza,Pizza,13.66
+48,Cheesecake,Dessert,28.03
+30,Biryani,Main Course,12.23
+29,Veg Burger,Burger,13.28
+9,Chicken Burger,Burger,19.01
+51,Cheesecake,Dessert,10.02
+74,Fried Rice,Main Course,19.02
+53,Biryani,Main Course,28.3
+2,Veg Burger,Burger,27.25
+61,Margherita Pizza,Pizza,25.37
+94,Pepperoni Pizza,Pizza,24.77
+35,Paneer Butter Masala,Main Course,10.88
+63,Butter Chicken,Main Course,25.89
+96,Butter Chicken,Main Course,24.53
+17,Cold Coffee,Beverage,24.82
+57,Mango Shake,Beverage,13.67
+96,Cold Coffee,Beverage,18.09
+43,Paneer Burger,Burger,19.68
+16,Margherita Pizza,Pizza,22.97
+62,Coke,Beverage,21.44
+12,Coke,Beverage,15.09
+77,Pepperoni Pizza,Pizza,18.19
+73,Coke,Beverage,13.3
+76,Margherita Pizza,Pizza,10.4
+69,Cheese Burger,Burger,29.02
+35,Ice Cream,Dessert,29.73
+3,Margherita Pizza,Pizza,24.35
+79,Paneer Burger,Burger,26.34
+34,Lemonade,Beverage,20.54
+10,Farmhouse Pizza,Pizza,19.47
+67,Veg Burger,Burger,22.12
+73,Margherita Pizza,Pizza,20.82
+1,Paneer Burger,Burger,23.16
+71,Biryani,Main Course,19.53
+83,Paneer Burger,Burger,9.97
+86,Cold Coffee,Beverage,29.34
+89,Cheesecake,Dessert,18.14
+80,Biryani,Main Course,27.14
+45,Butter Chicken,Main Course,29.86
+67,Chicken Burger,Burger,6.68
+7,Biryani,Main Course,18.82
+33,Brownie,Dessert,3.95
+15,Margherita Pizza,Pizza,26.51
+87,Biryani,Main Course,24.86
+90,Mango Shake,Beverage,27.99
+36,Coke,Beverage,20.69
+25,Farmhouse Pizza,Pizza,28.88
+80,Ice Cream,Dessert,10.41
+20,Pepperoni Pizza,Pizza,4.87
+75,Brownie,Dessert,24.65
+78,Veg Burger,Burger,3.56
+13,Cheese Burger,Burger,17.85
+67,Coke,Beverage,14.97
+91,Pepperoni Pizza,Pizza,16.63
+18,Veg Supreme,Pizza,8.64
+20,Coke,Beverage,26.48
+66,Cold Coffee,Beverage,8.78
+37,Veg Supreme,Pizza,23.53
+57,Veg Burger,Burger,25.54
+73,Butter Chicken,Main Course,23.51
+75,Paneer Burger,Burger,3.09
+75,Mango Shake,Beverage,9.42
+32,Lemonade,Beverage,24.48
+73,Fried Rice,Main Course,12.49
+78,Fried Rice,Main Course,18.29
+13,Paneer Butter Masala,Main Course,9.59
+30,Chicken Burger,Burger,16.51
+95,Paneer Butter Masala,Main Course,9.97
+78,Pepperoni Pizza,Pizza,8.21
+22,Biryani,Main Course,24.47
+81,Veg Burger,Burger,9.82
+27,Paneer Burger,Burger,17.03
+43,Lemonade,Beverage,20.69
+24,Cheese Burger,Burger,23.55
+44,Cold Coffee,Beverage,13.08
+31,Farmhouse Pizza,Pizza,28.2
+56,Mango Shake,Beverage,24.27
+48,Mango Shake,Beverage,22.9
+57,Veg Supreme,Pizza,27.27
+35,Lemonade,Beverage,4.99
+20,Veg Supreme,Pizza,11.28
+79,Cheesecake,Dessert,23.76
+33,Margherita Pizza,Pizza,18.16
+82,Gulab Jamun,Dessert,9.54
+82,Margherita Pizza,Pizza,26.57
+37,Cold Coffee,Beverage,21.62
+60,Margherita Pizza,Pizza,7.65
+24,Biryani,Main Course,7.68
+100,Mango Shake,Beverage,22.72
+70,Paneer Butter Masala,Main Course,7.06
+45,Cheese Burger,Burger,10.11
+24,Biryani,Main Course,5.58
+2,Gulab Jamun,Dessert,8.1
+48,Lemonade,Beverage,10.11
+72,Coke,Beverage,11.65
+84,Paneer Butter Masala,Main Course,25.86
+25,Chicken Burger,Burger,14.88
+8,Biryani,Main Course,9.98
+33,Lemonade,Beverage,22.55
+88,Margherita Pizza,Pizza,7.52
+65,Ice Cream,Dessert,26.39
+42,Mango Shake,Beverage,19.4
+66,Veg Burger,Burger,8.55
+51,Margherita Pizza,Pizza,22.91
+7,Paneer Burger,Burger,8.16
+69,Cheesecake,Dessert,23.14
+36,Lemonade,Beverage,16.18
+2,Pepperoni Pizza,Pizza,18.28
+88,Cheese Burger,Burger,10.52
+97,Brownie,Dessert,25.9
+92,Butter Chicken,Main Course,21.91
+91,Ice Cream,Dessert,3.66
+59,Mango Shake,Beverage,14.87
+75,Veg Burger,Burger,18.32
+100,Mango Shake,Beverage,5.77
+56,Paneer Burger,Burger,16.21
+29,Lemonade,Beverage,17.15
+18,Brownie,Dessert,27.64
+84,Brownie,Dessert,6.37
+87,Gulab Jamun,Dessert,8.73
+28,Fried Rice,Main Course,28.37
+99,Veg Burger,Burger,16.44
+72,Cold Coffee,Beverage,25.36
+33,Cheese Burger,Burger,4.93
+23,Brownie,Dessert,4.98
+80,Paneer Butter Masala,Main Course,12.57
+97,Paneer Burger,Burger,13.64
+17,Mango Shake,Beverage,16.53
+63,Chicken Burger,Burger,26.6
+78,Cheese Burger,Burger,15.44
+38,Veg Supreme,Pizza,5.52
+40,Butter Chicken,Main Course,15.92
+28,Paneer Butter Masala,Main Course,20.66
+35,Cheese Burger,Burger,28.51
+48,Mango Shake,Beverage,12.31
+86,Veg Burger,Burger,22.1
+81,Coke,Beverage,20.32
+28,Fried Rice,Main Course,18.72
+100,Veg Supreme,Pizza,22.98
+16,Farmhouse Pizza,Pizza,6.61
+47,Biryani,Main Course,20.44
+67,Gulab Jamun,Dessert,29.03
+35,Cheesecake,Dessert,8.15
+43,Paneer Burger,Burger,19.49
+38,Fried Rice,Main Course,19.35
+68,Cheesecake,Dessert,23.52
+20,Paneer Burger,Burger,22.93
+41,Cheesecake,Dessert,12.71
+76,Cheese Burger,Burger,25.86
+93,Pepperoni Pizza,Pizza,15.04
+12,Cheese Burger,Burger,18.9
+4,Paneer Burger,Burger,18.16
+60,Pepperoni Pizza,Pizza,17.65
+41,Veg Burger,Burger,25.86
+24,Butter Chicken,Main Course,15.89
+41,Paneer Butter Masala,Main Course,8.79
+14,Mango Shake,Beverage,23.46
+7,Pepperoni Pizza,Pizza,29.3
+11,Gulab Jamun,Dessert,12.03
+22,Gulab Jamun,Dessert,5.06
+99,Margherita Pizza,Pizza,29.63
+17,Gulab Jamun,Dessert,29.47
+70,Brownie,Dessert,16.6
+99,Mango Shake,Beverage,27.68
+84,Mango Shake,Beverage,17.48
+54,Paneer Butter Masala,Main Course,24.68
+44,Coke,Beverage,12.57
+13,Coke,Beverage,16.08
+11,Butter Chicken,Main Course,29.38
+43,Gulab Jamun,Dessert,22.52
+17,Cold Coffee,Beverage,11.12
+69,Mango Shake,Beverage,10.37
+91,Paneer Butter Masala,Main Course,6.62
+98,Biryani,Main Course,6.36
+65,Pepperoni Pizza,Pizza,26.64
+56,Biryani,Main Course,11.46
+72,Butter Chicken,Main Course,20.58
+49,Ice Cream,Dessert,28.95
+63,Brownie,Dessert,14.96
+6,Paneer Burger,Burger,12.28
+38,Brownie,Dessert,23.99
+30,Cold Coffee,Beverage,18.12
+32,Butter Chicken,Main Course,24.57
+30,Paneer Butter Masala,Main Course,10.7
+49,Fried Rice,Main Course,18.99
+45,Paneer Burger,Burger,8.36
+12,Paneer Butter Masala,Main Course,14.67
+23,Fried Rice,Main Course,26.97
+42,Fried Rice,Main Course,12.1
+8,Chicken Burger,Burger,12.85
+21,Gulab Jamun,Dessert,4.66
+33,Cold Coffee,Beverage,8.49
+66,Lemonade,Beverage,4.17
+20,Cheese Burger,Burger,27.92
+60,Coke,Beverage,17.64
+77,Pepperoni Pizza,Pizza,17.4
+51,Cheesecake,Dessert,17.9
+50,Cheesecake,Dessert,29.28
+68,Chicken Burger,Burger,25.05
+8,Pepperoni Pizza,Pizza,14.6
+92,Mango Shake,Beverage,12.68
+52,Paneer Butter Masala,Main Course,23.05
+36,Butter Chicken,Main Course,12.32
+57,Cheese Burger,Burger,25.02
+70,Paneer Butter Masala,Main Course,16.07
+90,Ice Cream,Dessert,14.74
+88,Gulab Jamun,Dessert,25.14
+89,Fried Rice,Main Course,7.3
+81,Gulab Jamun,Dessert,14.4
+2,Mango Shake,Beverage,26.83
+87,Ice Cream,Dessert,5.53
+12,Fried Rice,Main Course,14.62
+28,Gulab Jamun,Dessert,24.34
+71,Cheese Burger,Burger,3.99
+38,Paneer Burger,Burger,18.59
+85,Butter Chicken,Main Course,11.91
+94,Veg Supreme,Pizza,12.96
+36,Mango Shake,Beverage,24.51
+6,Veg Supreme,Pizza,9.57
+63,Coke,Beverage,10.2
+37,Margherita Pizza,Pizza,17.55
+77,Cheesecake,Dessert,27.82
+67,Paneer Burger,Burger,17.0
+9,Fried Rice,Main Course,20.46
+43,Veg Burger,Burger,14.46
+34,Cheesecake,Dessert,27.57
+54,Paneer Burger,Burger,29.62
+46,Chicken Burger,Burger,13.93
+12,Coke,Beverage,15.51
+97,Farmhouse Pizza,Pizza,8.24
+13,Margherita Pizza,Pizza,14.55
+46,Butter Chicken,Main Course,13.93
+48,Gulab Jamun,Dessert,5.74
+70,Butter Chicken,Main Course,26.6
+13,Ice Cream,Dessert,13.52
+33,Lemonade,Beverage,11.55
+78,Paneer Butter Masala,Main Course,21.34
+63,Biryani,Main Course,8.83
+35,Margherita Pizza,Pizza,27.12
+60,Coke,Beverage,25.04
+78,Farmhouse Pizza,Pizza,3.26
+41,Mango Shake,Beverage,5.12
+88,Cold Coffee,Beverage,12.16
+24,Mango Shake,Beverage,28.51
+5,Biryani,Main Course,15.07
+73,Brownie,Dessert,16.55
+34,Veg Supreme,Pizza,10.7
+100,Cheesecake,Dessert,18.64
+45,Cheesecake,Dessert,22.47
+95,Brownie,Dessert,3.35
+25,Coke,Beverage,26.02
+38,Mango Shake,Beverage,18.39
+92,Paneer Burger,Burger,19.46
+38,Farmhouse Pizza,Pizza,8.36
+39,Veg Supreme,Pizza,15.0
+13,Lemonade,Beverage,12.45
+85,Cheesecake,Dessert,11.25
+44,Butter Chicken,Main Course,14.72
+63,Mango Shake,Beverage,18.89
+75,Mango Shake,Beverage,23.67
+87,Paneer Butter Masala,Main Course,10.05
+7,Paneer Butter Masala,Main Course,8.67
+8,Cold Coffee,Beverage,28.63
+58,Cheese Burger,Burger,12.89
+55,Lemonade,Beverage,29.94
+62,Coke,Beverage,11.94
+36,Coke,Beverage,16.48
+27,Pepperoni Pizza,Pizza,5.39
+3,Pepperoni Pizza,Pizza,13.41
+23,Veg Burger,Burger,23.62
+91,Lemonade,Beverage,3.2
+70,Coke,Beverage,8.96
+63,Brownie,Dessert,24.46
+69,Chicken Burger,Burger,27.22
+64,Butter Chicken,Main Course,9.44
+11,Gulab Jamun,Dessert,12.94
+91,Cheese Burger,Burger,3.39
+33,Cold Coffee,Beverage,21.79
+49,Ice Cream,Dessert,23.77
+24,Cheesecake,Dessert,21.02
+24,Veg Supreme,Pizza,9.85
+84,Cold Coffee,Beverage,28.59
+47,Mango Shake,Beverage,16.0
+47,Cold Coffee,Beverage,13.8
+42,Brownie,Dessert,26.66
+12,Lemonade,Beverage,21.01
+71,Paneer Burger,Burger,22.59
+93,Coke,Beverage,14.65
+14,Pepperoni Pizza,Pizza,7.59
+35,Cheese Burger,Burger,17.46
+24,Lemonade,Beverage,27.3
+73,Biryani,Main Course,15.02
+28,Paneer Butter Masala,Main Course,20.13
+64,Paneer Butter Masala,Main Course,4.14
+68,Lemonade,Beverage,6.92
+9,Paneer Burger,Burger,24.72
+27,Lemonade,Beverage,27.27
+37,Gulab Jamun,Dessert,6.36
+76,Cold Coffee,Beverage,3.52
+57,Biryani,Main Course,4.58
+39,Lemonade,Beverage,16.83
+37,Cheese Burger,Burger,11.01
+41,Pepperoni Pizza,Pizza,22.36
+25,Cheesecake,Dessert,4.57
+71,Cheesecake,Dessert,9.03
+70,Veg Burger,Burger,26.04
+94,Cold Coffee,Beverage,3.57
+92,Margherita Pizza,Pizza,5.86
+19,Veg Supreme,Pizza,25.03
+35,Lemonade,Beverage,5.09
+69,Biryani,Main Course,8.75
+29,Ice Cream,Dessert,8.68
+56,Cheese Burger,Burger,9.36
+16,Farmhouse Pizza,Pizza,19.42
+34,Paneer Butter Masala,Main Course,19.67
+24,Brownie,Dessert,11.06
+73,Pepperoni Pizza,Pizza,11.73
+29,Cheese Burger,Burger,25.73
+13,Cold Coffee,Beverage,9.74
+14,Mango Shake,Beverage,11.85
+44,Chicken Burger,Burger,28.04
+80,Farmhouse Pizza,Pizza,16.46
+20,Margherita Pizza,Pizza,20.17
+69,Ice Cream,Dessert,3.71
+44,Chicken Burger,Burger,28.23
+42,Cheese Burger,Burger,5.86
+27,Fried Rice,Main Course,24.8
+75,Gulab Jamun,Dessert,25.73
+37,Veg Supreme,Pizza,20.33
+5,Fried Rice,Main Course,22.78
+61,Gulab Jamun,Dessert,25.36
+52,Veg Supreme,Pizza,23.01
+95,Pepperoni Pizza,Pizza,25.47
+78,Chicken Burger,Burger,13.85
+15,Lemonade,Beverage,21.85
+76,Biryani,Main Course,14.58
+54,Gulab Jamun,Dessert,26.16
+96,Gulab Jamun,Dessert,16.66
+84,Lemonade,Beverage,27.39
+53,Paneer Burger,Burger,25.43
+41,Pepperoni Pizza,Pizza,18.86
+64,Cold Coffee,Beverage,4.64
+37,Pepperoni Pizza,Pizza,9.81
+47,Paneer Butter Masala,Main Course,8.5
+79,Chicken Burger,Burger,19.84
+59,Margherita Pizza,Pizza,25.68
+30,Mango Shake,Beverage,27.6
+53,Veg Burger,Burger,24.96
+16,Brownie,Dessert,16.63
+41,Mango Shake,Beverage,24.41
+28,Coke,Beverage,10.63
+24,Veg Burger,Burger,4.09
+77,Veg Supreme,Pizza,10.26
+12,Chicken Burger,Burger,5.76
+82,Butter Chicken,Main Course,4.43
+84,Pepperoni Pizza,Pizza,22.9
+83,Butter Chicken,Main Course,16.48
+51,Paneer Burger,Burger,15.98
+46,Butter Chicken,Main Course,24.39
+83,Lemonade,Beverage,11.62
+95,Lemonade,Beverage,27.17
+40,Lemonade,Beverage,23.77
+40,Cheese Burger,Burger,6.38
+46,Paneer Butter Masala,Main Course,8.82
+27,Lemonade,Beverage,4.14
+98,Gulab Jamun,Dessert,28.23
+6,Margherita Pizza,Pizza,13.84
+79,Pepperoni Pizza,Pizza,20.78
+60,Butter Chicken,Main Course,5.51
+3,Biryani,Main Course,4.05
+18,Mango Shake,Beverage,7.86
+99,Fried Rice,Main Course,13.68
+62,Gulab Jamun,Dessert,9.79
+26,Ice Cream,Dessert,19.06
+2,Butter Chicken,Main Course,22.61
+58,Pepperoni Pizza,Pizza,9.92
+40,Cold Coffee,Beverage,19.02
+99,Farmhouse Pizza,Pizza,19.46
+99,Coke,Beverage,21.25
+85,Pepperoni Pizza,Pizza,21.55
+88,Farmhouse Pizza,Pizza,17.09
+100,Cheesecake,Dessert,17.65
+86,Brownie,Dessert,4.6
+66,Cheesecake,Dessert,16.04
+13,Cold Coffee,Beverage,20.61
+10,Cheese Burger,Burger,14.84
+69,Lemonade,Beverage,14.22
+79,Pepperoni Pizza,Pizza,4.98
+77,Mango Shake,Beverage,13.48
+12,Biryani,Main Course,12.36
+62,Mango Shake,Beverage,14.78
+14,Gulab Jamun,Dessert,29.5
+17,Margherita Pizza,Pizza,22.21
+17,Brownie,Dessert,15.21
+41,Veg Supreme,Pizza,12.32
+87,Gulab Jamun,Dessert,15.73
+96,Mango Shake,Beverage,3.37
+69,Cheesecake,Dessert,7.06
+63,Cheese Burger,Burger,13.97
+2,Ice Cream,Dessert,19.7
+33,Butter Chicken,Main Course,18.75
+18,Coke,Beverage,20.0
+27,Brownie,Dessert,11.93
+7,Butter Chicken,Main Course,3.58
+23,Veg Burger,Burger,24.69
+89,Paneer Burger,Burger,21.12
+35,Paneer Butter Masala,Main Course,20.8
+67,Ice Cream,Dessert,29.53
+66,Farmhouse Pizza,Pizza,7.23
+84,Cheesecake,Dessert,16.08
+28,Chicken Burger,Burger,21.79
+3,Gulab Jamun,Dessert,19.99
+84,Coke,Beverage,18.92
+41,Coke,Beverage,3.63
+79,Butter Chicken,Main Course,22.0
+24,Fried Rice,Main Course,20.21
+73,Cold Coffee,Beverage,19.37
+44,Paneer Burger,Burger,29.38
+62,Brownie,Dessert,5.08
+96,Mango Shake,Beverage,15.6
+37,Cold Coffee,Beverage,5.54
+29,Mango Shake,Beverage,14.64
+52,Biryani,Main Course,13.51
+99,Cheesecake,Dessert,20.07
+98,Fried Rice,Main Course,14.91
+41,Cheesecake,Dessert,27.28
+52,Gulab Jamun,Dessert,15.62
+23,Veg Supreme,Pizza,12.39
+9,Brownie,Dessert,16.52
+3,Veg Supreme,Pizza,22.78
+96,Cold Coffee,Beverage,24.85
+68,Coke,Beverage,25.73
+18,Veg Supreme,Pizza,18.18
+9,Fried Rice,Main Course,12.84
+53,Fried Rice,Main Course,4.71
+45,Paneer Burger,Burger,25.66
+32,Veg Burger,Burger,28.17
+39,Veg Burger,Burger,26.36
+66,Chicken Burger,Burger,9.51
+67,Margherita Pizza,Pizza,15.84
+8,Brownie,Dessert,24.51
+31,Chicken Burger,Burger,26.83
+9,Fried Rice,Main Course,29.23
+48,Pepperoni Pizza,Pizza,19.67
+44,Veg Supreme,Pizza,5.16
+14,Cheese Burger,Burger,17.68
+53,Ice Cream,Dessert,19.04
+66,Gulab Jamun,Dessert,27.68
+80,Ice Cream,Dessert,4.77
+61,Coke,Beverage,23.02
+77,Coke,Beverage,20.62
+95,Lemonade,Beverage,23.83
+77,Coke,Beverage,17.95
+59,Cold Coffee,Beverage,25.08
+47,Coke,Beverage,28.28
+49,Gulab Jamun,Dessert,6.98
+10,Cold Coffee,Beverage,11.04
+55,Brownie,Dessert,26.4
+81,Coke,Beverage,15.25
+58,Butter Chicken,Main Course,4.85
+39,Veg Burger,Burger,5.54
+68,Chicken Burger,Burger,21.57
+29,Lemonade,Beverage,15.73
+83,Paneer Butter Masala,Main Course,27.31
+53,Chicken Burger,Burger,8.06
+13,Biryani,Main Course,14.77
+82,Paneer Butter Masala,Main Course,18.58
+67,Coke,Beverage,10.15
+96,Paneer Burger,Burger,18.16
+26,Veg Burger,Burger,28.51
+60,Brownie,Dessert,19.66
+14,Coke,Beverage,15.66
+1,Cheesecake,Dessert,22.09
+68,Pepperoni Pizza,Pizza,22.39
+95,Coke,Beverage,13.52
+46,Butter Chicken,Main Course,17.4
+74,Paneer Butter Masala,Main Course,5.29
+17,Fried Rice,Main Course,23.15
+96,Coke,Beverage,17.88
+97,Fried Rice,Main Course,24.59
+96,Ice Cream,Dessert,27.51
+11,Cheese Burger,Burger,10.81
+30,Gulab Jamun,Dessert,21.71
+20,Ice Cream,Dessert,29.32
+92,Brownie,Dessert,7.77
+60,Brownie,Dessert,19.63
+30,Paneer Butter Masala,Main Course,23.73
+6,Brownie,Dessert,6.79
+86,Cheese Burger,Burger,8.38
+85,Paneer Butter Masala,Main Course,8.05
+79,Pepperoni Pizza,Pizza,11.28
+57,Gulab Jamun,Dessert,7.43
+31,Cheesecake,Dessert,28.88
+49,Lemonade,Beverage,15.02
+45,Fried Rice,Main Course,23.52
+37,Coke,Beverage,18.52
+30,Cheese Burger,Burger,27.64
+74,Cold Coffee,Beverage,9.64
+53,Brownie,Dessert,29.75
+34,Ice Cream,Dessert,25.43
+7,Farmhouse Pizza,Pizza,20.71
+93,Farmhouse Pizza,Pizza,28.99
+42,Pepperoni Pizza,Pizza,5.97
+42,Chicken Burger,Burger,21.24
+59,Biryani,Main Course,20.9
+80,Ice Cream,Dessert,20.68
+62,Cold Coffee,Beverage,17.02
+16,Fried Rice,Main Course,5.95
+9,Paneer Burger,Burger,13.75
+84,Cheese Burger,Burger,3.3
+27,Biryani,Main Course,19.3
+17,Gulab Jamun,Dessert,12.11
+28,Brownie,Dessert,28.96
+20,Biryani,Main Course,7.72
+8,Mango Shake,Beverage,20.85
+41,Brownie,Dessert,18.25
+42,Biryani,Main Course,25.51
+89,Fried Rice,Main Course,10.28
+98,Farmhouse Pizza,Pizza,21.31
+30,Butter Chicken,Main Course,14.54
+99,Veg Supreme,Pizza,22.11
+98,Cheese Burger,Burger,10.35
+21,Paneer Burger,Burger,15.58
+72,Paneer Burger,Burger,3.8
+66,Cheesecake,Dessert,5.48
+5,Pepperoni Pizza,Pizza,16.05
+97,Cold Coffee,Beverage,4.77
+65,Veg Supreme,Pizza,25.21
+72,Chicken Burger,Burger,6.48
+64,Mango Shake,Beverage,25.27
+36,Veg Supreme,Pizza,15.89
+85,Veg Burger,Burger,19.99
+74,Veg Supreme,Pizza,21.46
+11,Paneer Burger,Burger,29.13
+95,Margherita Pizza,Pizza,28.03
+44,Brownie,Dessert,3.72
+42,Cold Coffee,Beverage,27.15
+69,Fried Rice,Main Course,18.96
+12,Biryani,Main Course,17.11
+83,Cheese Burger,Burger,5.79
+2,Biryani,Main Course,16.02
+36,Coke,Beverage,26.5
+10,Gulab Jamun,Dessert,12.25
+37,Brownie,Dessert,12.67
+77,Mango Shake,Beverage,9.94
+37,Veg Burger,Burger,4.2
+28,Veg Supreme,Pizza,25.14
+86,Veg Supreme,Pizza,7.88
+80,Fried Rice,Main Course,4.65
+41,Ice Cream,Dessert,26.68
+98,Fried Rice,Main Course,19.23
+74,Paneer Burger,Burger,23.92
+60,Biryani,Main Course,23.69
+85,Fried Rice,Main Course,8.26
+52,Fried Rice,Main Course,17.1
+79,Farmhouse Pizza,Pizza,15.53
+54,Farmhouse Pizza,Pizza,18.98
+55,Mango Shake,Beverage,5.71
+53,Farmhouse Pizza,Pizza,10.71
+80,Butter Chicken,Main Course,7.87
+25,Mango Shake,Beverage,29.53
+5,Mango Shake,Beverage,24.35
+98,Veg Burger,Burger,26.36
+100,Margherita Pizza,Pizza,17.87
+20,Cold Coffee,Beverage,28.5
+55,Cold Coffee,Beverage,13.41
+5,Paneer Butter Masala,Main Course,28.52
+27,Chicken Burger,Burger,10.27
+21,Biryani,Main Course,4.42
+79,Gulab Jamun,Dessert,23.84
+58,Brownie,Dessert,6.51
+41,Margherita Pizza,Pizza,19.34
+21,Chicken Burger,Burger,14.76
+88,Veg Supreme,Pizza,12.07
+25,Chicken Burger,Burger,3.47
+85,Biryani,Main Course,18.87
+21,Veg Supreme,Pizza,3.31
+99,Biryani,Main Course,7.02
+8,Brownie,Dessert,26.77
+61,Brownie,Dessert,27.36
+11,Cold Coffee,Beverage,14.81
+7,Mango Shake,Beverage,6.12
+40,Farmhouse Pizza,Pizza,14.64
+60,Cold Coffee,Beverage,25.34
+78,Chicken Burger,Burger,6.13
+75,Veg Burger,Burger,11.99
+65,Mango Shake,Beverage,23.16
+60,Pepperoni Pizza,Pizza,5.08
+53,Cheesecake,Dessert,8.19
+80,Veg Supreme,Pizza,10.37
+33,Cheese Burger,Burger,20.3
+58,Margherita Pizza,Pizza,6.34
+74,Biryani,Main Course,23.22
+41,Brownie,Dessert,20.12
+58,Gulab Jamun,Dessert,6.26
+53,Ice Cream,Dessert,7.17
+66,Cold Coffee,Beverage,3.61
+15,Ice Cream,Dessert,9.28
+49,Ice Cream,Dessert,26.63
+10,Farmhouse Pizza,Pizza,6.56
+40,Margherita Pizza,Pizza,28.79
+56,Mango Shake,Beverage,10.12
+28,Farmhouse Pizza,Pizza,25.65
+7,Paneer Burger,Burger,25.4
+93,Mango Shake,Beverage,19.46
+83,Veg Supreme,Pizza,24.84
+81,Margherita Pizza,Pizza,8.52
+88,Gulab Jamun,Dessert,15.77
+16,Cheesecake,Dessert,9.81
+40,Cheesecake,Dessert,19.78
+100,Veg Supreme,Pizza,7.91
+4,Margherita Pizza,Pizza,14.0
+20,Butter Chicken,Main Course,7.61
+52,Mango Shake,Beverage,7.38
+6,Veg Burger,Burger,24.14
+26,Fried Rice,Main Course,8.23
+2,Brownie,Dessert,17.35
+4,Pepperoni Pizza,Pizza,5.98
+20,Veg Supreme,Pizza,24.66
+58,Paneer Burger,Burger,20.11
+65,Chicken Burger,Burger,7.39
+40,Fried Rice,Main Course,19.52
+98,Veg Burger,Burger,23.05
+55,Veg Burger,Burger,3.37
+84,Cheese Burger,Burger,17.27
+44,Veg Burger,Burger,15.78
+12,Coke,Beverage,21.75
+81,Cold Coffee,Beverage,14.27
+88,Butter Chicken,Main Course,5.86
+84,Mango Shake,Beverage,4.02
+43,Cheesecake,Dessert,12.37
+53,Ice Cream,Dessert,14.99
+62,Cold Coffee,Beverage,11.81
+45,Lemonade,Beverage,25.76
+71,Coke,Beverage,9.73
+57,Cheese Burger,Burger,17.67
+97,Cheese Burger,Burger,15.46
+45,Butter Chicken,Main Course,21.08
+5,Cheesecake,Dessert,25.31
+43,Cheese Burger,Burger,19.13
+31,Mango Shake,Beverage,24.62
+6,Cheesecake,Dessert,26.55
+77,Fried Rice,Main Course,3.62
+2,Gulab Jamun,Dessert,11.7
+59,Fried Rice,Main Course,5.5
+7,Pepperoni Pizza,Pizza,26.87
+52,Fried Rice,Main Course,6.44
+82,Gulab Jamun,Dessert,4.77
+32,Farmhouse Pizza,Pizza,15.71
+34,Veg Supreme,Pizza,4.36
+98,Cheese Burger,Burger,21.89
+46,Cheesecake,Dessert,9.72
+49,Cheesecake,Dessert,6.16
+65,Paneer Butter Masala,Main Course,5.92
+29,Paneer Butter Masala,Main Course,23.39
+2,Pepperoni Pizza,Pizza,14.34
+86,Lemonade,Beverage,27.25
+5,Margherita Pizza,Pizza,21.5
+13,Chicken Burger,Burger,29.58
+99,Brownie,Dessert,27.29
+33,Coke,Beverage,22.14
+72,Butter Chicken,Main Course,7.3
+73,Chicken Burger,Burger,19.67
+50,Gulab Jamun,Dessert,7.39
+37,Gulab Jamun,Dessert,9.1
+43,Fried Rice,Main Course,3.12
+34,Cheesecake,Dessert,17.47
+19,Ice Cream,Dessert,9.78
+77,Biryani,Main Course,16.76
+65,Biryani,Main Course,11.58
+47,Gulab Jamun,Dessert,4.12
+25,Veg Burger,Burger,24.92
+73,Chicken Burger,Burger,17.39
+9,Paneer Burger,Burger,24.55
+99,Margherita Pizza,Pizza,3.46
+56,Coke,Beverage,14.84
+3,Cold Coffee,Beverage,16.48
+12,Butter Chicken,Main Course,10.02
+50,Coke,Beverage,15.96
+23,Biryani,Main Course,15.13
+92,Pepperoni Pizza,Pizza,4.25
+42,Veg Supreme,Pizza,8.75
+77,Fried Rice,Main Course,14.19
+48,Cheese Burger,Burger,25.51
+51,Margherita Pizza,Pizza,28.59
+65,Cheese Burger,Burger,8.15
+54,Coke,Beverage,15.37
+17,Ice Cream,Dessert,28.56
+70,Chicken Burger,Burger,24.91
+58,Paneer Butter Masala,Main Course,17.13
+42,Fried Rice,Main Course,22.24
+81,Brownie,Dessert,15.32
+52,Mango Shake,Beverage,12.59
+89,Paneer Burger,Burger,27.16
+45,Lemonade,Beverage,18.17
+95,Veg Supreme,Pizza,29.99
+23,Biryani,Main Course,12.04
+9,Pepperoni Pizza,Pizza,7.66
+33,Mango Shake,Beverage,20.45
+32,Veg Supreme,Pizza,24.84
+89,Coke,Beverage,23.47
+63,Pepperoni Pizza,Pizza,5.51
+46,Veg Burger,Burger,23.22
+6,Pepperoni Pizza,Pizza,9.26
+66,Ice Cream,Dessert,15.35
+71,Cheese Burger,Burger,11.33
+99,Fried Rice,Main Course,5.42
+14,Paneer Burger,Burger,20.72
+47,Veg Supreme,Pizza,15.68
+41,Margherita Pizza,Pizza,17.29
+70,Brownie,Dessert,3.69
+12,Butter Chicken,Main Course,3.94
+75,Brownie,Dessert,12.74
+4,Brownie,Dessert,29.93
+78,Paneer Burger,Burger,22.44
+58,Ice Cream,Dessert,16.97
+54,Cheese Burger,Burger,9.78
+4,Veg Burger,Burger,20.59
+67,Cheese Burger,Burger,13.89
+97,Paneer Butter Masala,Main Course,5.5
+10,Butter Chicken,Main Course,11.02
+1,Chicken Burger,Burger,29.99
+17,Chicken Burger,Burger,7.18
+11,Fried Rice,Main Course,23.6
+9,Farmhouse Pizza,Pizza,8.89
+47,Coke,Beverage,14.66
+73,Biryani,Main Course,28.52
+35,Pepperoni Pizza,Pizza,25.89
+4,Cheesecake,Dessert,4.07
+59,Veg Supreme,Pizza,10.0
+87,Paneer Burger,Burger,20.86
+44,Butter Chicken,Main Course,29.72
+33,Coke,Beverage,5.5
+87,Farmhouse Pizza,Pizza,14.01
+70,Chicken Burger,Burger,5.87
+36,Chicken Burger,Burger,18.81
+25,Cheese Burger,Burger,16.22
+22,Butter Chicken,Main Course,22.38
+40,Mango Shake,Beverage,8.45
+42,Cheese Burger,Burger,28.53
+37,Fried Rice,Main Course,21.13
+55,Paneer Butter Masala,Main Course,9.75
+7,Cold Coffee,Beverage,3.85
+93,Paneer Burger,Burger,26.23
+75,Cold Coffee,Beverage,12.23
+81,Cold Coffee,Beverage,22.66
+62,Biryani,Main Course,28.8
+79,Paneer Burger,Burger,13.43
+34,Veg Burger,Burger,27.25
+47,Pepperoni Pizza,Pizza,20.74
+81,Coke,Beverage,8.43
+85,Cold Coffee,Beverage,6.78
+88,Brownie,Dessert,24.99
+4,Paneer Butter Masala,Main Course,4.6
+15,Farmhouse Pizza,Pizza,21.55
+96,Fried Rice,Main Course,12.12
+43,Margherita Pizza,Pizza,19.01
+99,Chicken Burger,Burger,18.0
+95,Farmhouse Pizza,Pizza,12.41
+17,Paneer Burger,Burger,26.91
+83,Paneer Butter Masala,Main Course,24.59
+35,Ice Cream,Dessert,19.74
+16,Paneer Butter Masala,Main Course,4.61
+85,Veg Supreme,Pizza,24.78
+21,Farmhouse Pizza,Pizza,24.97
+66,Chicken Burger,Burger,19.87
+55,Lemonade,Beverage,9.16
+92,Biryani,Main Course,10.06
+10,Margherita Pizza,Pizza,3.6
+30,Farmhouse Pizza,Pizza,8.08
+44,Veg Burger,Burger,9.7
+39,Paneer Burger,Burger,18.1
+72,Biryani,Main Course,22.68
+5,Margherita Pizza,Pizza,24.71
+82,Ice Cream,Dessert,28.47
+79,Cheesecake,Dessert,22.51
+89,Coke,Beverage,12.7
+44,Pepperoni Pizza,Pizza,8.84
+17,Margherita Pizza,Pizza,7.25
+17,Coke,Beverage,20.66
+33,Margherita Pizza,Pizza,7.57
+29,Paneer Butter Masala,Main Course,23.76
+70,Paneer Butter Masala,Main Course,20.76
+41,Cold Coffee,Beverage,8.36
+55,Paneer Butter Masala,Main Course,17.77
+86,Biryani,Main Course,25.14
+36,Paneer Butter Masala,Main Course,25.19
+12,Cheesecake,Dessert,16.74
+89,Mango Shake,Beverage,18.79
+5,Fried Rice,Main Course,8.26
+69,Margherita Pizza,Pizza,24.26
+40,Coke,Beverage,9.87
+39,Mango Shake,Beverage,12.21
+25,Ice Cream,Dessert,28.83
+24,Brownie,Dessert,25.78
+60,Brownie,Dessert,16.07
+79,Veg Burger,Burger,16.28
+3,Cheese Burger,Burger,19.93
+30,Cold Coffee,Beverage,12.53
+85,Biryani,Main Course,27.68
+64,Paneer Burger,Burger,23.89
+74,Lemonade,Beverage,20.65
+33,Biryani,Main Course,28.96
+20,Chicken Burger,Burger,29.71
+57,Brownie,Dessert,27.08
+34,Chicken Burger,Burger,14.53
+82,Biryani,Main Course,11.19
+71,Butter Chicken,Main Course,20.77
+75,Biryani,Main Course,21.46
+38,Farmhouse Pizza,Pizza,26.1
+28,Farmhouse Pizza,Pizza,14.26
+45,Brownie,Dessert,17.32
+93,Paneer Butter Masala,Main Course,29.43
+55,Veg Burger,Burger,8.62
+33,Paneer Butter Masala,Main Course,20.28
+5,Cheesecake,Dessert,12.35
+20,Chicken Burger,Burger,3.69
+82,Paneer Butter Masala,Main Course,13.89
+68,Margherita Pizza,Pizza,22.69
+30,Margherita Pizza,Pizza,28.7
+26,Paneer Burger,Burger,6.39
+80,Lemonade,Beverage,21.79
+99,Cheesecake,Dessert,14.67
+44,Veg Supreme,Pizza,7.86
+25,Veg Supreme,Pizza,6.68
+13,Cheese Burger,Burger,19.5
+97,Chicken Burger,Burger,27.72
+47,Chicken Burger,Burger,17.21
+78,Cheesecake,Dessert,21.29
+93,Lemonade,Beverage,4.9
+82,Biryani,Main Course,27.29
+83,Biryani,Main Course,22.03
+32,Pepperoni Pizza,Pizza,9.0
+9,Veg Burger,Burger,19.7
+74,Lemonade,Beverage,20.15
+74,Paneer Butter Masala,Main Course,19.65
+10,Veg Burger,Burger,21.05
+95,Lemonade,Beverage,22.38
+15,Paneer Burger,Burger,7.86
+6,Cheese Burger,Burger,15.97
+17,Margherita Pizza,Pizza,29.34
+28,Coke,Beverage,23.14
+66,Paneer Burger,Burger,4.61
+95,Paneer Butter Masala,Main Course,3.35
+94,Mango Shake,Beverage,19.47
+69,Fried Rice,Main Course,20.48
+86,Ice Cream,Dessert,24.35
+2,Fried Rice,Main Course,18.66
+60,Fried Rice,Main Course,8.57
+32,Cheesecake,Dessert,8.39
+65,Coke,Beverage,3.22
+51,Brownie,Dessert,13.89
+51,Brownie,Dessert,9.89
+11,Chicken Burger,Burger,16.02
+5,Farmhouse Pizza,Pizza,26.74
+85,Paneer Butter Masala,Main Course,26.69
+83,Butter Chicken,Main Course,19.9
+76,Cold Coffee,Beverage,19.74
+70,Gulab Jamun,Dessert,9.58
+11,Brownie,Dessert,22.36
+1,Ice Cream,Dessert,17.66
+30,Cheese Burger,Burger,9.32
+22,Veg Supreme,Pizza,26.99
+9,Margherita Pizza,Pizza,11.67
+27,Ice Cream,Dessert,21.98
+82,Cold Coffee,Beverage,22.47
+26,Gulab Jamun,Dessert,10.22
+34,Paneer Burger,Burger,17.74
+49,Fried Rice,Main Course,29.42
+94,Butter Chicken,Main Course,21.41
+48,Lemonade,Beverage,24.84
+58,Fried Rice,Main Course,11.86
+65,Paneer Burger,Burger,18.72
+99,Veg Supreme,Pizza,28.69
+66,Butter Chicken,Main Course,28.37
+71,Margherita Pizza,Pizza,22.31
+67,Pepperoni Pizza,Pizza,8.89
+94,Gulab Jamun,Dessert,25.3
+36,Ice Cream,Dessert,9.79
+89,Pepperoni Pizza,Pizza,21.73
+19,Chicken Burger,Burger,22.38
+24,Cold Coffee,Beverage,24.04
+68,Margherita Pizza,Pizza,22.23
+59,Mango Shake,Beverage,26.86
+58,Lemonade,Beverage,13.3
+34,Butter Chicken,Main Course,4.81
+25,Gulab Jamun,Dessert,29.34
+80,Gulab Jamun,Dessert,13.48
+28,Biryani,Main Course,17.13
+36,Brownie,Dessert,17.97
+31,Butter Chicken,Main Course,28.4
+43,Gulab Jamun,Dessert,7.11
+59,Brownie,Dessert,13.66
+37,Brownie,Dessert,26.62
+46,Gulab Jamun,Dessert,20.52
+1,Cheese Burger,Burger,15.62
+20,Cheesecake,Dessert,22.44
+57,Biryani,Main Course,28.76
+79,Cold Coffee,Beverage,24.17
+45,Margherita Pizza,Pizza,27.64
+74,Margherita Pizza,Pizza,6.85
+54,Gulab Jamun,Dessert,9.92
+72,Margherita Pizza,Pizza,20.31
+36,Veg Burger,Burger,14.53
+62,Paneer Butter Masala,Main Course,29.67
+78,Butter Chicken,Main Course,4.44
+96,Mango Shake,Beverage,15.83
+49,Cheese Burger,Burger,20.98
+51,Paneer Butter Masala,Main Course,24.05
+47,Margherita Pizza,Pizza,9.39
+22,Paneer Burger,Burger,15.94
+82,Ice Cream,Dessert,27.63
+57,Veg Supreme,Pizza,25.18
+8,Margherita Pizza,Pizza,17.21
+35,Paneer Butter Masala,Main Course,13.18
+60,Butter Chicken,Main Course,20.62
+61,Farmhouse Pizza,Pizza,15.56
+7,Veg Burger,Burger,4.95
+93,Lemonade,Beverage,26.45
+16,Mango Shake,Beverage,4.05
+80,Gulab Jamun,Dessert,22.88
+58,Fried Rice,Main Course,18.13
+14,Cheesecake,Dessert,21.98
+90,Mango Shake,Beverage,15.47
+87,Cheese Burger,Burger,15.14
+64,Lemonade,Beverage,3.36
+9,Veg Supreme,Pizza,11.99
+46,Butter Chicken,Main Course,3.54
+42,Farmhouse Pizza,Pizza,5.8
+29,Cheese Burger,Burger,9.27
+8,Lemonade,Beverage,24.21
+13,Lemonade,Beverage,7.22
+17,Chicken Burger,Burger,25.39
+95,Chicken Burger,Burger,28.58
+82,Brownie,Dessert,6.23
+84,Veg Supreme,Pizza,28.56
+25,Farmhouse Pizza,Pizza,9.12
+51,Fried Rice,Main Course,22.31
+52,Mango Shake,Beverage,21.01
+65,Butter Chicken,Main Course,11.62
+20,Pepperoni Pizza,Pizza,3.31
+36,Fried Rice,Main Course,11.63
+64,Paneer Burger,Burger,12.07
+35,Chicken Burger,Burger,18.39
+20,Biryani,Main Course,17.35
+2,Coke,Beverage,22.94
+26,Margherita Pizza,Pizza,29.44
+88,Margherita Pizza,Pizza,26.51
+90,Brownie,Dessert,28.85
+70,Cheesecake,Dessert,14.02
+72,Ice Cream,Dessert,24.5
+58,Paneer Butter Masala,Main Course,11.63
+51,Mango Shake,Beverage,4.77
+66,Fried Rice,Main Course,22.59
+72,Margherita Pizza,Pizza,17.32
+98,Butter Chicken,Main Course,10.8
+77,Gulab Jamun,Dessert,21.57
+50,Chicken Burger,Burger,10.62
+36,Farmhouse Pizza,Pizza,28.88
+39,Ice Cream,Dessert,20.28
+22,Pepperoni Pizza,Pizza,18.73
+42,Ice Cream,Dessert,11.56
+27,Veg Burger,Burger,23.89
+21,Ice Cream,Dessert,12.6
+18,Farmhouse Pizza,Pizza,16.08
+77,Chicken Burger,Burger,12.33
+50,Lemonade,Beverage,25.36
+72,Ice Cream,Dessert,24.44
+33,Cold Coffee,Beverage,16.44
+15,Coke,Beverage,11.18
+94,Cold Coffee,Beverage,26.68
+15,Gulab Jamun,Dessert,7.21
+8,Fried Rice,Main Course,9.95
+19,Gulab Jamun,Dessert,10.02
+94,Lemonade,Beverage,11.45
+13,Paneer Butter Masala,Main Course,25.84
+100,Gulab Jamun,Dessert,15.74
+60,Cheesecake,Dessert,25.0
+6,Pepperoni Pizza,Pizza,12.12
+99,Cold Coffee,Beverage,5.43
+68,Farmhouse Pizza,Pizza,7.71
+70,Coke,Beverage,13.48
+33,Mango Shake,Beverage,8.46
+28,Cheese Burger,Burger,4.21
+26,Brownie,Dessert,13.99
+46,Veg Burger,Burger,24.4
+32,Fried Rice,Main Course,7.11
+91,Cheese Burger,Burger,10.22
+5,Ice Cream,Dessert,9.63
+39,Fried Rice,Main Course,27.1
+66,Pepperoni Pizza,Pizza,9.29
+69,Pepperoni Pizza,Pizza,23.08
+85,Biryani,Main Course,12.74
+4,Biryani,Main Course,25.52
+7,Paneer Butter Masala,Main Course,24.6
+33,Mango Shake,Beverage,6.57
+86,Gulab Jamun,Dessert,25.0
+38,Veg Burger,Burger,18.47
+44,Fried Rice,Main Course,3.16
+93,Ice Cream,Dessert,16.65
+90,Fried Rice,Main Course,26.95
+19,Veg Supreme,Pizza,15.11
+62,Mango Shake,Beverage,29.47
+99,Gulab Jamun,Dessert,20.95
+72,Cold Coffee,Beverage,10.17
+95,Cold Coffee,Beverage,24.88
+25,Gulab Jamun,Dessert,23.14
+90,Veg Burger,Burger,4.73
+28,Veg Supreme,Pizza,14.91
+95,Veg Supreme,Pizza,16.09
+69,Cheesecake,Dessert,27.33
+79,Fried Rice,Main Course,17.08
+44,Paneer Burger,Burger,20.37
+27,Lemonade,Beverage,21.29
+61,Farmhouse Pizza,Pizza,14.71
+81,Farmhouse Pizza,Pizza,6.06
+91,Cheesecake,Dessert,16.94
+35,Cheesecake,Dessert,22.89
+82,Fried Rice,Main Course,25.5
+88,Farmhouse Pizza,Pizza,24.5
+44,Lemonade,Beverage,15.79
+94,Veg Burger,Burger,29.08
+8,Mango Shake,Beverage,28.01
+50,Cheesecake,Dessert,29.24
+50,Biryani,Main Course,12.03
+82,Ice Cream,Dessert,5.03
+18,Veg Supreme,Pizza,6.27
+94,Ice Cream,Dessert,6.94
+79,Farmhouse Pizza,Pizza,25.6
+39,Veg Supreme,Pizza,25.98
+5,Chicken Burger,Burger,29.91
+68,Farmhouse Pizza,Pizza,6.78
+20,Chicken Burger,Burger,22.12
+57,Cold Coffee,Beverage,3.71
+30,Fried Rice,Main Course,9.11
+28,Paneer Burger,Burger,18.87
+82,Margherita Pizza,Pizza,18.32
+36,Paneer Butter Masala,Main Course,14.12
+90,Veg Supreme,Pizza,24.55
+21,Lemonade,Beverage,21.88
+6,Margherita Pizza,Pizza,23.81
+21,Gulab Jamun,Dessert,8.91
+100,Margherita Pizza,Pizza,4.15
+89,Ice Cream,Dessert,5.36
+78,Paneer Burger,Burger,20.63
+69,Cold Coffee,Beverage,3.1
+41,Coke,Beverage,28.88
+42,Biryani,Main Course,19.57
+84,Mango Shake,Beverage,19.94
+4,Butter Chicken,Main Course,21.67
+7,Cheesecake,Dessert,24.96
+78,Pepperoni Pizza,Pizza,5.81
+90,Paneer Butter Masala,Main Course,21.64
+65,Veg Supreme,Pizza,3.21
+66,Paneer Burger,Burger,7.13
+4,Veg Supreme,Pizza,18.02
+89,Gulab Jamun,Dessert,19.54
+91,Ice Cream,Dessert,18.75
+49,Veg Supreme,Pizza,20.56
+60,Fried Rice,Main Course,23.72
+66,Paneer Butter Masala,Main Course,4.92
+81,Paneer Butter Masala,Main Course,19.12
+93,Lemonade,Beverage,26.46
+75,Pepperoni Pizza,Pizza,14.8
+66,Gulab Jamun,Dessert,10.96
+82,Brownie,Dessert,19.96
+51,Cold Coffee,Beverage,24.16
+57,Cold Coffee,Beverage,21.35
+58,Cheese Burger,Burger,27.2
+9,Mango Shake,Beverage,28.44
+92,Farmhouse Pizza,Pizza,21.21
+67,Coke,Beverage,21.63
+12,Cold Coffee,Beverage,8.15
+71,Mango Shake,Beverage,26.44
+40,Fried Rice,Main Course,26.72
+31,Pepperoni Pizza,Pizza,22.53
+61,Butter Chicken,Main Course,29.92
+32,Ice Cream,Dessert,26.01
+50,Chicken Burger,Burger,26.16
+74,Coke,Beverage,17.49
+38,Biryani,Main Course,20.5
+9,Lemonade,Beverage,10.63
+87,Mango Shake,Beverage,14.42
+79,Gulab Jamun,Dessert,11.1
+71,Lemonade,Beverage,28.85
+45,Mango Shake,Beverage,26.15
+24,Pepperoni Pizza,Pizza,4.73
+48,Coke,Beverage,4.35
+62,Margherita Pizza,Pizza,18.91
+53,Chicken Burger,Burger,22.66
+80,Brownie,Dessert,9.96
+38,Paneer Burger,Burger,23.4
+53,Fried Rice,Main Course,28.49
+70,Cheese Burger,Burger,27.32
+14,Chicken Burger,Burger,9.61
+99,Ice Cream,Dessert,21.04
+80,Lemonade,Beverage,12.9
+94,Paneer Butter Masala,Main Course,12.98
+79,Lemonade,Beverage,20.41
+97,Coke,Beverage,20.02
+76,Biryani,Main Course,6.17
+37,Paneer Burger,Burger,12.58
+46,Cheese Burger,Burger,12.23
+81,Butter Chicken,Main Course,5.25
+16,Butter Chicken,Main Course,7.94
+24,Cheesecake,Dessert,8.02
+16,Veg Supreme,Pizza,3.04
+4,Veg Burger,Burger,29.74
+1,Gulab Jamun,Dessert,22.89
+19,Cold Coffee,Beverage,12.48
+9,Fried Rice,Main Course,10.34
+53,Brownie,Dessert,9.64
+17,Pepperoni Pizza,Pizza,28.35
+35,Ice Cream,Dessert,12.39
+58,Paneer Burger,Burger,18.66
+72,Butter Chicken,Main Course,26.04
+69,Coke,Beverage,8.3
+58,Paneer Butter Masala,Main Course,11.36
+4,Paneer Butter Masala,Main Course,21.41
+32,Lemonade,Beverage,14.0
+51,Veg Burger,Burger,23.15
+94,Brownie,Dessert,11.55
+33,Chicken Burger,Burger,28.81
+82,Paneer Burger,Burger,21.16
+13,Veg Supreme,Pizza,18.88
+94,Veg Supreme,Pizza,25.98
+57,Paneer Butter Masala,Main Course,12.5
+71,Paneer Burger,Burger,9.79
+48,Brownie,Dessert,6.25
+95,Gulab Jamun,Dessert,24.01
+9,Veg Supreme,Pizza,27.12
+13,Brownie,Dessert,18.52
+17,Butter Chicken,Main Course,13.53
+47,Brownie,Dessert,24.21
+83,Biryani,Main Course,8.01
+27,Pepperoni Pizza,Pizza,12.17
+42,Farmhouse Pizza,Pizza,8.77
+91,Chicken Burger,Burger,24.29
+80,Cheesecake,Dessert,9.93
+8,Coke,Beverage,17.7
+3,Paneer Burger,Burger,12.55
+41,Coke,Beverage,14.34
+36,Veg Burger,Burger,7.16
+13,Farmhouse Pizza,Pizza,18.7
+14,Brownie,Dessert,20.38
+74,Cheesecake,Dessert,5.01
+30,Chicken Burger,Burger,3.41
+11,Margherita Pizza,Pizza,22.94
+56,Ice Cream,Dessert,19.69
+72,Paneer Butter Masala,Main Course,4.18
+23,Cheese Burger,Burger,19.98
+29,Pepperoni Pizza,Pizza,16.78
+91,Pepperoni Pizza,Pizza,12.21
+69,Margherita Pizza,Pizza,3.91
+18,Farmhouse Pizza,Pizza,16.36
+69,Cheesecake,Dessert,24.51
+58,Butter Chicken,Main Course,14.99
+21,Fried Rice,Main Course,3.66
+9,Pepperoni Pizza,Pizza,12.7
+17,Fried Rice,Main Course,14.94
+54,Ice Cream,Dessert,28.02
+34,Farmhouse Pizza,Pizza,9.71
+29,Biryani,Main Course,21.56
+29,Fried Rice,Main Course,29.48
+73,Paneer Butter Masala,Main Course,16.4
+11,Veg Supreme,Pizza,15.06
+95,Paneer Butter Masala,Main Course,12.86
+28,Fried Rice,Main Course,20.11
+61,Coke,Beverage,5.5
+38,Fried Rice,Main Course,10.56
+73,Cheesecake,Dessert,8.25
+43,Pepperoni Pizza,Pizza,24.71
+23,Cheese Burger,Burger,21.17
+3,Paneer Burger,Burger,4.79
+29,Chicken Burger,Burger,29.53
+98,Cheesecake,Dessert,9.18
+3,Chicken Burger,Burger,22.78
+49,Lemonade,Beverage,6.02
+96,Ice Cream,Dessert,15.14
+45,Biryani,Main Course,7.16
+92,Biryani,Main Course,25.92
+27,Fried Rice,Main Course,14.77
+52,Coke,Beverage,10.84
+98,Coke,Beverage,19.97
+9,Chicken Burger,Burger,18.49
+25,Paneer Burger,Burger,29.33
+61,Biryani,Main Course,22.56
+69,Brownie,Dessert,8.35
+73,Brownie,Dessert,15.78
+83,Biryani,Main Course,26.37
+27,Fried Rice,Main Course,17.27
+25,Fried Rice,Main Course,27.15
+6,Paneer Butter Masala,Main Course,14.22
+66,Farmhouse Pizza,Pizza,28.06
+70,Chicken Burger,Burger,17.58
+52,Paneer Butter Masala,Main Course,6.84
+19,Brownie,Dessert,17.56
+36,Ice Cream,Dessert,18.66
+92,Ice Cream,Dessert,3.4
+34,Veg Burger,Burger,18.48
+89,Gulab Jamun,Dessert,29.49
+31,Cheesecake,Dessert,22.67
+100,Veg Supreme,Pizza,9.33
+70,Gulab Jamun,Dessert,20.3
+75,Coke,Beverage,10.38
+31,Paneer Burger,Burger,16.0
+8,Mango Shake,Beverage,21.14
+72,Veg Burger,Burger,23.58
+71,Brownie,Dessert,29.3
+58,Butter Chicken,Main Course,18.58
+80,Butter Chicken,Main Course,5.73
+13,Paneer Butter Masala,Main Course,7.33
+58,Margherita Pizza,Pizza,21.13
